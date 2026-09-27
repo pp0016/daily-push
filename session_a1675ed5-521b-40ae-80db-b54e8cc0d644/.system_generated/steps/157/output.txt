@@ -1,0 +1,25 @@
+The search for ""puppeteer" "SVG stroke" "animation" record video github" returned the following summary:
+To record an SVG stroke animation using Puppeteer, you can leverage several open-source tools on GitHub that automate the process of capturing browser frames and encoding them into video files using FFmpeg.
+
+### Recommended GitHub Projects
+Several projects specifically handle the conversion of animated SVGs (including CSS and SMIL animations) into video formats like MP4:
+
+*   **[jcubic/svg-video](https://github.com/jcubic/svg-video):** A robust tool that analyzes your SVG, calculates the animation duration, generates a controlled HTML environment, records the output with Puppeteer, and uses FFmpeg to process it into an MP4 video.
+*   **[freder/svg-animation-to-video](https://github.com/freder/svg-animation-to-video):** A specialized repository focused on rendering animated SVGs to video using Puppeteer and FFmpeg.
+*   **[amirlogic/animated-svg-to-video](https://github.com/amirlogic/animated-svg-to-video):** Another dedicated solution for recording SVG and CSS animations from a webpage into video formats.
+
+### General Approach
+If you prefer to build a custom solution or understand how these tools work, the general process involves:
+
+1.  **Setup HTML/SVG:** Ensure your SVG is embedded in an HTML page where the animation can trigger automatically (e.g., on page load).
+2.  **Puppeteer Recording:**
+    *   Use the `puppeteer-screen-recorder` library or the native Chrome DevTools Protocol (CDP) to capture frames from the browser page.
+    *   Initialize the recorder before the animation starts and stop it once the animation completes.
+3.  **FFmpeg Processing:** Since Puppeteer captures raw frames or high-frequency screenshots, you will need **FFmpeg** installed on your system to encode these frames into a final video file (MP4, WebM, etc.).
+
+### Important Considerations
+*   **Timing:** For deterministic results, avoid relying on real-time animations if possible. Some advanced workflows involve "time virtualization," where you pause the animation and manually advance it frame-by-frame to take screenshots, ensuring every frame is captured correctly regardless of performance.
+*   **SVG Dimensions:** Ensure your SVG has either `width`/`height` attributes or a `viewBox` attribute. Missing dimensions are a common cause of failure in automated recording scripts.
+*   **Dependencies:** Most of these tools require system-level dependencies (like `libgtk-3-0`, `libnss3`, etc.) to run Headless Chrome correctly on Linux environments.
+
+For a step-by-step video guide on the underlying approach of using Puppeteer to convert SMIL or CSS SVG animations into video, you can refer to [this guide on YouTube](https://www.youtube.com/watch?v=SomeVideoID), which covers setting up the rendering script and combining frames into a video.

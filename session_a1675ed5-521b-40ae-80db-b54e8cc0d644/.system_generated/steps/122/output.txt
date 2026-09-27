@@ -1,0 +1,41 @@
+The search for ""whiteboard animation" github cli python OR nodejs "VideoScribe" alternative stars" returned the following summary:
+For those seeking open-source alternatives to **VideoScribe** or looking to build programmatic whiteboard animations using Python or Node.js, several options exist on GitHub.
+
+### **Notable Open-Source Whiteboard Animation Tools**
+*   **[Inkplainer-OS](https://github.com/NadirWeb-App/Inkplainer-OS)**: A browser-based, open-source tool designed specifically as an alternative to VideoScribe and Doodly. It allows you to convert images and text into whiteboard-style explainer videos with multiple animation styles (e.g., hand-drawn reveal, contour, scanner) and exports to MP4/WebM[1][2].
+*   **[OpenDoodler](https://github.com/Rsverma/OpenDoodler)**: A C#/.NET-based desktop application that allows you to compose SVG and text graphics on a canvas, animate them stroke-by-stroke, and export the result as an MP4 video[3][4].
+
+### **Programmatic & AI-Driven Approaches**
+If you prefer a CLI-based or programmatic approach, these projects leverage Python and computer vision:
+*   **[handanim](https://github.com/subroy13/handanim)**: A Python library that enables you to programmatically create whiteboard-style animations. It provides an API to animate hand-drawn diagrams, geometric shapes, and text, with exports to MP4 or SVG[5].
+*   **[whiteboard-animation-engine](https://github.com/haseebuchiha/whiteboard-animation-engine-first-video)**: A Python-based engine that automates the generation of explainer videos. It uses computer vision (SAM, GroundingDINO) to process images and create a "hand-drawn" animation pipeline[6].
+*   **[ai-img2sketch](https://github.com/daslearning-org/ai-img2sketch)**: A Python-based tool (with a Gradio UI) that converts images into whiteboard sketch animations using NumPy and OpenCV, without requiring heavy pre-trained models[7][8].
+
+### **Collaborative/Interactive Whiteboard Projects**
+If your goal is building a real-time whiteboard (rather than an animation generator), many GitHub repositories focus on Node.js and React/Socket.io stacks:
+*   **[cracker0dks/whiteboard](https://github.com/cracker0dks/whiteboard)**: A lightweight, collaborative whiteboard app built with Node.js that supports real-time drawing, image drag-and-drop, and saving boards as JSON or images[9][10].
+*   **[Sync-Canvas-Editor](https://github.com/shahriar-ahmed-seam/Sync-Canvas-Editor)**: A collaborative whiteboard using CRDTs (Yjs), Next.js, and Node.js WebSockets for conflict-free real-time interaction[11][12].
+
+### **Summary of Options**
+| Category | Tool/Project | Primary Language | Use Case |
+| :--- | :--- | :--- | :--- |
+| **Animation Generator** | **Inkplainer-OS** | HTML/JS | Direct VideoScribe alternative[1] |
+| **Programmatic** | **handanim** | Python | Scripting whiteboard videos[5] |
+| **Automated** | **whiteboard-animation-engine** | Python | AI-assisted pipeline[6] |
+| **Collaborative** | **cracker0dks/whiteboard** | Node.js | Real-time shared whiteboard[10] |
+
+For most users looking for a **VideoScribe alternative** that works locally without a complex coding setup, **Inkplainer-OS** is the most direct recommendation[1][2]. For developers wanting to build a custom automation pipeline, **handanim** offers the most structured Python API[5].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFthfRs5re4uVTks-KqRLco0wlA6ZngjrsdH5SqmPqcEMRZ1TKlZhIVoYlh8mgx-HHZ72fpQJJA6xsftLQvrQxqqkUrj4jvDNC5nlHVbSdy_QRo3n0cspXTKQeKaSy1SzX3e_M=)
+[2] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlvCxGL2qOOWzhNc4VpdLKRyEStTzVX1l-tIKdTGiRq-yvi_Nzxo0MpmbqkvuzlOfPStL7Hh46_fCtX7Pl_UOhD63CqmcuoTjzAI4DXX7MHM3jvQg8pMf4_yatMsOcKFaUaExtPOHEmczfmBWMm9AUepI6Z9ioVXE_zlsFcs10ow8pnVzXPZsYXP9hBnryEBuznmI9Vex-JHxV9BQ=)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWbceZXC1kroPz2QyRHfJCheOiJB__HdF4ngaZI5AYobMbSWb4S5e61ppWuuEx--cRS6XGTfSiH1HKkDC0htV4XkU98h6QU_P9JOA0RZpzP8yAQA1CN3Na-g6dq1NGtGFAoW78mKgYtIsJfQ==)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmiaohFIa1N6kNnAF4MR2CGjMFkS6AcQxWiEfKD2ctWJw3z5HJugYdFqus6e1q7eUk25gexnKsg4gR0nsq168mL6sOcn984Byd2Cn-SsELSF5iOzPbsOqblI8m3A==)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl5Y6anstO4D42hderWIZI8t3dUKvKQQujwlu16hOxtgBSs6V0YkX4UTfr4bdGZnNBGKj4-8Zyd8jylYamdoZTpSIk2cEX5aiUV5fVD1SJRMylvyZVGAsKRrQ=)
+[6] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTe330KgmKlPvAjKzrb9g2ogl_q35XTfIKVt4R_jaEY0TXpDDHXEzx_vLd8kLMNVRibSZKs3sMOM2n24bQuuWOxiE-FlnvND4j74TSEkHciXLIHnNFt5hnG5g4RXePgL4Da-CN2JZB1yxeLi7-aCsOIECoAbOayfNmWBbZ6w==)
+[7] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC2KevofuyuqPKGSu6SIl4kFkgJvgaMehDyJofDAIGGqVrxuvqUVzw8PgoS8Cq0NLWLa_GRJkVbz3wA9JCv5_wFCtqoDlXLMzxJF5EaZDFNCBWoWosfXnGpU0WPCP6-g8eNLiWqjQ=)
+[8] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC2KevofuyuqPKGSu6SIl4kFkgJvgaMehDyJofDAIGGqVrxuvqUVzw8PgoS8Cq0NLWLa_GRJkVbz3wA9JCv5_wFCtqoDlXLMzxJF5EaZDFNCBWoWosfXnGpU0WPCP6-g8eNLiWqjQ=)
+[9] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_axhPTww1G7Nm_zMv3WPSxegYHNsH7DicgL7nV_odIRKW5TvDkKxgd-Vvn1Jp1sgBaHkzt9SEpUcuaEim0uQZOP6sRd0eszArngMS6nLm0Q4WVG-Y-T8OTbJx7BRjz44=)
+[10] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbvgVCrYOsbCsXo-lGtYyZEyuNd3wuritOFPG4BvK7umzS0koi4Cmt3aPRlOMw5z1y7GbLLtsyT90L2Ukr7aR1c5quADNSSXAOarT8I0U-jOWj-GLpCZMZM1CtkefoNQ==)
+[11] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzcaW-dQwIkcYe-McHQayhgvrASvOFO1vR0benmi4NpUJsw6D0ljNfA-zzoyo6vpyO8CsyLZ0qdyovSdtL8VvlWktzesrEMQKvjm7LujDX-BVJnfgQYm1mro8dWlGB7m63o_wPYdiTgA==)
+[12] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzcaW-dQwIkcYe-McHQayhgvrASvOFO1vR0benmi4NpUJsw6D0ljNfA-zzoyo6vpyO8CsyLZ0qdyovSdtL8VvlWktzesrEMQKvjm7LujDX-BVJnfgQYm1mro8dWlGB7m63o_wPYdiTgA==)

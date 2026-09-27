@@ -1,0 +1,67 @@
+
+The command exited with code 0.
+Output:
+
+Install with npx skills add <owner/repo@skill>
+
+remotion-dev/skills@remotion-best-practices 525.6K installs
+└ https://skills.sh/remotion-dev/skills/remotion-best-practices
+
+heygen-com/hyperframes@remotion-to-hyperframes 282.7K installs
+└ https://skills.sh/heygen-com/hyperframes/remotion-to-hyperframes
+
+remotion-dev/skills@remotion-render 83.1K installs
+└ https://skills.sh/remotion-dev/skills/remotion-render
+
+remotion-dev/skills@remotion-create 82.9K installs
+└ https://skills.sh/remotion-dev/skills/remotion-create
+
+remotion-dev/skills@remotion-captions 80.7K installs
+└ https://skills.sh/remotion-dev/skills/remotion-captions
+
+remotion-dev/skills@remotion-markup 78K installs
+└ https://skills.sh/remotion-dev/skills/remotion-markup
+
+remotion-dev/skills@remotion-upgrade 64.9K installs
+└ https://skills.sh/remotion-dev/skills/remotion-upgrade
+
+remotion-dev/skills@remotion-studio 48K installs
+└ https://skills.sh/remotion-dev/skills/remotion-studio
+
+google-labs-code/stitch-skills@remotion 39.3K installs
+└ https://skills.sh/google-labs-code/stitch-skills/remotion
+
+remotion-dev/skills@mediabunny 20.9K installs
+└ https://skills.sh/remotion-dev/skills/mediabunny
+
+affaan-m/ecc@remotion-video-creation 8.1K installs
+└ https://skills.sh/affaan-m/ecc/remotion-video-creation
+
+remotion-dev/remotion@web-renderer-test 2.5K installs
+└ https://skills.sh/remotion-dev/remotion/web-renderer-test
+
+remotion-dev/remotion@writing-docs 2.4K installs
+└ https://skills.sh/remotion-dev/remotion/writing-docs
+
+remotion-dev/remotion@video-report 2.4K installs
+└ https://skills.sh/remotion-dev/remotion/video-report
+
+remotion-dev/remotion@add-sfx 2.2K installs
+└ https://skills.sh/remotion-dev/remotion/add-sfx
+
+remotion-dev/remotion@docs-demo 2.2K installs
+└ https://skills.sh/remotion-dev/remotion/docs-demo
+
+vercel-labs/json-render@remotion 1.4K installs
+└ https://skills.sh/vercel-labs/json-render/remotion
+
+vercel-labs/json-render@remotion-best-practices 1.3K installs
+└ https://skills.sh/vercel-labs/json-render/remotion-best-practices
+
+vercel-labs/skill-remotion-geist@create-remotion-geist 465 installs
+└ https://skills.sh/vercel-labs/skill-remotion-geist/create-remotion-geist
+
+vercel-labs/json-render@json-render-remotion 161 installs
+└ https://skills.sh/vercel-labs/json-render/json-render-remotion
+
+

@@ -1,0 +1,68 @@
+
+The command exited with code 0.
+Output:
+npm warn exec The following package was not found and will be installed: skills@1.5.26
+
+Install with npx skills add <owner/repo@skill>
+
+genmedia-labs/skills@video-edit 503.1K installs
+└ https://skills.sh/genmedia-labs/skills/video-edit
+
+genmedia-labs/skills@ai-video-generation 502.1K installs
+└ https://skills.sh/genmedia-labs/skills/ai-video-generation
+
+genmedia-labs/skills@image-to-video 501.9K installs
+└ https://skills.sh/genmedia-labs/skills/image-to-video
+
+prime-skills/runcomfy-agent-skills@video-edit 420.1K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/video-edit
+
+prime-skills/runcomfy-agent-skills@image-to-video 418.5K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/image-to-video
+
+prime-skills/runcomfy-agent-skills@ai-video-generation 363.4K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/ai-video-generation
+
+prime-skills/runcomfy-agent-skills@ai-avatar-video 360.5K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/ai-avatar-video
+
+prime-skills/runcomfy-agent-skills@video-inpainting 358.7K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/video-inpainting
+
+prime-skills/runcomfy-agent-skills@video-extend 357.6K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/video-extend
+
+prime-skills/runcomfy-agent-skills@video-outpainting 357.1K installs
+└ https://skills.sh/prime-skills/runcomfy-agent-skills/video-outpainting
+
+heygen-com/hyperframes@general-video 275.9K installs
+└ https://skills.sh/heygen-com/hyperframes/general-video
+
+heygen-com/hyperframes@product-launch-video 247.3K installs
+└ https://skills.sh/heygen-com/hyperframes/product-launch-video
+
+heygen-com/hyperframes@pr-to-video 216.7K installs
+└ https://skills.sh/heygen-com/hyperframes/pr-to-video
+
+heygen-com/hyperframes@music-to-video 195.5K installs
+└ https://skills.sh/heygen-com/hyperframes/music-to-video
+
+genmedia-labs/skills@wan-3-0-prime-reference-to-video 169.2K installs
+└ https://skills.sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video
+
+genmedia-labs/skills@seedance-2-5-image-to-video 168.7K installs
+└ https://skills.sh/genmedia-labs/skills/seedance-2-5-image-to-video
+
+genmedia-labs/skills@seedance-2-5-reference-to-video 168.5K installs
+└ https://skills.sh/genmedia-labs/skills/seedance-2-5-reference-to-video
+
+heygen-com/hyperframes@website-to-video 105.4K installs
+└ https://skills.sh/heygen-com/hyperframes/website-to-video
+
+101-skills/superpowers@ai-video-generation 97.9K installs
+└ https://skills.sh/101-skills/superpowers/ai-video-generation
+
+coreyhaines31/marketingskills@video 69.2K installs
+└ https://skills.sh/coreyhaines31/marketingskills/video
+
+

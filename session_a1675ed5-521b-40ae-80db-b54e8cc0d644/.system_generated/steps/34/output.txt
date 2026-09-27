@@ -1,0 +1,75 @@
+
+The command exited with code 0.
+Output:
+[16952] Using callback port derived from the server URL: 28085
+[16952] Discovering OAuth server configuration...
+[16952] Discovered authorization server: https://prod.dashboard.nexlev.io
+[16952] [16952] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[16952] Using transport strategy: http-first
+[16952] Connected to remote server using StreamableHTTPClientTransport
+[16952] Local STDIO server running
+[16952] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[16952] Press Ctrl+C to exit
+[16952] [Local→Remote] initialize
+[16952] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.14.2)",
+      "version": "0.1.0"
+    }
+  }
+}
+[16952] [Remote→Local] 0
+[16952] [Local→Remote] notifications/initialized
+[16952] [Local→Remote] tools/call
+[16952] [Remote→Local] 1
+[16952] [Local→Remote] tools/list
+[16952] [Remote→Local] 2
+[16952] 
+Shutting down...
+{
+  "channelId": "UC6WzPg6yxF9dQx2_O6R4lww",
+  "channelType": "LONG_ONLY",
+  "demographics": {
+    "gender": {
+      "male": 91.6,
+      "female": 7.7,
+      "user_specified": 0.8
+    },
+    "age": {
+      "13_17_years": 1.6,
+      "18_24_years": 31.7,
+      "25_34_years": 41.1,
+      "35_44_years": 15.2,
+      "45_54_years": 6.5,
+      "55_64_years": 2.3,
+      "65_plus_years": 1.6
+    },
+    "viewership_country": {
+      "United States": 44.5,
+      "Canada": 16.2,
+      "United Kingdom": 15.3,
+      "United Arab Emirates": 12.3,
+      "Australia": 11.7
+    }
+  },
+  "revenue": {
+    "month_revenue": 98689,
+    "month_long_revenue": 99254,
+    "month_short_revenue": 0,
+    "short_view_count": 0,
+    "long_view_count": 28876834,
+    "channel_category_rpm": 4,
+    "channel_long_rpm": 3.52,
+    "channel_short_rpm": 0.042825,
+    "channel_language_code": "eng",
+    "weighted_avg_duration": 2107.888878410716
+  },
+  "category": "investigative documentaries"
+}
+

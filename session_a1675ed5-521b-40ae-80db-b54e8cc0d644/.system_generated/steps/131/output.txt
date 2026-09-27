@@ -1,0 +1,31 @@
+Task: a1675ed5-521b-40ae-80db-b54e8cc0d644/task-127
+Status: DONE
+Log: C:\Users\renu5\.gemini\antigravity\brain\a1675ed5-521b-40ae-80db-b54e8cc0d644\.system_generated\tasks\task-127.log
+Log output:
+<truncated 41 lines>
+-com/hyperframes@pr-to-video 216.7K installs
+└ https://skills.sh/heygen-com/hyperframes/pr-to-video
+
+heygen-com/hyperframes@music-to-video 195.5K installs
+└ https://skills.sh/heygen-com/hyperframes/music-to-video
+
+genmedia-labs/skills@wan-3-0-prime-reference-to-video 169.2K installs
+└ https://skills.sh/genmedia-labs/skills/wan-3-0-prime-reference-to-video
+
+genmedia-labs/skills@seedance-2-5-image-to-video 168.7K installs
+└ https://skills.sh/genmedia-labs/skills/seedance-2-5-image-to-video
+
+genmedia-labs/skills@seedance-2-5-reference-to-video 168.5K installs
+└ https://skills.sh/genmedia-labs/skills/seedance-2-5-reference-to-video
+
+heygen-com/hyperframes@website-to-video 105.4K installs
+└ https://skills.sh/heygen-com/hyperframes/website-to-video
+
+101-skills/superpowers@ai-video-generation 97.9K installs
+└ https://skills.sh/101-skills/superpowers/ai-video-generation
+
+coreyhaines31/marketingskills@video 69.2K installs
+└ https://skills.sh/coreyhaines31/marketingskills/video
+
+
+Last progress: 3s ago

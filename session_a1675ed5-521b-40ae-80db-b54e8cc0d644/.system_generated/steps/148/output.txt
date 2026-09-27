@@ -1,0 +1,13 @@
+The search for ""AutoEdit/auto-editor" github stars OR "m-bain/whisperX" github stars OR "SYSTRAN/faster-whisper" github stars" returned the following summary:
+As of September 2026, here are the approximate GitHub star counts for the requested repositories:
+
+*   **`m-bain/whisperX`**: ~23,800 stars[1]
+*   **`SYSTRAN/faster-whisper`**: This repository is a highly popular project, though specific, up-to-the-minute public star counts can fluctuate; it remains one of the most widely used implementations for fast Whisper inference[2].
+*   **`AutoEdit/auto-editor`**: The primary repository for the popular auto-editor tool is **`WyattBlue/auto-editor`** (often referred to in the context of the requested name)[3][4]. There are also various smaller projects with similar names (e.g., `SvenPfiffner/AutoEdit` has 3 stars)[5], but the main project is `WyattBlue/auto-editor`[3].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-nWIEJSRlI5vrc-Zq_OpuPiU95W02PRf8Jwp02z_N4H7h4YDKohVMlBW-bwCbhOq4UgfGU3FlB1hYkBL9nMAjt-_pQvcIt3kKxbWU4qGShnScxNAXqzlJz0jjW7y6Lz848NG0WtVRh_0=)
+[2] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq9_hf58TJOP1mQgOW_O8uxyJXt9rVysRjmC7_nDQpQfxunIjh7oD5DM7-btj3pQhxybBZOfPEizC6s9odmhY1wU9wpmaeYdaJOpkGi0erjaD6NIk74iiD_YJtVQMGqQ==)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcGJlPsViViFMMIAFeacUymFPTXKAcQZ94pGGfoSvzbz6z1yH1i1dgw3H6yL1S7--keJQVvim13y_CL4UmJb9GsJkYpRVUuJGEGUNmZEFKkG4v1uOO-GExwUVy_dMG)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECWZ4x8fhZ69iRmCe_rmLiPHcQgAYBLP-ODWY-L9kdNtE5TMrTu60rf0CCwaMAiOqIqjZIZ_fn0FDvtP5i8MC30quK_Do-SbthsZBfhlJFyFwrfjqLCwUfZn03MpGlrx8wi7TdCh8P)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8Gfv_JuNmvBA8QhUV_wBsWOyoWbzwI8yasTj95isJc7cvUnR0-wAE9gBHAKWxedjfaMqQIlHk5kxfprWtqT9n0o3OkylkpEaJz-peOEWG1DvMMNpgLgf9Tzi5FCU)

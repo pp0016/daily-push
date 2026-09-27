@@ -1,0 +1,67 @@
+
+The command exited with code 0.
+Output:
+
+Install with npx skills add <owner/repo@skill>
+
+higgsfield-ai/skills@higgsfield-youtube-thumbnail 53.7K installs
+└ https://skills.sh/higgsfield-ai/skills/higgsfield-youtube-thumbnail
+
+jimliu/baoyu-skills@baoyu-youtube-transcript 20.4K installs
+└ https://skills.sh/jimliu/baoyu-skills/baoyu-youtube-transcript
+
+composiohq/awesome-claude-skills@youtube-downloader 5.4K installs
+└ https://skills.sh/composiohq/awesome-claude-skills/youtube-downloader
+
+claude-office-skills/skills@youtube automation 4.4K installs
+└ https://skills.sh/claude-office-skills/skills/youtube-automation
+
+op7418/youtube-clipper-skill@youtube-clipper 3.8K installs
+└ https://skills.sh/op7418/youtube-clipper-skill/youtube-clipper
+
+intellectronica/agent-skills@youtube-transcript 3.3K installs
+└ https://skills.sh/intellectronica/agent-skills/youtube-transcript
+
+agricidaniel/claude-ads@ads-youtube 3.3K installs
+└ https://skills.sh/agricidaniel/claude-ads/ads-youtube
+
+kostja94/marketing-skills@youtube-seo 2.9K installs
+└ https://skills.sh/kostja94/marketing-skills/youtube-seo
+
+nexu-io/open-design@youtube-clipper 2.4K installs
+└ https://skills.sh/nexu-io/open-design/youtube-clipper
+
+samuraigpt/generative-media-skills@muapi-youtube-shorts 2.4K installs
+└ https://skills.sh/samuraigpt/generative-media-skills/muapi-youtube-shorts
+
+samuraigpt/generative-media-skills@muapi-youtube-thumbnail 2.2K installs
+└ https://skills.sh/samuraigpt/generative-media-skills/muapi-youtube-thumbnail
+
+sickn33/agentic-awesome-skills@youtube-summarizer 2K installs
+└ https://skills.sh/sickn33/agentic-awesome-skills/youtube-summarizer
+
+zeropointrepo/youtube-skills@youtube-full 1.8K installs
+└ https://skills.sh/zeropointrepo/youtube-skills/youtube-full
+
+fetcher-sh/fetcher-skills@youtube-api 1.1K installs
+└ https://skills.sh/fetcher-sh/fetcher-skills/youtube-api
+
+charlie947/social-media-skills@youtube-thumbnail 1.1K installs
+└ https://skills.sh/charlie947/social-media-skills/youtube-thumbnail
+
+shipshitdev/skills@youtube-video-analyst 1.1K installs
+└ https://skills.sh/shipshitdev/skills/youtube-video-analyst
+
+postplusai/postplus-skills@youtube-research 1K installs
+└ https://skills.sh/postplusai/postplus-skills/youtube-research
+
+serpdownloaders/skills@youtube-downloader 1K installs
+└ https://skills.sh/serpdownloaders/skills/youtube-downloader
+
+zeropointrepo/youtube-skills@youtube-search 838 installs
+└ https://skills.sh/zeropointrepo/youtube-skills/youtube-search
+
+agricidaniel/claude-youtube@youtube 422 installs
+└ https://skills.sh/agricidaniel/claude-youtube/youtube
+
+

@@ -1,0 +1,13 @@
+The search for ""NadirWeb-App/Inkplainer-OS" github stars OR "Vincentwei1021/anything2explainer" github stars OR "doakey3/GreaseWriter" github stars" returned the following summary:
+As of September 15, 2026, here are the GitHub star counts for the requested repositories:
+
+*   **`Vincentwei1021/anything2explainer`**: Approximately **1,300 stars**[1]. (The repository has seen rapid growth recently, climbing from 263 stars on September 9[2] to over 1,100 stars by September 11[3] and 1,300+ stars by September 14[1]).
+*   **`NadirWeb-App/Inkplainer-OS`**: Specific star counts for this repository are not explicitly indexed in recent search results, though it is a known project for browser-based whiteboard animation[4].
+*   **`doakey3/GreaseWriter`**: Specific star counts for this repository are not explicitly displayed in recent search results; it is documented as a Blender add-on for auto-animating grease pencil strokes[5].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW-hOCz5roLCyRopeKHqC-3CLuW53RAaLuKEmRE4ZyaRxbmPH6SsDgv2XNfI0Bi8pEu_agAMQAooeEXIyTHCfddgJUzADkWCw6qmCcgfnpY5e7s5FaSoXoge4q-A68r5JL)
+[2] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6gojlhN-qEYLIYpcOpCYo-bGlIHQ_USqoX_vL65gcvAVvzFnln3a8hgGFxS1UAELye9tb4Zyqm1x9tIf8bwF50J_PVsw8sERfKXSrpLzBaPP0a1HgVdfRfjprxYNcAJdKeHZisVK45_uPr5_fOUc17Md26soefCISpVWSEk-l)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiQZ8q6mbzz_j5XFv6zEFdggHVipgvMI13gYmTKNRHfnDy6HxpXcNem6PdEuN0tK3EHdjROnABK8J6VWZOYItnnTrmycoU1nfVXl_f6yjZPmekC5Ez80lURX9tSEaVpQ==)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0KYS1bfWKie9HbDIA3MpZGosiEmDHAf1BkdRWE_Z9oKtIl-U1pN1iksAG2xlqgATnWqPKMkNPPMP-KH7xU7l3hJnwcxggqPT1rinGWcZ0qEaoDxDHB16U1XL4iFgO99Hw8GE=)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa6wDdW3K7vBxBXY2QO9sokrD4PIxoVjmrATZsl83L7e6YAkpMG5SO4mfxUDWHzrBxGLCJu2Z-y1NQVcEUB4pFtQj9jBgjqta_eaI13UqlkzpvYLmJS6M1hMMF2QdM_h2ZdDbHWO2FAmEdJtEOmS8htR0etkb-YZwhTS8ErA==)

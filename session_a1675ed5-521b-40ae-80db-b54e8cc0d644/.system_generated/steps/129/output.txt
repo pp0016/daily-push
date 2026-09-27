@@ -1,0 +1,67 @@
+
+The command exited with code 0.
+Output:
+
+Install with npx skills add <owner/repo@skill>
+
+heygen-com/hyperframes@hyperframes-animation 425.6K installs
+└ https://skills.sh/heygen-com/hyperframes/hyperframes-animation
+
+emilkowalski/skills@review-animations 158.5K installs
+└ https://skills.sh/emilkowalski/skills/review-animations
+
+emilkowalski/skills@animation-vocabulary 146K installs
+└ https://skills.sh/emilkowalski/skills/animation-vocabulary
+
+emilkowalski/skills@improve-animations 130.5K installs
+└ https://skills.sh/emilkowalski/skills/improve-animations
+
+emilkowalski/skills@find-animation-opportunities 117.5K installs
+└ https://skills.sh/emilkowalski/skills/find-animation-opportunities
+
+heygen-com/hyperframes@css-animations 74.4K installs
+└ https://skills.sh/heygen-com/hyperframes/css-animations
+
+madteacher/mad-agents-skills@flutter-animations 15.1K installs
+└ https://skills.sh/madteacher/mad-agents-skills/flutter-animations
+
+cloudai-x/threejs-skills@threejs-animation 14.7K installs
+└ https://skills.sh/cloudai-x/threejs-skills/threejs-animation
+
+mblode/agent-skills@ui-animation 9.2K installs
+└ https://skills.sh/mblode/agent-skills/ui-animation
+
+expo/skills@expo-animation 6.1K installs
+└ https://skills.sh/expo/skills/expo-animation
+
+dpearson2699/swift-ios-skills@swiftui-animation 4.7K installs
+└ https://skills.sh/dpearson2699/swift-ios-skills/swiftui-animation
+
+github/awesome-copilot@gsap-framer-scroll-animation 3.6K installs
+└ https://skills.sh/github/awesome-copilot/gsap-framer-scroll-animation
+
+minimax-ai/minimax-h3@3d-animation-short-generator 2.7K installs
+└ https://skills.sh/minimax-ai/minimax-h3/3d-animation-short-generator
+
+gamedev-skills/awesome-gamedev-agent-skills@godot-animation 2.7K installs
+└ https://skills.sh/gamedev-skills/awesome-gamedev-agent-skills/godot-animation
+
+devmartinese/awwwards-animations-skill@awwwards-animations 2.4K installs
+└ https://skills.sh/devmartinese/awwwards-animations-skill/awwwards-animations
+
+gamedev-skills/awesome-gamedev-agent-skills@unity-animation 2.4K installs
+└ https://skills.sh/gamedev-skills/awesome-gamedev-agent-skills/unity-animation
+
+freshtechbro/claudedesignskills@lottie-animations 2.4K installs
+└ https://skills.sh/freshtechbro/claudedesignskills/lottie-animations
+
+josiahsiegel/claude-plugin-marketplace@tailwindcss-animations 2.3K installs
+└ https://skills.sh/josiahsiegel/claude-plugin-marketplace/tailwindcss-animations
+
+pproenca/dot-skills@emilkowal-animations 2.1K installs
+└ https://skills.sh/pproenca/dot-skills/emilkowal-animations
+
+flutter/agent-plugins@flutter-animation 1.1K installs
+└ https://skills.sh/flutter/agent-plugins/flutter-animation
+
+

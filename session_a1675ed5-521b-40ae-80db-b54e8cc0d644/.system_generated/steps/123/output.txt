@@ -1,0 +1,27 @@
+The search for "github "manim" whiteboard hand draw extension plugin" returned the following summary:
+While there is no single "official" plugin exclusively for whiteboard hand-drawing in Manim, you can achieve this effect using built-in features or dedicated third-party libraries.
+
+### Built-in Manim Capabilities
+Manim (Community Edition) has powerful native animations that simulate hand-drawing without needing extra plugins:
+*   **`Write()`**: This is the standard animation for simulating the hand-writing of text or hand-drawing of shapes/paths. It is designed specifically to make objects appear as if they are being drawn onto the screen[1][2].
+*   **`Create()`**: This animation incrementally reveals a vectorized object (VMobject), which is the foundation for most drawing effects in Manim[1][2].
+*   **`DrawBorderThenFill()`**: This animates the outline of a shape before filling it, which provides a clean, professional drawing effect[1][2].
+
+### Dedicated Libraries
+If you are looking for a specific tool outside of the core library to handle "hand-drawn" (sketchy/human-style) aesthetics, consider:
+*   **[handanim](https://github.com/subroy13/handanim)**: This is a separate Python library specifically designed to create "whiteboard-style, hand-drawn animations." It is built to animate hand-drawn diagrams, handwritten text, and human-style sketching, and it integrates concepts similar to those found in Manim[3].
+
+### Tips for "Hand-Drawn" Styles
+*   **Styling**: Achieving a true "hand-drawn" or "ink-bleed" look usually involves applying specific stroke properties or using custom SVG assets that have a sketchy appearance[4][5].
+*   **Visual Editors**: If you prefer a drag-and-drop interface over writing raw code, projects like **Manim Studio** or **Manim Motion Editor** allow you to visually place objects and animate them, which can make creating complex sequences easier than coding them manually from scratch[6][7].
+*   **Combined Workflow**: Many creators use a hybrid approach, using Manim for the mathematical precision of the animation and overlaying it with custom hand-drawn assets created in tools like Adobe Animate or other vector software[8].
+
+Sources:
+[1] [manim.community](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESK1J4sY4ZoO4h4lycSN7yGP7RnohukSpBk_c0UVw2ljhORwJliCeu3GKR2-xGrmVKR2SMpMEcraFcDkFTPz4_cuRDGy3u1bX_qK4f9f0aKWovv-hy-YvG5Yro3GHhrTkY8qfbmrBzJC6tCX-GA6YBq19m0eVMgI_TUVsEXu6cLX1Opj4=)
+[2] [manim.community](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESK1J4sY4ZoO4h4lycSN7yGP7RnohukSpBk_c0UVw2ljhORwJliCeu3GKR2-xGrmVKR2SMpMEcraFcDkFTPz4_cuRDGy3u1bX_qK4f9f0aKWovv-hy-YvG5Yro3GHhrTkY8qfbmrBzJC6tCX-GA6YBq19m0eVMgI_TUVsEXu6cLX1Opj4=)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFONECZtuS5VtNttLlHt-tGM4fLbK5rXRpWha9x7spRlWbxJLW7fM1EUTSk11zVmoMsgbJYopeSAFKpXEJ64ZR3b5e64OaNkpsA3XzwME7r0QPKQyjeAqnyPn4=)
+[4] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgh9gtFFOGtReqt83PBf5blnZWyWEfPTfnlotDBcEmG4cRYBpg5PT-JUlkRRRW2VUQ9SMRXlosRhg1GD2rv6Z9qp141cwOlRFlBXHOlhvceQTiTX15TIj9RHxU91Sl5TyjiHwNgEao6kbf2sb-SNz9ff5UNcb2iLfN00_pPkEaQSi4k_1w1UE-e9z3Si2063HbIWPYlvY=)
+[5] [wordpress.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6BhjeHxjlgeM9XeZnDH8CUAQjCC_tuHvjBnK7ioN3kucaQIXyKzy8L2Zq_rALNUCXQovdHpx7Cr-CZzgaBRAk5s7zSMtmU-Kg9eNq3QjlKBM5dxwPatS2eo8oktbDYgCCSHjAfDpoHS7Ykg74izlRRxRZqpI1S8FD6Sq0eMc8c31vH6dg1oCfN19w7wThSriztQ==)
+[6] [manimlabs.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC67FiA7ptOptEVrS8Gu38PJX4N-3ZCpBSYMk-pNYyBwX7-Rmi-R1qO4Gxdy4DYCawrfMTW9saXnhwq2yYPEyP9lJHQJDelB4xiWFZ2BYuIQ==)
+[7] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJxhKHXctpKwQrn-iT74AQIdprwV36MKUerkUASnEO6oenEXS8R3jT9o-X3SjYe8B6yuE1i82xeni_tx9i2aBh85vXEHwDaU7T68l2EUjmaKa2apaEj3AsHO7Ot0-BFA==)
+[8] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7m0RjQEZCUeWFMc0-zxAc20g8aHzJUC8SmefzA0YYqzR2frhFBu3KqXA3qQYByWhpn5zzSJqqOzled7qCjqCPfb9gpMBPEkz9HlR7PyVF4HQ3Ftnz6CkyTWYK4-Py_58VQRkCT_DU9gWt9HLZf9uP5arHJDTankAddRcQtjAes6exLR1FIYiiT05tKrGPe4U7WhS3o01Cq5_m3cCfvA==)

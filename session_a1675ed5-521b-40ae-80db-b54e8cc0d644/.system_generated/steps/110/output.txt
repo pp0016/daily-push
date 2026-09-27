@@ -1,0 +1,24 @@
+The search for "github CLI auto video editor silence removal ffmpeg python" returned the following summary:
+To automatically remove silence from videos using Python and FFmpeg, several open-source CLI tools are available on GitHub. These tools typically work by analyzing the audio track for silent segments and then using FFmpeg to trim those sections from the video file.
+
+### Popular GitHub Tools
+*   **[Auto-Editor](https://github.com/AutoEdit/auto-editor):** One of the most popular and robust tools for this purpose. It is a powerful Python-based CLI that can remove silences, adjust speed, and handle complex edits automatically.
+    *   **Installation:** `pip install auto-editor` or via Homebrew.
+    *   **Usage:** `auto-editor your_video.mp4`
+*   **[Mortem Trimmer](https://github.com/fadhiilahahmadzikri/autosilenttrimmer):** A production-grade tool that uses advanced AI models (like Silero VAD and Whisper) to detect speech and remove dead air. It supports noise reduction and GPU acceleration.
+*   **[Jumpcutter](https://github.com/carykh/jumpcutter):** A classic Python script that wraps FFmpeg to automatically cut out silent parts. It is widely cited for its effectiveness in speeding up workflows.
+*   **[Auto-Video-Editor](https://github.com/benpiper/auto-video-editor):** Another versatile project that detects filler words ("um," "uh") in addition to silence. It includes both a CLI and a web interface/REST API for automation.
+
+### How These Tools Work (The Logic)
+If you are interested in building your own script, the underlying process typically follows these steps:
+1.  **Analyze Audio:** Use the FFmpeg `silencedetect` filter to generate a list of timestamps where the audio volume falls below a specific threshold (e.g., `-40dB`) for a minimum duration.
+    ```bash
+    ffmpeg -i input.mp4 -af "silencedetect=n=-40dB:d=1" -f null -
+    ```
+2.  **Process Timestamps:** A Python script parses the output from FFmpeg to identify the "keep" and "cut" segments.
+3.  **Trim and Reassemble:** The script uses `moviepy` (a Python library for video editing) or manual FFmpeg concat commands to stitch the non-silent segments together into a final output file.
+
+### Recommendations
+*   **For General Use:** Start with **[Auto-Editor](https://github.com/AutoEdit/auto-editor)** as it is well-maintained and highly capable for most standard silence-removal tasks.
+*   **For High-Accuracy/AI Needs:** If you have noisy audio and need better detection than basic volume thresholds, look into **[Mortem Trimmer](https://github.com/fadhiilahahmadzikri/autosilenttrimmer)**.
+*   **For Custom Pipelines:** If you prefer to write your own, the most effective approach is to use Python's `subprocess` module to call FFmpeg's `silencedetect` and then `moviepy` to perform the actual cuts.

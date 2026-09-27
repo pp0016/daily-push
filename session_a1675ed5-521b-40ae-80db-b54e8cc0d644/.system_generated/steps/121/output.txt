@@ -1,0 +1,13 @@
+The search for ""whiteboard-video-engine" github stars OR "whiteboard-animator" masihsultani github stars OR "handanim" github stars" returned the following summary:
+Here are the GitHub star counts for the requested repositories as of September 2026:
+
+*   **`gnipbao/whiteboard-video-engine`**: While the main `whiteboard-video-engine` repository serves as the core engine[1][2], its associated skill wrapper, `gnipbao/codex-whiteboard-video-skill`, currently has **307 stars**[3].
+*   **`masihsultani/whiteboard-animator`**: This repository has **37 stars**[4].
+*   **`subroy13/handanim`**: This repository has **48 stars**[5].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw837u1RvNotE3kvaNyShPTk5sMop-H4CwobuYu-P-NnCuQ7gSPx2Gfa6kEotum8Igcs_2S3d5rZ3LRfTP_jZCRNX6GEZ4fA4D0SWDZfxj8NnD9zriYhWlpOQgpylIFQWzvxDdZup_PsQClKUA)
+[2] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw837u1RvNotE3kvaNyShPTk5sMop-H4CwobuYu-P-NnCuQ7gSPx2Gfa6kEotum8Igcs_2S3d5rZ3LRfTP_jZCRNX6GEZ4fA4D0SWDZfxj8NnD9zriYhWlpOQgpylIFQWzvxDdZup_PsQClKUA)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw837u1RvNotE3kvaNyShPTk5sMop-H4CwobuYu-P-NnCuQ7gSPx2Gfa6kEotum8Igcs_2S3d5rZ3LRfTP_jZCRNX6GEZ4fA4D0SWDZfxj8NnD9zriYhWlpOQgpylIFQWzvxDdZup_PsQClKUA)
+[4] [eajk16.icu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSP8_8kSWpUVM61n-5Gnut0DCw8-kqADtsP7_8_69UFoR3IwP4feF53PxiqSSELlRyZq2OcSbGPFPsu6Zrp7UPu3o-OPFWtfCl)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPfWEy2EzrvmzMvRCAFuTGao0lwwS0Toxpb5Z32jhisym7c4_d35edDbs3cudbjBQHeqGXdIj0rsQvkbPieLWSmFzR0Kws9TXGYJTy42TLW-GRRmLes9G1zQyAkjpjKDY=)

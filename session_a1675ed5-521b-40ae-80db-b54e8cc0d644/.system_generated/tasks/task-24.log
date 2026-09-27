@@ -1,0 +1,820 @@
+[19616] Using callback port derived from the server URL: 28085
+[19616] Discovering OAuth server configuration...
+[19616] Discovered authorization server: https://prod.dashboard.nexlev.io
+[19616] [19616] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[19616] Using transport strategy: http-first
+[19616] Refreshed the access token before it expired
+[19616] Connected to remote server using StreamableHTTPClientTransport
+[19616] Local STDIO server running
+[19616] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[19616] Press Ctrl+C to exit
+[19616] [Local→Remote] initialize
+[19616] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.14.2)",
+      "version": "0.1.0"
+    }
+  }
+}
+[19616] [Remote→Local] 0
+[19616] [Local→Remote] notifications/initialized
+[19616] [Local→Remote] tools/call
+[19616] [Remote→Local] 1
+[19616] [Local→Remote] tools/list
+[19616] [Remote→Local] 2
+[19616] 
+Shutting down...
+{
+  "channelId": "UC6WzPg6yxF9dQx2_O6R4lww",
+  "title": "Nitish Rajput",
+  "description": "This channel is dedicated to informing, educating, and empowering people through well-researched, fact-based content.\n\nIn today’s digital age, social media and the Internet have the power to shape narratives. Here, we use that power responsibly to present clear and meaningful information that helps you think critically and form your own opinions.\n\nOur goal is to simplify complex issues, expose important truths, and encourage open conversations about topics that matter, especially those impacting Indian society.\n\nIf you believe in questioning, learning, and staying aware, this channel is for you.\n",
+  "avatar": [
+    {
+      "url": "https://yt3.googleusercontent.com/i4-MMwgecNSAYn2a_7uHH3HnNsl4xOQlM9tRt47CSfYtfV5fqYD1nl49rnuR29jmLNlSUoaCqA=s160-c-k-c0x00ffffff-no-rj",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/i4-MMwgecNSAYn2a_7uHH3HnNsl4xOQlM9tRt47CSfYtfV5fqYD1nl49rnuR29jmLNlSUoaCqA=s120-c-k-c0x00ffffff-no-rj",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/i4-MMwgecNSAYn2a_7uHH3HnNsl4xOQlM9tRt47CSfYtfV5fqYD1nl49rnuR29jmLNlSUoaCqA=s72-c-k-c0x00ffffff-no-rj",
+      "width": 72,
+      "height": 72
+    }
+  ],
+  "metaD": "UC6WzPg6yxF9dQx2_O6R4lww",
+  "banner": [
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2560,
+      "height": 424
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2276,
+      "height": 377
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2120,
+      "height": 351
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1707,
+      "height": 283
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1138,
+      "height": 188
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/QWwL0eIyhmRveCy2EJ4TdOhV3NMo3a1zSpmDaUPauWEdKM6MfA_x_PQ_-PGqIrpf685vuye6iw=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1060,
+      "height": 175
+    }
+  ],
+  "tvBanner": [],
+  "mobileBanner": [],
+  "channelHandle": "@NitishRajput",
+  "subscriberCountText": "8.57M subscribers",
+  "subscriberCount": 8570000,
+  "videosCountText": "118 videos",
+  "videosCount": "118",
+  "keywords": [
+    "nitish",
+    "rajput",
+    "nitish",
+    "hindi",
+    "nitesh",
+    "rajput",
+    "nitesh",
+    "explain"
+  ],
+  "isFamilySafe": true,
+  "isUnlisted": false,
+  "availableCountries": [
+    "AG",
+    "DJ",
+    "TF",
+    "BO",
+    "UZ",
+    "CG",
+    "CK",
+    "CO",
+    "NA",
+    "TN",
+    "BL",
+    "TW",
+    "PW",
+    "AS",
+    "HR",
+    "MG",
+    "NI",
+    "MR",
+    "IR",
+    "RW",
+    "TH",
+    "GP",
+    "IO",
+    "YT",
+    "IM",
+    "CA",
+    "TT",
+    "PY",
+    "KI",
+    "SO",
+    "TM",
+    "BM",
+    "VC",
+    "BH",
+    "HN",
+    "GS",
+    "VI",
+    "PE",
+    "BA",
+    "SD",
+    "SJ",
+    "FO",
+    "GD",
+    "GH",
+    "BR",
+    "KW",
+    "NR",
+    "CY",
+    "HU",
+    "BS",
+    "MT",
+    "ST",
+    "BZ",
+    "DZ",
+    "SX",
+    "TG",
+    "AU",
+    "QA",
+    "TD",
+    "AI",
+    "SS",
+    "LA",
+    "TR",
+    "MK",
+    "MS",
+    "RO",
+    "ML",
+    "MA",
+    "MU",
+    "AR",
+    "KG",
+    "MX",
+    "OM",
+    "KY",
+    "MQ",
+    "HM",
+    "ME",
+    "ID",
+    "LU",
+    "CX",
+    "JE",
+    "SB",
+    "SV",
+    "NO",
+    "GL",
+    "RU",
+    "BD",
+    "KH",
+    "PM",
+    "EH",
+    "LK",
+    "PA",
+    "CR",
+    "UG",
+    "AX",
+    "US",
+    "AD",
+    "CI",
+    "IL",
+    "CW",
+    "GR",
+    "HK",
+    "SN",
+    "MZ",
+    "GT",
+    "SZ",
+    "NC",
+    "VU",
+    "NU",
+    "BQ",
+    "UA",
+    "JP",
+    "PG",
+    "IE",
+    "AW",
+    "AO",
+    "CZ",
+    "MC",
+    "MY",
+    "GG",
+    "PL",
+    "JM",
+    "CN",
+    "VE",
+    "PN",
+    "PR",
+    "SM",
+    "BJ",
+    "DE",
+    "UM",
+    "YE",
+    "GN",
+    "KP",
+    "CM",
+    "BF",
+    "BI",
+    "SI",
+    "NG",
+    "LB",
+    "MD",
+    "RE",
+    "IT",
+    "PF",
+    "AT",
+    "KZ",
+    "LI",
+    "AM",
+    "MM",
+    "FM",
+    "CF",
+    "KN",
+    "IS",
+    "MO",
+    "JO",
+    "TZ",
+    "BG",
+    "FJ",
+    "AQ",
+    "ER",
+    "FI",
+    "BY",
+    "LV",
+    "SL",
+    "TO",
+    "MW",
+    "ZM",
+    "GY",
+    "HT",
+    "MP",
+    "SE",
+    "NL",
+    "SH",
+    "LS",
+    "EE",
+    "BW",
+    "PT",
+    "DO",
+    "FK",
+    "KE",
+    "AZ",
+    "KR",
+    "CC",
+    "AE",
+    "MV",
+    "CV",
+    "GU",
+    "EC",
+    "GQ",
+    "KM",
+    "TC",
+    "GB",
+    "GM",
+    "ET",
+    "UY",
+    "VA",
+    "MF",
+    "LR",
+    "ES",
+    "MH",
+    "TK",
+    "BB",
+    "GF",
+    "NE",
+    "IN",
+    "SC",
+    "IQ",
+    "NP",
+    "TJ",
+    "BN",
+    "BE",
+    "PH",
+    "BV",
+    "RS",
+    "SK",
+    "BT",
+    "WF",
+    "CH",
+    "GE",
+    "GI",
+    "MN",
+    "NZ",
+    "AL",
+    "TL",
+    "WS",
+    "SR",
+    "VG",
+    "ZW",
+    "LY",
+    "SA",
+    "VN",
+    "CU",
+    "DK",
+    "PS",
+    "LC",
+    "AF",
+    "CL",
+    "GW",
+    "NF",
+    "ZA",
+    "EG",
+    "FR",
+    "LT",
+    "SG",
+    "TV",
+    "SY",
+    "DM",
+    "GA",
+    "CD"
+  ],
+  "tabs": [
+    "Home",
+    "Videos",
+    "Podcasts",
+    "Playlists",
+    "Posts"
+  ],
+  "country": "India",
+  "viewCountText": "1,048,715,092 views",
+  "viewCount": "1048715092",
+  "joinedDateText": "Joined Apr 29, 2020",
+  "joinedDate": "2020-04-29",
+  "links": [
+    {
+      "title": "Whatsapp",
+      "link": "whatsapp.com/channel/0029Va9X0kPLNSa2UqXdtM1D",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSHZYCa6Qak7lGKxuloAkP-neMDbTZnc1HVGF-fJ_M9N14hHUZCUgLeaLnJP1U5sdy1W5xLHvRDBkHZb65KktYCz_Eq7AK0xWbBE5bHNMP8YqHW",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTZGNHAohr4959U5-LjzwYumgCSf46q_tkVgEHH6_clqGyJUzA0n9XHSPzcMpJisZqmxK1sFWtfud9ouO94JVcpPafffwZNkA93GZXsfKAEnNl_",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSrGvv5Xm3ly_mbHPrp_xRn7g4R6UFTDZa_yeMyM1kKUZ7NXmqmemxIlIFIX8B4RcuRUajfV5mfwpMx54FqVmLeNUU89JvuQnzG003nlYLaf1Jx",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSQoATcx_PEyxq6GuRnfHI9dz8upEojga-g3hGSeOa4sp4a4n8XJTQ_pgAVrB1RaK6jbrcbYpJaPKv5ezRmZqUUARiSbrUGrvux3cTeag0JMwI",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSTI7QRBwJ1hgCpNRxQMbmI414iFHZdUUWSFgo9Amjso2p3sTYwvowfL_qaiaryqdBL-sloMmwZ-eaJVjMZy_vPl_RHYgdrnRe4DykkoLLRzXE",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRiAuiIUOAT4Fe6D4LXhyYbVdrgjbJYbnw3qqo4nLSjWYKh6YUIEmGQtHhUwaGe_rmXDXqfjGBmbBw0HMInj-RwFhQLs-fnXam1_0AQRDabXsY",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSLJVu2zT63CBIpl1hU7M9qJ-2faXWM8F82EB_RbjczkP0M22LWxiHNXRe1zLHDeDl5rmEF_FyPw8VXDjcPOatoW_KQZ2y2bIwJOnieH-Vr7TU",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQmDBqAKSjFi4euFo7RY9kZdToGOGb0qq-dvySzkUvKj32q5cJYkd3OVGjVnWYFYXZ_wdQnWtp0hia0vh-p5Z-kNmmGcARpAlDADDtlJ-I7qCQ",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR-iQEH1QtNRxRd04trL0fXsAxiy6EivlWe6rdWoL98LKkJyJvUsK9Vg2nwDXYboXBOs3CgiVND5emE9Aohv5iuvMt_kbK_j_-pRzwkfmzjVHo",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQklMjKnoVMkhzhwKOFWXu8nrkvplgQWSH1kK-1WAf6rpeobzpbUatDETLXZPv-se1OLCgKXX6siEJ6j5iDJcDrtzhivpOP87xpXl1DmL6GhKc",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Second Channel",
+      "link": "youtube.com/@NitishRajputSnippet",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQeYEn7J_6R4HhkWWEfFuyPIN4Fz9EWNsVKCSiKtM6rSbZqKHYn0KuxjptJmIxZl7ita5EkI9cuETexUPlSl6brI8VE5jqAWA7srAcLl1QpcboEx_70",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTWpG-7KVv4rTjF6NvDiCm6IYxH6Ye_MndNVoQ6PICDpfPfbPgjb3HD9abahrUwwV_wD5oFjdxaRbWchddCSpxgdUUdt6trZbfIbv4TXkpP4pwsbS0q",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRELoD6mOxIwfWGX_oINw_1Sla5T2wM9QR7lnwMC_eM5JVGu0XUxkJkGzcOtqKCYDwIjDQRLfLgV_dFdpxxaZGzZ0YUS9alEqzVDYbtc4yj88cPk8KB",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRWkaZm4SFATrThoHcIEbjkNod9w0wtEceD2y2CT7updp3wKpDpWpoTyhndKu49gRzzIJJR80T_OygsgIKZsrOLSwDUrratDfLhVpP_eX59hpxKL4M",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZFktJQ7FEgRVlbSuaa1asP7-PYreh8SgOHqwUSbvNQftPWbmYjFqQzBTg5IbiFTRONPscrGoHQamkRRCA-pH9oluygYrxjyKrQiZHKB2ZW060914",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTkqbHEhNZwnQSrMwokjIhrt0Znyf5tvA7NvjJhjRD3ciZSWNIhNYDVUZaAdALePpQ6nHQZcciA8m8C3xuM_FVBtRMDNakswvL8Zq07dbyikCXgjTo",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSvLexm8CmfHe1mWIhDwUpNa8k4W7FcoaDZ06FA3L8eynFgpea0H8hnnXafsIzd3SSOVPaZrVIXgA0JtmGGApMNR2IWHH5CoLpYEwsNBlJefu9T8q8",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQK5VoWBWTP7Ca7anSCgAxMQf1k1TanOES5v9d-Cvsi9IgVh1v8PELi_eaSU-gpcfF4RHtEteDc0sD6AznYZ_vg3GtGigex4dpmwp39A6Tpz34UyAg",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR3bOXx13RY_obv-voM2TlthNpZMagIsgiu8wV9zd57RK5F8fQRcX8ZEWdYeqOhdF9-f-phFxphm8gcg6O-DjRJTkWxXlK8N7CTfLdOA5lD_ThPvP4",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRY4no9kYJtEAHXBEY2GDprV__HH1zc94olyS6G6fT5isS71bPyqvIi7-9VE1MMy3_3vsNOQLAerwcSQqGNyADWfxKpd2hLc8HuacZdgEjgZc_WLN8",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Short Channel",
+      "link": "youtube.com/channel/UC8M1gILoZ9OrooSiOXxCWXA",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQeYEn7J_6R4HhkWWEfFuyPIN4Fz9EWNsVKCSiKtM6rSbZqKHYn0KuxjptJmIxZl7ita5EkI9cuETexUPlSl6brI8VE5jqAWA7srAcLl1QpcboEx_70",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTWpG-7KVv4rTjF6NvDiCm6IYxH6Ye_MndNVoQ6PICDpfPfbPgjb3HD9abahrUwwV_wD5oFjdxaRbWchddCSpxgdUUdt6trZbfIbv4TXkpP4pwsbS0q",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRELoD6mOxIwfWGX_oINw_1Sla5T2wM9QR7lnwMC_eM5JVGu0XUxkJkGzcOtqKCYDwIjDQRLfLgV_dFdpxxaZGzZ0YUS9alEqzVDYbtc4yj88cPk8KB",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRWkaZm4SFATrThoHcIEbjkNod9w0wtEceD2y2CT7updp3wKpDpWpoTyhndKu49gRzzIJJR80T_OygsgIKZsrOLSwDUrratDfLhVpP_eX59hpxKL4M",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSZFktJQ7FEgRVlbSuaa1asP7-PYreh8SgOHqwUSbvNQftPWbmYjFqQzBTg5IbiFTRONPscrGoHQamkRRCA-pH9oluygYrxjyKrQiZHKB2ZW060914",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTkqbHEhNZwnQSrMwokjIhrt0Znyf5tvA7NvjJhjRD3ciZSWNIhNYDVUZaAdALePpQ6nHQZcciA8m8C3xuM_FVBtRMDNakswvL8Zq07dbyikCXgjTo",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSvLexm8CmfHe1mWIhDwUpNa8k4W7FcoaDZ06FA3L8eynFgpea0H8hnnXafsIzd3SSOVPaZrVIXgA0JtmGGApMNR2IWHH5CoLpYEwsNBlJefu9T8q8",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQK5VoWBWTP7Ca7anSCgAxMQf1k1TanOES5v9d-Cvsi9IgVh1v8PELi_eaSU-gpcfF4RHtEteDc0sD6AznYZ_vg3GtGigex4dpmwp39A6Tpz34UyAg",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR3bOXx13RY_obv-voM2TlthNpZMagIsgiu8wV9zd57RK5F8fQRcX8ZEWdYeqOhdF9-f-phFxphm8gcg6O-DjRJTkWxXlK8N7CTfLdOA5lD_ThPvP4",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRY4no9kYJtEAHXBEY2GDprV__HH1zc94olyS6G6fT5isS71bPyqvIi7-9VE1MMy3_3vsNOQLAerwcSQqGNyADWfxKpd2hLc8HuacZdgEjgZc_WLN8",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Instagram",
+      "link": "instagram.com/nitishrajpute",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRMnk5lytM1g9HJQSf7bM5Xfi4yFD5Vyri4jzLc1D4JUjmBYMab9mUK04YRfRwyHmDMutbz5OgS4cg_9Z2lEmyotPVb3TDyE7YkLlpC2ywK7bDnmpmQTRw",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkINqbo82T1cgBnz-VGKBEoJa5tQD1diIUOZf2pl7p0nLYa3qlgnPXUeGwFNU8-El3YnYg9s6xeqqBtrOGBIVRweP-BLTrMGe7FahdVTOaqEdwCwqZteg",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSRJq-gVmK6yOLCGwtrodHEQYTNRSruRrJmM1scx50X9XzjSHrUqo59LQN9VnVGA1ofDs6YoiHSIaIDbB6vVs9ncfT7rzMsiQf9BOzFu5IMe0Uu5ZkeqL8",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQAvxbIjNz253fBLSmkpLq2bO-583cKsl7RkQaKEyo8BPLR9Q5Qoa0mTvoTABEVktDc6DLw0VcX4Qb82mqZhFgCbyUgV9Ab-f0RFOgvaeQl7inOSfoYfg",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSFSQsKHXrO5erkzaT2KvuVhN0LpXbPxo4ITKyKnQPSmHOLBkDR8KE0mdsMnLBztoNFQ0MGg9k6cUXhtZ_NY0Y06Mf1ywHug6oQEJlqr2uEyy6xlMLBVA",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQbTG5M4X0YjLq8kiotXH-dm7lV8FQiy_AcEvfMus3rOAW1C3-GpKJ0jH21fBy6_fVG049HuigmOXlF5dvCjABVv788qacJpWHL6XQI6jnAESfCfD5jvw",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQqzHpvesYBsmdBWDYRugCp85G91_-8BqpRJCqkxzl3sWgZa49u-jBCd5bzJhXJYOZjTQYo5t8mhvsLis-Syy1nIqFtNrFoovCj3bE34cmrKiRjMopfxQ",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSWlv5P_cZjL7BphqIddo1r9qha-mEeR_IrjurxF2rEX92_l8yP2L39z9A5Jz1vDA2t2bGvK7gan4DQhBGo42UC0eOq504-dvGEAXDsbkJix84htkBwug",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTH22r6JfLoEVSgX7gIeBTsmmcp7AsEm8At_mnY9_tLW9u124DyV4paGEu-QpXmBXqIPcMSTlv8F5UB5GjedwV6-DWtz_zxEicpcXo-pYZ0TEWaecy4uQ",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSfLSwm05yS0BK4Kb28e-NTcQAsNLQfDCkRW2BwGzQ_4QLgT3HvRwy5O9kLRnUU-QhzvJantOSGhq8NOQp7EHd_WEvUNR6WW1Pp0THXuSRzNiJgToeoCA",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Facebook",
+      "link": "facebook.com/nitishrajpute",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQj6tFbIEZH6KkBEISjsbAGeqJk0h4_TtuseJEKTDKFj7cLXn9N9V5qe-N5r9QRJS0QYLqPUe6U800spJjOLJCjn8qQE-tbQGPjTE2PNKmCkI_gtwN2Aw",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ2Dxw7PJtky1ucXkCDE35DwEOEvblstFhbVks-obptBonzCyKT4QJoQp7pVuq7FrpghWg6nAkVcTZpcsVHsoPYySoOe7oS0f9sFmJqgZENJMIBbae5Yg",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRgZvjE7rtHwqLbIvHeVKV9QUlqUibPaTvjstwjGu_-qsTHiK_44DBO2sp1V6JahsUdtXTlFYEJCH6jRzqEPWfozTGtATJ6qPLRmb12LilM6Au2UpygCw",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTYPZHPqlUdxtnTDIpO-KQyW3jnru1Yuhy567gZkqwmSkzHyvGpHPT5eTihY-DJ2sBtFDJCCiHIRuwRU4WgqAjLuSQyB48TKNt5pTi1kYmCovZibwll",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRyh91gHMPzLIJi1-OTM4k66SQZFiX4VcUrtdQtXBqCBFnhH2FE2Acb5eakTbyinsiAEeP6LiZ8PUzBWEX7xgFd-zKcy33BfZ95m6eUZYQY181-CeQE",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSrMdlGRGCdU2rgzX6rxf2RTGh9nNFKVl1hRLhTEwz94EnOUxKGBLlMKLNoj_k5uYluxdkuDBGK8vaYMkBl1wOTsIyW8-0-Yg9NUuzrS67aedf9ycdG",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcS10Cr8iHSK1a0qx8-9odz5522h9CMmhhf_EwgJepaHBw3ehlRUpDGVFOyxKaxzr7O5nXrl29oSSE5MpEF4y9qMju_rxPsVeZ-jW_6SOODk_3SPfJoH",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQtPxG-b3azLNNqSmjBWUiAkJC0CO9VYuddIiaMt1yuNkxz7qTiozdFGe9QfHcbgSQoAVd62MlrWMERaer0YKP2mlYFHVGSN86iSpYsShhmp5KnLmeV",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcR0ylMkfr9JPEbAzxpv2k9ZFFIl6h9VP1z48xx-Ah-dPUOsxyBR21grouv_OcB3VGHkkOytB0Z9mmY9ehoP94MLky8vRLJhX5WxlpzbIBa9u3XpmRaO",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSxUwGjsJZApoUKonOfNzxpFkEMyf29jwvspkLH1CA-JP5Nx06tcApyuGcjdsPZWzHuoyTRot1jS2gOtE_pzWKSSaJg0t0MtrRw6u7ZcItl78fGxuhb",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Twitter",
+      "link": "twitter.com/nitishrajpute",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR7q2fytXyQw1wkPBPrICHHjLvxWloPZ_FdHfbR2zGpa99E9USylFLC_kDnQZLg3VVWxgyroOpElcixupmf3lhA9h_npVzfaX-4a8C34EDX4VQ",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTHGBrk5wv7UhZ8YJ4_RBEH6bTASTS8u3FK2onEHg8W7sb1JZmayr8dytVnhe0S2Mfv13GVycLKr9ZFylvFFsv4Ox8DhpeyTQ3Nddb2ZoIOeuw",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRHUUfoY9S5u8I-Zcbi8Z0YDioE9tRuDs_w8n_7UpP2dh9MwPW3iljT32pwiL9EJeIxpc9lMo4FcCardeOLrCv1pYCU8UbWd3niehpIjL1n02o",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT7N6wkJMhMefGtafjpfjsJTfv2l1sqUMHme_PC3BbMnriNs43LybIo0G8ddaIBMeVUyp5c4dc1zwtEm-KkO315L5j5sfzIXAhTBtZ9oGuCMQ",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ5BAMfEEdZKXdGfKwvY9KK8qk5T3YCOYT6HG8jKzDhDCHwfUUKF4GZ5VPsSwDMrHJPLqBavxsbjklmTvObe0SlbNjU6wNoppJlzl2MnEWiyQ",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSyU1IB78PHIJRuon6HuRyYzyFfL0A2EyBGWXvPCzsnh_i8lOyYOJFhlKHMxdjyAoq7fpE1kieP5vnfSjMBahpshejdoZyzMY91EPX3PmDFGw",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSIGOvV0HrRKAe84vUZ6ERueQkPeWvMeXh3GnPbDURoLwDZKgKa8UmHT8gaeKuE-Xc9u9GcWApNuAUb3HMDYQ7VlMk74e03fpyx3clY0_lb0g",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRkDQU2watYGs353QT_No2qYzncfVHjE-4tKAfFjB0eA2F_QWpKSTSNj95WSz14JJY58Iyd3Ic2wBWtDu4M05RXzHtDv9Y7olwI4_fp8h453Q",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcS6wBfu8pOyHJtJ2WklNquY5xfT8yZKpzvpknHx5PpJw7gIDcnICP3AjNC858v-OjGgJWdKalgsw57EKxjvMofEd6cUg7XoXQ184oPFWRWbsQ",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTCl87OfLKVJ9rK8xDL2fO43Nn-qwO3MZqhD6Va_y_Dj4NQN5vi_7wfFsqVPVk5OJarybTLaqbvqdn3Oj1nmlMBa_srPR9cF0lTX47Loj-ftw",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Telegram",
+      "link": "t.me/nitishrajpute",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRKfa98dI223kbDWkhxLzWuPnq61V9NAUzsbfnoXGdlGDujlgyI7AblrUS9XVHWn8p3awjLsYu7dI1P-jVdZczlqL8xacEgseRz_A",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTtJCdzhPxdgtdbbXwKnMspCwnSplhidqoEZHL2GDh5e3rqNvfTgB756oRZn9Zn9CshKXnOMg2tqxOVs5Dn0GrEfHu3ArwgwK2o5A",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT8cdi_j-d3fQ5K6PiNSrTYc2deCRyxp_NvecGhg6axci6TbVw18siYeU_aR4zqUMCotk1Tkw8kWUhZoaEMpwcmoAYS7WnSsoCuJg",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcT48ynr1yBeGG7hQXbNec2_GP1aRn07I_8YbA2M7_TFqABWF4V28tsUEjH-n971OYuCZJI5Scbqnkmew0solR5d3p9cP0Wscxtb",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcSRz5Y6pZbZFvYEqXnEuhL3ElBTQDX1NYHkfOnoCgFDsv50ZlZMY7XcYJaBnsTvlyul0O4WUoQaxu3mYBe_rfryQAYm94IN_5D5",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcQ89bZ3DrBT5GdwiQkIRPavFbdjJCkLExgi_AsOw6xYEqP-LGY_Ys5w1HczO8o70LgN37lh2WMoQxq4-vpZkZTjGhNiSF9YAtie",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRCYEQiHIZLqxVS7H7Zny-ZPp2ZSkTGwtpZGTC2UQwiitNrmeo_NRhSCYSq5q1OVn-2ZozC9R4dl45nfn-ytcGd6lPp6uBXFmcO",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTn6q75gcPLRr6GXDKJoJOWgWih6vxEqPd4ZB62ZnRXZ1SiIZHheeT4mUR1xXH6HSJAPbfkfHIj1MJpOn4P17vGwG43GRsRp7j-",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTWbm79aEh3vcoqr-vM2GaE3zTr-XQqhHQp3uC-6QWjh4ArpwQOBlg5163fR_JSThcYgAugTzPCsv3I8p5MpLScLIl7-sRIDrEZ",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRDYw8hPwhEf_vwOpBygZb90cVG-xdXCJxKZIoavrp3Uk2LQ3m_34BNsp28Nirtua9yDquNiYft7CuHiwJfEAFhh1OOirQVzfJb",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "title": "Website",
+      "link": "nitishrajput.com",
+      "favicon": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSAZ8TDb0SaVwWnCXJEsaOsHrYF0oOlFZf7oYMCylo5Nw9HOP4TggjP6b52FnB7b9D8ykROmA9pXVvU5D1eXI1d6W3tPlj66KshlEMZXJtm4SzuNSSzt9ihx54",
+          "width": 256,
+          "height": 256
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRBUdlVlqKBnbLNWrBhyB9OYToEBEiUjmXSNc88OCfsWb2ExI0uLyW2RdfYF2-2Hj9hs0aypBUelEu-idC_IZYxUCkkuCy1So5jrjWCNVM7vvUL-M606IgD3B4",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSyyRO-UNG_SjSqoR03BSYxMv3DWznbgLHOUaT_SVaKIPL_G5ytcJRIG4HxZVZekQvpbkkVz3t2-oa8TKnPFANYNZ4vCXmwUF2v0DF1hEnDq_V3QSOK2p2yFvg",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTpHZM34dbvGoPnaYxRU7JYC6L-H1EXI-VoO60jmpjkVzMYdoMS1jh0VjlYZzoREdIx_eJ3YBBoDLwhwVJUq2CBCdhlXYgUcuC-kVhrgnjzArf0nUzM3VWBGA",
+          "width": 96,
+          "height": 96
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcT2B1DRWIGiA6saNagLuOtPZ3xtYplJKcV3hcSiHDCvNyqW6XPt0fMqol1g_3T2cBO9nPhc9wZCIAvulWg1Eap4mPXU4-12bMUUfCVPU93ON8daE99XQXXqog",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTK3fEetzSLo3poGNYW-wsgoJrrseUo86Cs2CcMWRN_JgupmVmXuklleWe4CY5jlw1l2oc4CpQyKdZpScF-zruhJTCq-ussPDlWtI8dWM2kYXgxCNhKoY8pRw",
+          "width": 50,
+          "height": 50
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQNfbkimTteMoxg5EEGFDogKnr6OOf4inNUbXNuuqbyOfB0y4K94_WnOOZlBUsX5113qhoevlhA__Muhtdj4ZNq4MtcHv4BcYYB542C6_QJfMQ4_c98HicazQ",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTSiiAlNv7pe65r99rnwzLYCFDr4VQJbdy9-8gF2WElxyedNWsFYgpY7kPBKTV26sHJJ1IrT0MgO2AD2VqtRpQD6ux_KDHpDq2Q19nQ9jU8vOUW7GCYdC7mUA",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTJ5lA8qKkh9ysq3FgOogyf-SVopWs8py4C8IstvYYxxFo_44iwAJNlzCJbbqOSIU1uVeNMf115NB1t3SJOVM3i0601SPbAYRZhQ7h3LFvK58DbisfQNJ0LfA",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcQZIR5qmC5HXCiQm32gLFcgZtGWm42b5V_BNrepFtEIG5B2ImT7LNSbWFjRXm3YmsbpNDe_tzkrYxXkxR82UXFHFU53-hJFoXPr9sVzKvfmZdc-f54WeNqTQw",
+          "width": 16,
+          "height": 16
+        }
+      ]
+    }
+  ],
+  "hasEmail": true,
+  "msg": ""
+}

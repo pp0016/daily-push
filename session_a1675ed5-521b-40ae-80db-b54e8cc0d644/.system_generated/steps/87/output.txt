@@ -1,0 +1,27 @@
+The search for "open source whiteboard animation python github CLI tool" returned the following summary:
+For open-source whiteboard animation tools built with Python that include a CLI (Command Line Interface), you may find the following projects useful:
+
+### **Recommended CLI-Based Tools**
+
+*   **[whiteboard-animator](https://github.com/masihsultani/whiteboard-animator)**
+    *   **Description:** This is a Python library and CLI tool specifically designed to turn whiteboard-style images into hand-drawn reveal animations.
+    *   **Features:** It allows you to process images and audio to create MP4 videos, making it highly suitable for automated workflows. It is the render engine behind Kinoslide and supports narration syncing.
+    *   **Usage:** You can use simple commands like: `whiteboard-animate scene.png --duration 8 -o scene.mp4`.
+
+*   **[handanim](https://github.com/subroy13/handanim)**
+    *   **Description:** A Python library for programmatic animation in a human-style sketching format.
+    *   **Features:** It provides an intuitive Python API for creating scenes, animating geometric shapes, handwritten text, and visual explanations. It supports exporting to SVG or MP4.
+    *   **Target Use:** Ideal for educational videos, tutorials, and data storytelling where you want to script your animations in Python code.
+
+### **Other Notable Mentions**
+*   **[motionpicture](https://github.com/Sbozzolo/motionpicture):** A library that simplifies creating videos from individual frames. It includes a CLI utility (`mopi`) that allows you to configure your animation via command line or text files, providing a flexible way to turn Python code into video.
+*   **[ai-img2sketch](https://github.com/daslearning-org/ai-img2sketch):** While it uses a Gradio UI, it is a Python-based project that generates whiteboard sketch animations from uploaded images using OpenCV and NumPy, which can be useful if you prefer a local, non-AI-heavy approach.
+
+### **Summary of Approaches**
+| Tool | Primary Interface | Best For |
+| :--- | :--- | :--- |
+| **whiteboard-animator** | CLI | Automating reveal animations from images/audio |
+| **handanim** | Python Library | Programmatically scripting educational animations |
+| **motionpicture** | CLI / Code | Generating frame-based animations from Python scripts |
+
+When setting these up, ensure you have **FFmpeg** installed on your system, as most of these tools rely on it for video encoding and processing.

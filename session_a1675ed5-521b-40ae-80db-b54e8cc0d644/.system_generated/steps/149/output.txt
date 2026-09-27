@@ -1,0 +1,11 @@
+The search for ""nils44344/FreeFaceless" github stars OR "SaarD00/AI-Youtube-Shorts-Generator" github stars" returned the following summary:
+As of September 2026, the GitHub star counts for the requested repositories are as follows:
+
+*   **nils44344/FreeFaceless**: This repository does not currently display a public star count in common search indices, though it is actively promoted by its author as a self-hosted, Windows-first pipeline for generating faceless YouTube Shorts[1][2].
+*   **SaarD00/AI-Youtube-Shorts-Generator**: This repository has **215 stars**[3][4].
+
+Sources:
+[1] [dev.to](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvH-4mpTJcJfJP7LvyBkPPcGEA86icltqgS1qtnWghPPV18GbNztc4cScBzupPEt5_6W_0iLiwqPR9-J4YbEzO3Zk6JvBvjTeseU5lGoDsKlrPDqO-OcAKLSqfP3hwxB2xjnauSj8muoLLOk7a6ZumUbNeb21kvWL8Mh8vBfBnn45Qdx6CQm4joNnCgaafUrMFxFUWI25f30CmEKZbY9hn_-7F-qW)
+[2] [dev.to](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvH-4mpTJcJfJP7LvyBkPPcGEA86icltqgS1qtnWghPPV18GbNztc4cScBzupPEt5_6W_0iLiwqPR9-J4YbEzO3Zk6JvBvjTeseU5lGoDsKlrPDqO-OcAKLSqfP3hwxB2xjnauSj8muoLLOk7a6ZumUbNeb21kvWL8Mh8vBfBnn45Qdx6CQm4joNnCgaafUrMFxFUWI25f30CmEKZbY9hn_-7F-qW)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1YtgKKRX_lOQ16pKBSnvbxnL2PzYhBCD3jJ1nML6ej9hxnJ3JFeRHFp-w011pEEGhmDR-GbTpRxQuVGUjY43dFMVcZsMYOmdtlbpc5NJd8RNCMoS4Dl8eGDsDk5BukNB11Ucb4U2VgmuoA==)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq1YtgKKRX_lOQ16pKBSnvbxnL2PzYhBCD3jJ1nML6ej9hxnJ3JFeRHFp-w011pEEGhmDR-GbTpRxQuVGUjY43dFMVcZsMYOmdtlbpc5NJd8RNCMoS4Dl8eGDsDk5BukNB11Ucb4U2VgmuoA==)

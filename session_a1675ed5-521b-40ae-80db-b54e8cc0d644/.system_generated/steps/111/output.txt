@@ -1,0 +1,36 @@
+The search for "github open source auto subtitle generator CLI whisper video" returned the following summary:
+There are several excellent open-source command-line interface (CLI) tools that leverage OpenAI's Whisper model to generate video subtitles. Depending on your needs—such as speed, hardware constraints, or precision—you can choose from the following popular options:
+
+### Recommended CLI Tools
+*   **[faster-whisper](https://github.com/guillaumekln/faster-whisper):** Currently the recommended choice for most users[1]. It is a high-performance reimplementation of Whisper using CTranslate2, making it roughly 4x faster than the original OpenAI implementation while consuming significantly less memory[1].
+*   **[whisper.cpp](https://github.com/ggerganov/whisper.cpp):** Best for users who want a lightweight, zero-dependency solution[1]. It is a C/C++ port that runs exceptionally well on CPUs and Apple Silicon (via Metal)[1][2]. It supports direct output to `.srt` and `.vtt` files[1].
+*   **[WhisperX](https://github.com/m-bain/whisperX):** Ideal if you require high-accuracy word-level timestamps or speaker diarization (identifying who is speaking)[1]. It builds upon `faster-whisper` and uses forced alignment to improve timing precision[1].
+*   **[whisper_autosrt](https://github.com/botbahlul/whisper_autosrt):** A straightforward Python-based CLI utility that uses `faster-whisper`[3]. It is designed specifically for ease of use in generating subtitle files and includes features for automatic translation using Google Translate[3][4].
+
+### Key Features Summary
+| Tool | Best For | Key Advantage |
+| :--- | :--- | :--- |
+| **faster-whisper** | General use / Speed[1] | Balance of high speed and low memory usage[1] |
+| **whisper.cpp** | CPU-only / Portability[1] | No Python dependencies; very easy to set up[1] |
+| **WhisperX** | Precise timing / Diarization[1] | Word-level timestamps via forced alignment[1] |
+| **whisper_autosrt** | Quick automation[3] | Built-in translation features[3][4] |
+
+### General Requirements
+*   **Python:** Most of these tools require Python 3.10+[5][6].
+*   **FFmpeg:** Virtually all these tools require `ffmpeg` to be installed and available in your system's PATH to extract audio from video files[3][5][6].
+*   **Hardware Acceleration:** If you have an NVIDIA GPU, using a CUDA-enabled version will provide a 5-10x performance boost compared to CPU inference[6].
+
+### Getting Started
+1.  **Install FFmpeg:** Ensure it is installed on your system (`sudo apt install ffmpeg` for Linux, `brew install ffmpeg` for macOS, or via official binaries for Windows)[5][6][7].
+2.  **Select a Tool:** For most users, installing `faster-whisper` or a wrapper like `whisper_autosrt` via `pip` is the quickest path to success[3][1].
+3.  **Run the Command:** Most tools follow a simple pattern:
+    `whisper_tool --input "your_video.mp4" --output "subtitles.srt"`[6][1]
+
+Sources:
+[1] [localaimaster.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg35Z0sejVDVk1pNWP0GjxYeBJp51mTeamhvQGwLKQq7UUA-1RhP3IwpIaB8M7Ye0mIZEg79diFZK-3-4SSMdToKSE-wBODreIGrLuUALK7zFzOxvWQXBfInxccWo1iJudn0VGHbKQBYCK67dxvRI=)
+[2] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsRNA9g14d-ig45ORH9kE_1b2VIDGUB3Z96wsHyQ8OIDdAJPOTDUZlBWsdVDLCxFNNiRWeghHJ33KnVDiq2Sgd8Vfol5Twmn5RwG7QLe4O8hSenaQu_22C_Hxap_lUpW7s)
+[3] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8uktJR03ukCcUIf_YcYxWW8oQQw_yROwFToTzD0ZVI7_L6xnjUWM0Q1w7bZFQ1dgP8plsj_CI-KS2ya7QI3EOS1xDkEYYYK1z1VaU7YXwGBqaF2ENiJWm2hvyhpGASRboUQ==)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8uktJR03ukCcUIf_YcYxWW8oQQw_yROwFToTzD0ZVI7_L6xnjUWM0Q1w7bZFQ1dgP8plsj_CI-KS2ya7QI3EOS1xDkEYYYK1z1VaU7YXwGBqaF2ENiJWm2hvyhpGASRboUQ==)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5xx-19XOR4QAR-kn3dhKWByVVPeii8v_WhR7uUrAE9ruMwa42PkfTlqlGTWTLLRORkPAIf1G1FNzSW3Pi97WRWOYW2JeS2PTzt7hyPWbHTaazUugxGGC9HUBNzEo3Oga-)
+[6] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGon4G2hxJqQMB4-lTUJEjN8_l8BXYcVhdsEhHayY-twGSDoHh_rYvCsVGEB1P32fksu2m3B_cNkC-aJpikvat9-8DUcH-ISGsWltpQtiWBnUdgbIN1bSMNMZDFajlnS-oCVGFbhbvaHYuRDbo=)
+[7] [jonathanbossenger.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVUNKCYmAlOAGevXywFhVT8AZdtjvDNPUZuyGt-XhE4DnddB_TfPitv17WvmkHBx3wFNxUq6fn-ZloFQbdQRC7ZydfIU2yswLm8fSoiM89VtJ3kFtBj8DQtkUxpFYAyJwGi_KJZZLvXMbL5if3soNELvj1kmmshCk5fMtjSje_YjlEIXX22JswlWo527AwfOAsQq2zmqka3YA-6HQ7zBGj)

@@ -1,0 +1,37 @@
+The search for ""blender" "grease pencil" auto draw "whiteboard" script github" returned the following summary:
+To achieve a "whiteboard" drawing effect in Blender using Grease Pencil, you generally do not need a complex custom script. The most common and effective method relies on built-in tools.
+
+### Recommended Approach: The Build Modifier
+Instead of using a script, the standard workflow for whiteboard animations involves the **Build Modifier**[1][2][3]:
+
+1.  **Draw your artwork:** Use the Grease Pencil tool to draw your subject[4]. Blender automatically records the order, speed, and timing of your strokes as you draw them[2].
+2.  **Add the Build Modifier:** Select your Grease Pencil object, go to the **Modifiers** tab, and add a **Build** modifier.
+3.  **Configure:** In the modifier settings, you can choose the "Build" mode (which draws strokes in sequence) to create the "auto-draw" effect[1][2]. You can adjust the frame start, duration, and transition behavior to time the animation to your needs[3].
+
+### GitHub Scripts & Add-ons
+If you are looking for automation specifically, there are community-made tools that extend this functionality:
+
+*   **GreaseWriter:** This is a well-known GitHub project designed to auto-animate Grease Pencil strokes and emulate hand-drawn text[1][5]. It provides a "Reanimate" feature that can help create a polished hand-drawn look[1][6].
+    *   *Search GitHub for:* `doakey3/GreaseWriter`[7]
+*   **Custom Python Scripts:** If you are interested in writing your own automation, users often share snippets on GitHub Gists[8]. Note that if you are using recent versions of Blender (4.0+), you must ensure the script is compatible with the updated **Grease Pencil V3 API**, as older scripts may throw syntax errors[9][10].
+
+### Tips for Whiteboard Animation
+*   **The "Hand" Effect:** To make it look like a hand is actually drawing, animate an image of a hand (on a separate plane) using a simple parent constraint to follow the path of your strokes, or use an existing curve to drive the hand's movement[2].
+*   **Tutorials:** Many creators provide step-by-step guides for "Whiteboard Explainer" animations in Blender[11][12][13]. Searching for *"Blender Whiteboard Animation Tutorial"* on YouTube will provide visual workflows that are often easier to follow than raw code[14][15].
+
+Sources:
+[1] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSnpT9X9MV7KR2jtFIClzujHgseLB_4qZkFDHtj94OI2to3YNAHm_j4j5p7NGCGMhK9XnrD4RXtOgCxsSu4AYTMkyz3XzuEKWEVblbzyr-Lhq9HzL85uQdvqHjz9w=)
+[2] [blenderartists.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmAYJU9fxXXj4luM6kebgNxmmQlq6eQfAyr2eZDVV5QikA1QuKBtdAnRowc1ROWtNiLi0wP62ELUQdMvvzJ0Rh1febO-jLR1fahtEepXraVofyoFRq7YUUrvwNfxb8jAPsCV7_8ThXH_iUT6-_Bve2tuB9whYsRhhi)
+[3] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3yiEg_W4Z0iHEuFbWCFcItR6KhOTI8Gwj6jAdI0nv8E6LvrIN0TSCCgmH-k_pvri_U_QRO8oSUeQGdNjuD6tT5M8LpfeSJR-N4AK6cCQn3mGOmXp70fHGCOB2m-lkzwbZ)
+[4] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs59t9jxg-5c3nABOK3_4PgdCVB9BNocIr6coq_irloEgNo_yBmN5e9zd-xun3GyGmFoI865acZXwavSF5YiiMOp9Qj_kUYB7L9YzIAKAikwg3ppScM4E8d3AClVoMLQF3YmWmF02WA-Zzd_sjiptBakbR2f7-uk_iMlVC-RX8uQee6dyEpmDsReDiYBs=)
+[5] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSnpT9X9MV7KR2jtFIClzujHgseLB_4qZkFDHtj94OI2to3YNAHm_j4j5p7NGCGMhK9XnrD4RXtOgCxsSu4AYTMkyz3XzuEKWEVblbzyr-Lhq9HzL85uQdvqHjz9w=)
+[6] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSnpT9X9MV7KR2jtFIClzujHgseLB_4qZkFDHtj94OI2to3YNAHm_j4j5p7NGCGMhK9XnrD4RXtOgCxsSu4AYTMkyz3XzuEKWEVblbzyr-Lhq9HzL85uQdvqHjz9w=)
+[7] [blender-addons.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfmpH_bNOMHeJjiHDGZbwrJMpneSBnTxwMxjIvht9wREQo7EH4gh8MOVovIDAe-pmcq23Pnyn0IX5Fx6Yah7x3zho-z-Hgpe6TmkmNmm05gFnVrzNc1Aan1Apb1Djzvw==)
+[8] [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlxWcmVz3ObBLBmb0g0LtkcNVvpXgrdxbGVwf5k1jEku0Cn3WdWyyY8fBpO3mpU8z-rm5B86ve4G-i0DwoboL76e9N4EvK3Mkk3S1L3dsAWsftK59T)
+[9] [skool.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFiHLrU6vk7sUUyzcolmz-_7QUH3ixMnSyxJj1ynSG6hjRjs0EfUPEHretz2UrCIot4XtxrziSk2LJx3_pqR96fyrPsYzqPwBgIzNDkejziGb_0pprop_oVUrGQPk9EZX0_udHesJubPfZwXMm1vui2o9n)
+[10] [skool.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFiHLrU6vk7sUUyzcolmz-_7QUH3ixMnSyxJj1ynSG6hjRjs0EfUPEHretz2UrCIot4XtxrziSk2LJx3_pqR96fyrPsYzqPwBgIzNDkejziGb_0pprop_oVUrGQPk9EZX0_udHesJubPfZwXMm1vui2o9n)
+[11] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjQZdFT8uwsexB-soH4HtwdCdbYactO-vU-zu78cimQXbtxZ4wiUZk4hz9NGkSfrw25SW7RPYfdf_K9rRIH7IsgynyOrTwvUT2lOttuJM9-iDxGXtogQYeXPIVYhHCoVoS)
+[12] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjQZdFT8uwsexB-soH4HtwdCdbYactO-vU-zu78cimQXbtxZ4wiUZk4hz9NGkSfrw25SW7RPYfdf_K9rRIH7IsgynyOrTwvUT2lOttuJM9-iDxGXtogQYeXPIVYhHCoVoS)
+[13] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjQZdFT8uwsexB-soH4HtwdCdbYactO-vU-zu78cimQXbtxZ4wiUZk4hz9NGkSfrw25SW7RPYfdf_K9rRIH7IsgynyOrTwvUT2lOttuJM9-iDxGXtogQYeXPIVYhHCoVoS)
+[14] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5XYIdTPNNm1Qe0mIkBRfspN8-7DyXZzxKdbHU-PqZwz2Ts2Db0r-7T8k6nSB92DminXph_wd-CxNgrhW-u2KPFA6jvOWRkym3vkWnlQxKRaCwbPMPsZ8Cew5Do54-Jbgm)
+[15] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpEZMGkiCarwsvC4IN_xbeQChiw8BAAseuFBAm8XrfysQMFyo_Ke5OUQGqw9zs51FWmSUEThlpwpwfmh6NcaJWH0IstFSn9S6aT5f_P2X8r6ErSl_GMZZzEvfKfkZJ8pej)
