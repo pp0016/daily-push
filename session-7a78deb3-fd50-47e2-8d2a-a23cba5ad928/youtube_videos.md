@@ -1,0 +1,321 @@
+# YouTube Videos List
+
+Here are the videos extracted from your saved YouTube page:
+
+- सिर्फ़ 1% लोग ये 90 दिन करते हैं… बाक़ी सब Average रह जाते हैं | Napoleon Hill Hindi 33 minutes
+- इंग्लैंड का सम्पूर्ण इतिहास।The Entire History of England | Full Documentary 21 minutes
+- I Run 3 YouTube Channels Alone😱 Here's My Daily Routine 6 minutes, 56 seconds
+- How He Built a ₹3 Crore Business with Digital Products! 47 minutes
+- Nepal Floods: '275 Indians Missing, 166 Rescued;' Over 1,300 Dead In Nepal-Tibet Deadly Disaster 2 minutes, 33 seconds
+- SHORTS SHORTS Now playing
+- 2:09 SHORTS SHORTS Now playing
+- **Nepal Flood Relief: Volunteers Take Blankets, Clothes & Tools To Worst-Hit Areas** | NDTV 951 views 15 minutes ago 2 minutes, 9 seconds - play Short
+- Bedrock collapse,ignored warnings & climate change link offer fresh insights into Nepal floods cause 27 minutes
+- लीडर जैसा बोलना सीखो | Osho hindi speech | Communication का रहस्य। 26 minutes
+- What Did Ancient Humans Actually Do All Day? 11 minutes, 13 seconds
+- Money Will Chase You - Adopt These 12 Secret Principles | Napoleon Hill | Think and Grow Rich 14 minutes, 59 seconds
+- Power of Silence!| चुप्पी की ताकत।…
+- How much YouTube Paid me for 21 million shorts views
+- Success story of Raj Shamani | @Sandeep Maheshwari…
+- Lesson 1 ~" How to start your day " by Napoleon Hill
+- #oshokalaahebado
+- Tratak - The Most Powerful Technique To Control Mind || Law Of ATTRACTION 13 minutes, 3 seconds
+- The Secret Book Summary Hindi | Law of Attraction का वो Secret जो आपकी Life बदल सकता है 11 minutes, 15 seconds
+- India's Got Latent Season 2 E6 : Ft. Varun Dhawan, Medha Shankr , sharon verma & Nishant Tanwar" 43 minutes
+- Whatever happens Happens 🥷🏻…
+- The Skill That Creates Billionaires
+- Holding a GIANT Python! 🐍 Paul Rosolie on the Dark Reality of Wildlife Trade | Figuring Out 500
+- बिहार की बेटी की कहानी 💯 Self Doubt to Success Priya Kumari…
+- 3:46:49
+- The Psychology of Money Explained | Life-Changing Money Lessons 3 hours, 46 minutes
+- I Filmed Plants For 15 years | Time-lapse Compilation 30 minutes
+- If you have found this video before September, your life is about to change 9 minutes, 40 seconds
+- Night Affirmations + Gratitude Ritual सोने से पहले अपनी Frequency बदलें | Subconscious Reprogramming 15 minutes
+- How a Faceless Channel Made $39K With Claude + ChatGPT 23 minutes
+- English Speaking Practice || How to Practice English Daily at Home | Speak English with Confidence 42 minutes
+- #1377 Ekantik Vartalaap & Darshan/Shri Hit Premanand Govind Sharan Ji 39 minutes
+- 12 दिन रोज़ ऐसे पानी पियो - Drink Water Daily For Brahmacharya 12 Days {2025} 6 minutes, 35 seconds
+- The Art Of Witty Banter (In Hindi) 58 minutes
+- I Earned Money From Meesho 🤑 How to Make Money From Meesho App | How To Earn Money From Meesho Ap... 29 minutes
+- The Secret of 5 AM | One Habit That Changed a Poor Man’s Life 18 minutes
+- How I Made $12,000 with YouTube Shorts Automation | Full Course 11 minutes, 52 seconds
+- 3 Signs of Distraction| PART 1…
+- SOURAV JOSHI KI WIFE KI SACCHAI !!
+- 3 Tips That Will Change Your Study Life | Study Psychology…
+- Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair 15 minutes
+- How to Sleep LESS and Wake Up FRESH – Japanese Secret! 9 minutes, 31 seconds
+- The Power of Your Subconscious Mind Audiobook | आपके अवचेतन मन की शक्ति | Sapne Sach Hote Hai | 30 minutes
+- बालक की धमकी जिसने ठाकुर जी को हिला दिया! 😱 | Lord Krishna Story | 3D Animation #11 23 minutes
+- Sales Communication Mastery under 25 minutes | Hindi | Coach Animesh 22 minutes
+- How to Rebuild Your Life in Just 6 Months (Step-by-Step Guide) 46 minutes
+- Hanuman Ansh | Official Trailer | Shobhinaw Satyaa | Vishal Chaturvedi | In Cinemas 7th August 2026 2 minutes, 30 seconds
+- Rich बनना बहुत आसान है! | Getting Rich Is Brutally SIMPLE | Machiavelli Rules 36 minutes
+- Wo Nahi Chate ke Aapko Ye Secret Pata Chale! 15 minutes
+- The Hidden Psychology Of Consistency 💀 | Why You FAIL ? 10 minutes, 6 seconds
+- Morning Aura | Music for Positive Energy | Subah ki Urja – Raag Ahir Bhairav (RaagaFlow Original) 37 minutes
+- 3:40 AM - Do it for just 21 days, your life will change. Complete Brahma Muhurta Sadhana Method 13 minutes, 4 seconds
+- How to Train Your Brain to Think in English | English Listening Practice | Jack Ma Motivation 31 minutes
+- 24 Hours in India's Vedic Village | No Electricity, No Mobile | Unik Bharat E-05 19 minutes
+- KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO 4K| ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL 6 minutes
+- This 17 Year Old Monetized His Faceless Channel in 10 Days With His First Video! | Case Study 31 minutes
+- 2:46:56
+- Andrew Huberman: Become Mentally Dangerous With These Daily Habits | FO556 Raj Shamani 2 hours, 46 minutes
+- Transforming My MESSY Room Into My DREAM Room! 8 minutes, 47 seconds
+- Asking Wealthy Americans How They Got So Rich! (Scottsdale) 22 minutes
+- 9 Japanese Habits That Build Quiet Wealth (No Luck, No Stress) 33 minutes
+- 6 BORING Businesses That Always Make Millionaires (90% Success Rate?) 16 minutes
+- How I'd Start Business With Claude (Automate EVERYTHING) 21 minutes
+- 1:54:14
+- Elon Musk: एक अलग बातचीत Nikhil Kamath के साथ | पूरा एपिसोड | People by WTF Ep. 16 1 hour, 54 minutes
+- 1:22:52
+- OSHO: Freedom from Overthinking | Fear and Anxiety Dissolve | Hindi Discourse 1 hour, 22 minutes
+- I Made - New Desk Setup in Budget Price ! 16 minutes
+- जिसने यह सीख लिया, उसे कोई Emotionaly Control नहीं कर सकता | Napoleon Hill 12 minutes, 31 seconds
+- जंजाल (कहानी) : मुंशी प्रेमचंद | Janjal - A Story by Munshi Premchand 38 minutes
+- India's got latent season 2|Exclusive episode on only Netflix| 43 minutes
+- वृंदावन से LIVE | श्री कृष्ण जन्माष्टमी दर्शन 2026 | मथुरा जन्मभूमि Live Darshan
+- 8 Boring Businesses जो चुपचाप लाखों कमाते हैं | Hidden Income Secret 16 minutes
+- Trading Psychology Mistakes Beginners Make 24 minutes
+- Modi-Shah Take BJP To The Basics | Use Of Brute Force ‘New Normal’ To Silence Opposition? | Akash B 23 minutes
+- Create 20+ Min AI Videos FREE 🔥 Best AI Video Generator Tutorial 2026 35 minutes
+- Microplastics in the Human Body ? 19 minutes
+- 1:55:46
+- How the Top 1% Think Differently | First Principles Thinking Masterclass 1 hour, 55 minutes
+- Give me 59 secs... I'll delete your fear of starting 59 seconds
+- LooksMaxxing: The Complete Guide (No BS) 15 minutes
+- सिर्फ 1 नियम और इच्छा पूरी | मांगने का विज्ञान | @anuragrishi 5 minutes, 27 seconds
+- 2:17:34
+- 40Hz Binaural Gamma Waves - Ultra Deep Concentration 2 hours, 17 minutes
+- The Story Behind India's Biggest Stock Market Scam | Scam 1992 Explain | 2D Animation 27 minutes
+- 21 Days Challenge : How to BRAINWASH Yourself for Success (Quit any Addiction) 15 minutes
+- 3:48:51
+- Indian Freedom Struggle | Indian National Movement 1857 to 1947 | Dr Vipan Goyal | Modern History 3 hours, 48 minutes
+- किसी भी बुरी आदत को तोड़ने की जापानी तकनीक | Kaizen Philosophy 39 minutes
+- 1:07:34
+- How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja 1 hour, 7 minutes
+- Reinvent Yourself | Breaking the Habit of Being Yourself Book Summary 24 minutes
+- Excel Data Entry work Rs. 503 per hour ❓ (Second Salary) 37 minutes
+- Barsaat 🌧️ | All Trending Songs 🎧| Taare x Samjho Na x Safar x Bairan x Zulfein x Sahiba x Majboor | 22 minutes
+- Financial Freedom. And Then What? 13 minutes, 36 seconds
+- The History of Oil— मेसोपोटामिया से लेकर आज तक #oil #oilhistory #history #oilcrisis #history 17 minutes
+- 3:57:00
+- Beyond Good and Evil (Hindi/हिंदी में) 3 hours, 57 minutes
+- How To Make Your First 1 Crore Step by Step 17 minutes
+- The Mindset that Scares people ☠️ Get Addicted to Winning 🗿 12 minutes, 56 seconds
+- 12 Passive Income Ideas to Earn Rs. 1 Lakh per Month | by Him eesh Madaan 25 minutes
+- If You’re Ambitious but Lazy, Watch This Samurai Lesson (Kaizen Method to Success) 6 minutes, 49 seconds
+- 1:00:01
+- Learn English with a Book | 1+ Hour Deep Work Session | The Secret Garden | Part 1 1 hour
+- 1:33:11
+- The Brain Hacks That Actually Rewire Your Mind | Neuroscientist @drsweta.adatia | Shoba Rana 1 hour, 33 minutes
+- 3 best ai businesses to start before 2027 ($1,000/day+) 18 minutes
+- How to Develop a Deep, Powerful Voice in 21 Days ft. @theparanthakur 20 minutes
+- 1:03:26
+- Machiavelli Book Summary in Hindi | How to Stay Calm in Any Confrontation | Life Changing Lessons 1 hour, 3 minutes
+- After I Read 40 Books on Money - Here's What Will Make You Rich 19 minutes
+- India’s Big Loan Loot? | Will Subhash Chandra & Other Hi-Profile Defaulters Be Punished? | Akash B 24 minutes
+- Stop Wasting Your Life (Documentary) 30 minutes
+- सोने से पहले — गीता सुनो | Geeta Saar | Shree Krishna motivational speech |#krishnamotivation 56 minutes
+- 3:27:33
+- Atomic Habits Explained in Hindi | Life-Changing Habit Building Lessons 3 hours, 27 minutes
+- Build a Faceless Youtube Channel with ChatGPT (Youtube Automation) 13 minutes, 31 seconds
+- Do This 5-Minute Habit Before Sleeping | Dr. Joe Dispenza x Raj Shamani 5 minutes, 58 seconds
+- GPSC exam preparation | How to choose Class 1-2-3 | Eligibility criteria | 19 minutes
+- The Business Behind Five Star Hotels | Business Case Study 15 minutes
+- अगर ये वीडियो साल ख़त्म होने से पहले तुम तक पहुँच गया तो समझ लेना जीवन बदलने से कोई नहीं रोक पाएगा 20 minutes
+- 24 Hour Gratitude Challenge | Change Your Life in Just One Day @AmiettKumar 33 minutes
+- How To Network Like The Top 1% (even if you're an introvert) - Sandeep Das 17 minutes
+- Focus Only on What Matters | Book Summary That Will Change Your Life 24 minutes
+- वकील की तरह बहस करना सीखो | Full Audiobook Hindi 26 minutes
+- Std 9 Maths Ch 7 ત્રિકોણ 🔺| Triangle Theory Full Explanation 🎯| Sahil Sir 28 minutes
+- ये कहानी आपकी life waste नहीं होने देगी 11 minutes, 58 seconds
+- फोकस बदलो, जिंदगी बदलो: Napoleon Hill का Positive Mental Attitude Formula 33 minutes
+- Simon Sinek's Advice Will Leave You SPEECHLESS 2.0 (MUST WATCH) 18 minutes
+- Change Your Brain, Change Your Life | The Brain That Changes Itself, Book Summary 27 minutes
+- Journey from $15,000 to $160 Million | Mind Control Story of a Japanese Trader 🔥 26 minutes
+- 6 महीने चुप रहो, फिर सबको चौंका दो 🔥 | Napoleon Hill का वो राज जो कोई नहीं बताता 39 minutes
+- 1:38:54
+- The Medici Family : Jis Family Ne Europe Kharid Liya Tha 1 hour, 38 minutes
+- 2:48:18
+- Mastery Audiobook in Hindi | Robert Greene | Complete Book | Learn the Path to Excellence 2 hours, 48 minutes
+- This Dangerous Book Reveals How to Get Everything You Want (It Works! If You Follow It) 19 minutes
+- सिर्फ 3 घंटे में पूरी करो 8 घंटे की नींद! वेदों ने हजारों साल पहले बता दिया था इसका SHOCKING रहस्य 12 minutes, 55 seconds
+- सोने से पहले 10 मिनट यह करो | Napoleon Hill's Subconscious Mind Rewire 22 minutes
+- આખું પ્રકરણ એક ફિલ્મની જેમ! 🎥 | Std 10 SS Ch 10 Bharat Krushi | Full Animated Revision | Tatvamasi 13 minutes, 26 seconds
+- How to Trick Your Brain Into Liking Discipline 27 minutes
+- Why Your Wrists Look Thin (Fix Them FAST) 7 minutes, 59 seconds
+- Entire Indian Banking System Explained - RBI, SBI, 1991 Crisis & UPI Revolution 11 minutes, 36 seconds
+- The World Will Break You... Unless You Become Ruthless - Machiavelli 37 minutes
+- 1 शब्द से सब बदल जाएगा | The Magic Complete Book Summary in Hindi by Rhonda Byrne 19 minutes
+- What you feel, you will get. The Secret The Power Hindi Summary 18 minutes
+- जितना छोड़ोगे उतना मिलेगा | The Art of Detachment , Book Summary 14 minutes, 6 seconds
+- इस किताब ने करोड़ों कीजिंदगी बदल दी ! | Man's Search for Meaning हिंदी समरी 14 minutes, 57 seconds
+- THE SECRET TO LOVE, HEALTH, AND MONEY, Book Summary 20 minutes
+- Love yourself, life will change itself | Good Vibes Good Life Hindi Summary 20 minutes
+- Believe in Yourself, Your Life Will Change | Believe in Yourself Book Summary In Hindi 16 minutes
+- Think positive, your life will change. The Power of Positive Thinking, Book Summary 19 minutes
+- Life is about living in the present. The Power of Now, Eckhart Tolle, Book Summary 21 minutes
+- Detach to Attract | Book Summary 18 minutes
+- REACT मत करो POWERFUL बनो | The Power Of Not reacting 17 minutes
+- Happiness is not outside, it is inside. The Art of Happiness, Book Summary 27 minutes
+- Love Yourself First, Book Summary 22 minutes
+- Learn to let go and things will come. The Art of Letting Go 23 minutes
+- Invest In Your Self, Book Summary 20 minutes
+- The more risk you take, the more your life will change. | The Art of Risk, Book Summary 22 minutes
+- You become what you think | The Secret 19 minutes
+- Rebuild Your Self, Book Summary 19 minutes
+- How to Stop Worrying and Start Living, Book Summary 21 minutes
+- Stop Over Thinking, Book Summary 21 minutes
+- The more cleanliness, the more peace. The Life-Changing Magic of Tidying Up, Book Summary 19 minutes
+- Control your mind and your life will change. The Untethered Soul, Book Summary 21 minutes
+- Learning to prioritize yourself | Choosing Me, Book Summary 22 minutes
+- Calm mind eliminate fear life easy | Rewire Your Anxious Brain,Book Summary 21 minutes
+- Don't Sweat the Small Stuff at Work 23 minutes
+- Stop worrying about what people will think | The Courage to Be Disliked, Book Summary 19 minutes
+- Do it today, you will never say I will do it from tomorrow. Do It Today, Book Summary 20 minutes
+- Happiness is not outside, it is inside. The Book of Joy, Book Summary 22 minutes
+- तुम्हारे विचार हीतुम्हारी ज़िंदगी बदल देगी ! The Subtle Art of Not Giving a F*ck 22 minutes
+- जो ज़रूरी है सिर्फ़ उस पर फोकस करो ! | Focus on What Matters,Book Summary
+- सिर्फ़ 1% लोग ये 90 दिन करते हैं… बाक़ी सब Average रह जाते हैं | Napoleon Hill Hindi
+- इंग्लैंड का सम्पूर्ण इतिहास।The Entire History of England | Full Documentary
+- I Run 3 YouTube Channels Alone😱 Here's My Daily Routine
+- How He Built a ₹3 Crore Business with Digital Products!
+- Nepal Floods: '275 Indians Missing, 166 Rescued;' Over 1,300 Dead In Nepal-Tibet Deadly Disaster
+- Bedrock collapse,ignored warnings & climate change link offer fresh insights into Nepal floods cause
+- लीडर जैसा बोलना सीखो | Osho hindi speech | Communication का रहस्य।
+- What Did Ancient Humans Actually Do All Day?
+- Money Will Chase You - Adopt These 12 Secret Principles | Napoleon Hill | Think and Grow Rich
+- Tratak - The Most Powerful Technique To Control Mind || Law Of ATTRACTION
+- The Secret Book Summary Hindi  | Law of Attraction का वो Secret जो आपकी Life बदल सकता है
+- India's Got Latent Season 2 E6 : Ft. Varun Dhawan, Medha Shankr , sharon verma & Nishant Tanwar"
+- The Psychology of Money Explained | Life-Changing Money Lessons
+- I Filmed Plants For 15 years | Time-lapse Compilation
+- If you have found this video before September, your life is about to change
+- Night Affirmations + Gratitude Ritual सोने से पहले अपनी Frequency बदलें | Subconscious Reprogramming
+- How a Faceless Channel Made $39K With Claude + ChatGPT
+- English Speaking Practice || How to Practice English Daily at Home | Speak English with Confidence
+- #1377 Ekantik Vartalaap & Darshan/Shri Hit Premanand Govind Sharan Ji
+- 12 दिन रोज़ ऐसे पानी पियो - Drink Water Daily For Brahmacharya 12 Days {2025}
+- The Art Of Witty Banter (In Hindi)
+- I Earned Money From Meesho 🤑 How to Make Money From Meesho App | How To Earn Money From Meesho Ap...
+- The Secret of 5 AM | One Habit That Changed a Poor Man’s Life
+- How I Made $12,000 with YouTube Shorts Automation | Full Course
+- Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair
+- How to Sleep LESS and Wake Up FRESH – Japanese Secret!
+- The Power of Your Subconscious Mind Audiobook | आपके अवचेतन मन की शक्ति | Sapne Sach Hote Hai |
+- बालक की धमकी जिसने ठाकुर जी को हिला दिया! 😱 | Lord Krishna Story | 3D Animation #11
+- Sales Communication Mastery under 25 minutes | Hindi | Coach Animesh
+- How to Rebuild Your Life in Just 6 Months (Step-by-Step Guide)
+- Hanuman Ansh | Official Trailer | Shobhinaw Satyaa | Vishal Chaturvedi | In Cinemas 7th August 2026
+- Rich बनना बहुत आसान है! | Getting Rich Is Brutally SIMPLE | Machiavelli Rules
+- Wo Nahi Chate ke Aapko Ye Secret Pata Chale!
+- The Hidden Psychology Of Consistency 💀 | Why You FAIL ?
+- Morning Aura | Music for Positive Energy | Subah ki Urja – Raag Ahir Bhairav (RaagaFlow Original)
+- 3:40 AM - Do it for just 21 days, your life will change. Complete Brahma Muhurta Sadhana Method
+- How to Train Your Brain to Think in English | English Listening Practice | Jack Ma Motivation
+- 24 Hours in India's Vedic Village | No Electricity, No Mobile | Unik Bharat E-05
+- KALYANI (with Shreya Ghoshal) OFFICIAL MUSIC VIDEO  4K| ARJN | KDS | FIFTY4 | RONN | SHREYA GHOSHAL
+- This 17 Year Old Monetized His Faceless Channel in 10 Days With His First Video! | Case Study
+- Andrew Huberman: Become Mentally Dangerous With These Daily Habits | FO556 Raj Shamani
+- Transforming My MESSY Room Into My DREAM Room!
+- Asking Wealthy Americans How They Got So Rich! (Scottsdale)
+- 9 Japanese Habits That Build Quiet Wealth (No Luck, No Stress)
+- 6 BORING Businesses That Always Make Millionaires (90% Success Rate?)
+- How I'd Start Business With Claude (Automate EVERYTHING)
+- Elon Musk: एक अलग बातचीत Nikhil Kamath के साथ | पूरा एपिसोड | People by WTF Ep. 16
+- OSHO: Freedom from Overthinking | Fear and Anxiety Dissolve | Hindi Discourse
+- I Made - New Desk Setup in Budget Price !
+- जिसने यह सीख लिया, उसे कोई Emotionaly Control नहीं कर सकता | Napoleon Hill
+- जंजाल (कहानी) : मुंशी प्रेमचंद | Janjal - A Story by Munshi Premchand
+- India's got latent season 2|Exclusive episode on only Netflix|
+- 8 Boring Businesses जो चुपचाप लाखों कमाते हैं | Hidden Income Secret
+- Trading Psychology Mistakes Beginners Make
+- Modi-Shah Take BJP To The Basics | Use Of Brute Force ‘New Normal’ To Silence Opposition? | Akash B
+- Create 20+ Min AI Videos FREE 🔥 Best AI Video Generator Tutorial 2026
+- Microplastics in the Human Body ?
+- How the Top 1% Think Differently | First Principles Thinking Masterclass
+- Give me 59 secs... I'll delete your fear of starting
+- LooksMaxxing: The Complete Guide (No BS)
+- सिर्फ 1 नियम और इच्छा पूरी | मांगने का विज्ञान  | @anuragrishi
+- 40Hz Binaural Gamma Waves - Ultra Deep Concentration
+- The Story Behind India's Biggest Stock Market Scam | Scam 1992 Explain | 2D Animation
+- 21 Days Challenge : How to BRAINWASH Yourself for Success (Quit any Addiction)
+- Indian Freedom Struggle | Indian National Movement 1857 to 1947 | Dr Vipan Goyal | Modern History
+- किसी भी बुरी आदत को तोड़ने की जापानी तकनीक | Kaizen Philosophy
+- How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja
+- Reinvent Yourself | Breaking the Habit of Being Yourself Book Summary
+- Excel Data Entry work Rs. 503 per hour ❓ (Second Salary)
+- Barsaat 🌧️ | All Trending Songs 🎧| Taare x Samjho Na x Safar x Bairan x Zulfein x Sahiba x Majboor |
+- Financial Freedom. And Then What?
+- The History of Oil— मेसोपोटामिया से लेकर आज तक #oil #oilhistory  #history #oilcrisis #history
+- Beyond Good and Evil (Hindi/हिंदी में)
+- How To Make Your First 1 Crore Step by Step
+- The Mindset that Scares people ☠️ Get Addicted to Winning 🗿
+- 12 Passive Income Ideas to Earn Rs. 1 Lakh per Month | by Him eesh Madaan
+- If You’re Ambitious but Lazy, Watch This Samurai Lesson (Kaizen Method to Success)
+- Learn English with a Book | 1+ Hour Deep Work Session | The Secret Garden | Part 1
+- The Brain Hacks That Actually Rewire Your Mind | Neuroscientist @drsweta.adatia | Shoba Rana
+- 3 best ai businesses to start before 2027 ($1,000/day+)
+- How to Develop a Deep, Powerful Voice in 21 Days ft. @theparanthakur
+- Machiavelli Book Summary in Hindi | How to Stay Calm in Any Confrontation | Life Changing Lessons
+- After I Read 40 Books on Money - Here's What Will Make You Rich
+- India’s Big Loan Loot? | Will Subhash Chandra & Other Hi-Profile Defaulters Be Punished? | Akash B
+- Stop Wasting Your Life (Documentary)
+- सोने से पहले — गीता सुनो | Geeta Saar | Shree Krishna motivational speech |#krishnamotivation
+- Atomic Habits Explained in Hindi | Life-Changing Habit Building Lessons
+- Build a Faceless Youtube Channel with ChatGPT (Youtube Automation)
+- Do This 5-Minute Habit Before Sleeping | Dr. Joe Dispenza x Raj Shamani
+- GPSC exam preparation | How to choose Class 1-2-3 | Eligibility criteria |
+- The Business Behind Five Star Hotels | Business Case Study
+- अगर ये वीडियो साल ख़त्म होने से पहले तुम तक पहुँच गया तो समझ लेना जीवन बदलने से कोई नहीं रोक पाएगा
+- 24 Hour Gratitude Challenge | Change Your Life in Just One Day @AmiettKumar
+- How To Network Like The Top 1% (even if you're an introvert) - Sandeep Das
+- Focus Only on What Matters | Book Summary That Will Change Your Life
+- वकील की तरह बहस करना सीखो | Full Audiobook Hindi
+- Std 9 Maths Ch 7 ત્રિકોણ 🔺| Triangle Theory Full Explanation 🎯| Sahil Sir
+- ये कहानी आपकी life waste नहीं होने देगी
+- फोकस बदलो, जिंदगी बदलो: Napoleon Hill का Positive Mental Attitude Formula
+- Simon Sinek's Advice Will Leave You SPEECHLESS 2.0 (MUST WATCH)
+- Change Your Brain, Change Your Life | The Brain That Changes Itself, Book Summary
+- Journey from $15,000 to $160 Million | Mind Control Story of a Japanese Trader 🔥
+- 6 महीने चुप रहो, फिर सबको चौंका दो 🔥 | Napoleon Hill का वो राज जो कोई नहीं बताता
+- The Medici Family : Jis Family Ne Europe Kharid Liya Tha
+- Mastery Audiobook in Hindi | Robert Greene | Complete Book | Learn the Path to Excellence
+- This Dangerous Book Reveals How to Get Everything You Want (It Works! If You Follow It)
+- सिर्फ 3 घंटे में पूरी करो 8 घंटे की नींद!  वेदों ने हजारों साल पहले बता दिया था इसका SHOCKING रहस्य
+- सोने से पहले 10 मिनट यह करो | Napoleon Hill's Subconscious Mind Rewire
+- આખું પ્રકરણ એક ફિલ્મની જેમ! 🎥 | Std 10 SS Ch 10 Bharat Krushi | Full Animated Revision | Tatvamasi
+- How to Trick Your Brain Into Liking Discipline
+- Why Your Wrists Look Thin (Fix Them FAST)
+- Entire Indian Banking System Explained - RBI, SBI, 1991 Crisis & UPI Revolution
+- The World Will Break You... Unless You Become Ruthless - Machiavelli
+- 1 शब्द से सब बदल जाएगा | The Magic Complete Book Summary in Hindi by Rhonda Byrne
+- What you feel, you will get. The Secret The Power Hindi Summary
+- जितना छोड़ोगे उतना मिलेगा | The Art of Detachment , Book Summary
+- इस किताब ने करोड़ों कीजिंदगी बदल दी ! | Man's Search for Meaning हिंदी समरी
+- THE SECRET TO LOVE, HEALTH, AND MONEY, Book Summary
+- Love yourself, life will change itself | Good Vibes Good Life Hindi Summary
+- Believe in Yourself, Your Life Will Change | Believe in Yourself Book Summary In Hindi
+- Think positive, your life will change. The Power of Positive Thinking, Book Summary
+- Life is about living in the present. The Power of Now, Eckhart Tolle, Book Summary
+- Detach to Attract | Book Summary
+- REACT  मत करो POWERFUL बनो | The Power Of Not reacting
+- Happiness is not outside, it is inside. The Art of Happiness, Book Summary
+- Love Yourself First, Book Summary
+- Learn to let go and things will come. The Art of Letting Go
+- Invest In Your Self, Book Summary
+- The more risk you take, the more your life will change. | The Art of Risk, Book Summary
+- You become what you think | The Secret
+- Rebuild Your Self, Book Summary
+- How to Stop Worrying and Start Living, Book Summary
+- Stop Over Thinking, Book Summary
+- The more cleanliness, the more peace. The Life-Changing Magic of Tidying Up, Book Summary
+- Control your mind and your life will change. The Untethered Soul, Book Summary
+- Learning to prioritize yourself | Choosing Me, Book Summary
+- Calm mind eliminate fear life easy | Rewire Your Anxious Brain,Book Summary
+- Don't Sweat the Small Stuff at Work
+- Stop worrying about what people will think | The Courage to Be Disliked, Book Summary
+- Do it today, you will never say I will do it from tomorrow. Do It Today, Book Summary
+- Happiness is not outside, it is inside. The Book of Joy, Book Summary
+- तुम्हारे विचार हीतुम्हारी ज़िंदगी बदल देगी ! The Subtle Art of Not Giving a F*ck
+- Nepal Flood Relief: Volunteers Take Blankets, Clothes & Tools To Worst-Hit Areas
