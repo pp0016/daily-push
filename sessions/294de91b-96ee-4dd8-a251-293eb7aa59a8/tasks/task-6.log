@@ -1,0 +1,423 @@
+﻿[24232] Using callback port derived from the server URL: 28085
+[24232] Discovering OAuth server configuration...
+[24232] Discovered authorization server: https://prod.dashboard.nexlev.io
+[24232] [24232] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[24232] Using transport strategy: http-first
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] Connected to remote server using StreamableHTTPClientTransport
+[24232] Local STDIO server running
+[24232] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[24232] Press Ctrl+C to exit
+[24232] [Localâ†’Remote] initialize
+[24232] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] [Remoteâ†’Local] 0
+[24232] [Localâ†’Remote] notifications/initialized
+[24232] [Localâ†’Remote] tools/call
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] Error from remote server: TypeError: fetch failed
+    at Object.processResponse (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:237:16)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:1081:19
+    at node:internal/process/task_queues:149:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:146:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\index.js:157:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async fetchWithMcpHeaders (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28953:20)
+    at async StreamableHTTPClientTransport.send (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28338:24)
+    at async sendToServer (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:29311:7) {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted addresses: 18.193.243.135:443, 3.67.252.9:443, 18.157.224.11:443, timeout: 10000ms)
+      at onConnectTimeout (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:891:19)
+      at Immediate._onImmediate (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:842:35)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+[24232] Error from remote server: TypeError: fetch failed
+    at Object.processResponse (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:237:16)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:1081:19
+    at node:internal/process/task_queues:149:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:146:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\index.js:157:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async fetchWithMcpHeaders (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28953:20)
+    at async StreamableHTTPClientTransport.send (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28338:24)
+    at async sendToServer (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:29311:7) {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted addresses: 18.193.243.135:443, 3.67.252.9:443, 18.157.224.11:443, timeout: 10000ms)
+      at onConnectTimeout (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:891:19)
+      at Immediate._onImmediate (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:842:35)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+[24232] [Remoteâ†’Local] 1
+[24232] [Localâ†’Remote] tools/list
+[24232] Proactive token refresh failed, falling back to the stored token
+[24232] [Remoteâ†’Local] 2
+[24232] 
+Shutting down...
+{
+  "channelId": "UC4erRQuMzptu9MpkObbknBw",
+  "title": "1221 Manhwa Recap",
+  "description": "Thank you all for your support! If you're interested in stories, comics, or novels, please consider subscribing to my account. I update with exciting content daily, offering you a unique reading experience!",
+  "avatar": [
+    {
+      "url": "https://yt3.googleusercontent.com/bWOR9nhpQX3m4VrbapTgm24zAAaQmE-pHRkcGa5sqO7ODCMctQP6JY7w_mVg5T00ALGUcmPrvlo=s160-c-k-c0x00ffffff-no-rj",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/bWOR9nhpQX3m4VrbapTgm24zAAaQmE-pHRkcGa5sqO7ODCMctQP6JY7w_mVg5T00ALGUcmPrvlo=s120-c-k-c0x00ffffff-no-rj",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/bWOR9nhpQX3m4VrbapTgm24zAAaQmE-pHRkcGa5sqO7ODCMctQP6JY7w_mVg5T00ALGUcmPrvlo=s72-c-k-c0x00ffffff-no-rj",
+      "width": 72,
+      "height": 72
+    }
+  ],
+  "metaD": "UC4erRQuMzptu9MpkObbknBw",
+  "banner": [
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2560,
+      "height": 424
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2276,
+      "height": 377
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 2120,
+      "height": 351
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1707,
+      "height": 283
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1138,
+      "height": 188
+    },
+    {
+      "url": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "width": 1060,
+      "height": 175
+    }
+  ],
+  "tvBanner": [],
+  "mobileBanner": [],
+  "channelHandle": "@1221Recap",
+  "subscriberCountText": "19.4K subscribers",
+  "subscriberCount": 19400,
+  "videosCountText": "58 videos",
+  "videosCount": "58",
+  "keywords": [
+    "#animerecap",
+    "#anime",
+    "#animerecap",
+    "#manhwaedit",
+    "#anime",
+    "#animerecommendations",
+    "#animerecommendations",
+    "#manhwareccomendation",
+    "#manhwaedit",
+    "#manga",
+    "#animerecap",
+    "#mangacollection",
+    "#manhwarecap",
+    "#audiobook",
+    "#lightnovel"
+  ],
+  "isFamilySafe": true,
+  "isUnlisted": false,
+  "availableCountries": [
+    "WS",
+    "NF",
+    "PA",
+    "BY",
+    "CW",
+    "CF",
+    "MV",
+    "TV",
+    "AT",
+    "YT",
+    "HR",
+    "CU",
+    "NU",
+    "WF",
+    "EH",
+    "SX",
+    "BZ",
+    "IR",
+    "MH",
+    "AL",
+    "SN",
+    "US",
+    "UA",
+    "PW",
+    "SS",
+    "TN",
+    "PH",
+    "KN",
+    "SC",
+    "CG",
+    "GM",
+    "BN",
+    "AW",
+    "MP",
+    "AO",
+    "SJ",
+    "MW",
+    "MZ",
+    "IQ",
+    "VU",
+    "PG",
+    "RU",
+    "LR",
+    "GP",
+    "ME",
+    "HM",
+    "MX",
+    "NO",
+    "SR",
+    "AX",
+    "ES",
+    "GA",
+    "GG",
+    "UG",
+    "JO",
+    "BI",
+    "LI",
+    "SI",
+    "BE",
+    "TJ",
+    "AF",
+    "AE",
+    "CO",
+    "AG",
+    "FR",
+    "TR",
+    "IM",
+    "DM",
+    "KI",
+    "FM",
+    "PE",
+    "GH",
+    "ZW",
+    "BL",
+    "BT",
+    "KZ",
+    "PY",
+    "EG",
+    "MN",
+    "MM",
+    "LC",
+    "NI",
+    "FK",
+    "LS",
+    "KY",
+    "MT",
+    "LA",
+    "NC",
+    "GW",
+    "MO",
+    "NG",
+    "SA",
+    "BQ",
+    "BR",
+    "BM",
+    "GS",
+    "JE",
+    "GB",
+    "GT",
+    "NA",
+    "NP",
+    "SM",
+    "CH",
+    "DO",
+    "SZ",
+    "TW",
+    "MG",
+    "PF",
+    "SG",
+    "MA",
+    "MD",
+    "SL",
+    "TL",
+    "CY",
+    "CD",
+    "JM",
+    "VN",
+    "KP",
+    "CX",
+    "LB",
+    "VI",
+    "PT",
+    "FO",
+    "TH",
+    "MU",
+    "GF",
+    "IO",
+    "CN",
+    "UM",
+    "BO",
+    "RO",
+    "CR",
+    "KW",
+    "SV",
+    "UZ",
+    "YE",
+    "TC",
+    "PR",
+    "DZ",
+    "GL",
+    "GU",
+    "GI",
+    "TM",
+    "LU",
+    "RW",
+    "PM",
+    "FJ",
+    "HU",
+    "NE",
+    "KR",
+    "NL",
+    "SO",
+    "BH",
+    "MY",
+    "CI",
+    "JP",
+    "VA",
+    "VG",
+    "KM",
+    "AI",
+    "AZ",
+    "AD",
+    "TO",
+    "UY",
+    "ML",
+    "BW",
+    "CC",
+    "PS",
+    "SB",
+    "BG",
+    "GY",
+    "MS",
+    "IL",
+    "CV",
+    "DE",
+    "DK",
+    "OM",
+    "TT",
+    "CZ",
+    "SY",
+    "KE",
+    "HK",
+    "MF",
+    "TF",
+    "IT",
+    "AS",
+    "EC",
+    "BJ",
+    "NZ",
+    "LV",
+    "PN",
+    "GE",
+    "KG",
+    "TK",
+    "ET",
+    "VE",
+    "GR",
+    "AM",
+    "PL",
+    "MQ",
+    "LT",
+    "HN",
+    "BV",
+    "RS",
+    "CK",
+    "KH",
+    "FI",
+    "CA",
+    "CL",
+    "AU",
+    "MR",
+    "ZM",
+    "QA",
+    "SH",
+    "ZA",
+    "AQ",
+    "GQ",
+    "TZ",
+    "SK",
+    "ST",
+    "LY",
+    "AR",
+    "BB",
+    "IS",
+    "MC",
+    "RE",
+    "MK",
+    "SD",
+    "TD",
+    "TG",
+    "BA",
+    "VC",
+    "CM",
+    "ER",
+    "IE",
+    "SE",
+    "NR",
+    "DJ",
+    "BS",
+    "LK",
+    "EE",
+    "BD",
+    "GD",
+    "GN",
+    "ID",
+    "PK",
+    "BF",
+    "IN",
+    "HT"
+  ],
+  "tabs": [
+    "Videos",
+    "Playlists",
+    "Posts"
+  ],
+  "country": "United States",
+  "viewCountText": "1,782,526 views",
+  "viewCount": "1782526",
+  "joinedDateText": "Joined Oct 20, 2025",
+  "joinedDate": "2025-10-20",
+  "links": [],
+  "hasEmail": false,
+  "msg": ""
+}
+
+

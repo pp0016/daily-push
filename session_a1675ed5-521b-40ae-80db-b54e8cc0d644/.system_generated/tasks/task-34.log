@@ -1,4 +1,4 @@
-[16952] Using callback port derived from the server URL: 28085
+﻿[16952] Using callback port derived from the server URL: 28085
 [16952] Discovering OAuth server configuration...
 [16952] Discovered authorization server: https://prod.dashboard.nexlev.io
 [16952] [16952] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
@@ -7,7 +7,7 @@
 [16952] Local STDIO server running
 [16952] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
 [16952] Press Ctrl+C to exit
-[16952] [Local→Remote] initialize
+[16952] [Localâ†’Remote] initialize
 [16952] {
   "jsonrpc": "2.0",
   "id": 0,
@@ -21,12 +21,12 @@
     }
   }
 }
-[16952] [Remote→Local] 0
-[16952] [Local→Remote] notifications/initialized
-[16952] [Local→Remote] tools/call
-[16952] [Remote→Local] 1
-[16952] [Local→Remote] tools/list
-[16952] [Remote→Local] 2
+[16952] [Remoteâ†’Local] 0
+[16952] [Localâ†’Remote] notifications/initialized
+[16952] [Localâ†’Remote] tools/call
+[16952] [Remoteâ†’Local] 1
+[16952] [Localâ†’Remote] tools/list
+[16952] [Remoteâ†’Local] 2
 [16952] 
 Shutting down...
 {
@@ -69,3 +69,5 @@ Shutting down...
   },
   "category": "investigative documentaries"
 }
+
+

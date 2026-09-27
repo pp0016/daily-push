@@ -1,0 +1,42 @@
+﻿[23832] Using callback port derived from the server URL: 28085
+[23832] Discovering OAuth server configuration...
+[23832] Discovered authorization server: https://prod.dashboard.nexlev.io
+[23832] [23832] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[23832] Using transport strategy: http-first
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] Connected to remote server using StreamableHTTPClientTransport
+[23832] Local STDIO server running
+[23832] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[23832] Press Ctrl+C to exit
+[23832] [Localâ†’Remote] initialize
+[23832] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] [Remoteâ†’Local] 0
+[23832] [Localâ†’Remote] notifications/initialized
+[23832] [Localâ†’Remote] tools/call
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] [Remoteâ†’Local] 1
+[23832] [Localâ†’Remote] tools/list
+[23832] Proactive token refresh failed, falling back to the stored token
+[23832] [Remoteâ†’Local] 2
+[23832] 
+Shutting down...
+{"jobId":"c6f7fd7a-b757-4d27-bfe9-c49b9671404d","status":"pending","message":"Job created successfully. Poll get_similar_channels_status with this jobId every 5 seconds until status is \"completed\" or \"failed\"."}
+
+

@@ -1,0 +1,81 @@
+﻿[8692] Using callback port derived from the server URL: 28085
+[8692] Discovering OAuth server configuration...
+[8692] Discovered authorization server: https://prod.dashboard.nexlev.io
+[8692] [8692] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[8692] Using transport strategy: http-first
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] Connected to remote server using StreamableHTTPClientTransport
+[8692] Local STDIO server running
+[8692] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[8692] Press Ctrl+C to exit
+[8692] [Localâ†’Remote] initialize
+[8692] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] [Remoteâ†’Local] 0
+[8692] [Localâ†’Remote] notifications/initialized
+[8692] [Localâ†’Remote] tools/call
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] [Remoteâ†’Local] 1
+[8692] [Localâ†’Remote] tools/list
+[8692] Proactive token refresh failed, falling back to the stored token
+[8692] [Remoteâ†’Local] 2
+[8692] 
+Shutting down...
+{
+  "channelId": "UCVzuGSEjNHmbRbcQepWqYjQ",
+  "channelType": "MIXED",
+  "demographics": {
+    "gender": {
+      "male": 93,
+      "female": 7,
+      "user_specified": 0.2
+    },
+    "age": {
+      "13_17_years": 5.2,
+      "18_24_years": 20.8,
+      "25_34_years": 24.6,
+      "35_44_years": 32.3,
+      "45_54_years": 11.6,
+      "55_64_years": 2.9,
+      "65_plus_years": 2.5
+    },
+    "viewership_country": {
+      "United States": 37.4,
+      "India": 29.5,
+      "United Kingdom": 12.3,
+      "Canada": 11.6,
+      "Philippines": 9.2
+    }
+  },
+  "revenue": {
+    "month_revenue": 1907,
+    "month_long_revenue": 1907,
+    "month_short_revenue": 0,
+    "short_view_count": 111.28402641576818,
+    "long_view_count": 262744.6329449575,
+    "channel_category_rpm": 8.4,
+    "channel_long_rpm": 7.26,
+    "channel_short_rpm": 0.0362826,
+    "channel_language_code": "eng",
+    "weighted_avg_duration": 8926.820053371082
+  },
+  "category": "anime comic dubs"
+}
+
+

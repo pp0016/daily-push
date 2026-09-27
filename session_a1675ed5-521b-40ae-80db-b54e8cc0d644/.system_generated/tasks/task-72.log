@@ -1,4 +1,4 @@
-Successfully scheduled one-shot timer.
+﻿Successfully scheduled one-shot timer.
 Expected to fire at: 2026-09-15T23:38:00+05:30
 Prompt: Poll the vidIQ video watch job for results
 Early Termination: never
@@ -9,3 +9,5 @@ Early Termination: never
 [2026-09-15T23:37:40+05:30] Still waiting. Remaining time: 20s
 [2026-09-15T23:37:50+05:30] Still waiting. Remaining time: 10s
 [2026-09-15T23:38:00+05:30] Timer fired.
+
+

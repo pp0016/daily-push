@@ -1,4 +1,4 @@
-[19616] Using callback port derived from the server URL: 28085
+﻿[19616] Using callback port derived from the server URL: 28085
 [19616] Discovering OAuth server configuration...
 [19616] Discovered authorization server: https://prod.dashboard.nexlev.io
 [19616] [19616] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
@@ -8,7 +8,7 @@
 [19616] Local STDIO server running
 [19616] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
 [19616] Press Ctrl+C to exit
-[19616] [Local→Remote] initialize
+[19616] [Localâ†’Remote] initialize
 [19616] {
   "jsonrpc": "2.0",
   "id": 0,
@@ -22,18 +22,18 @@
     }
   }
 }
-[19616] [Remote→Local] 0
-[19616] [Local→Remote] notifications/initialized
-[19616] [Local→Remote] tools/call
-[19616] [Remote→Local] 1
-[19616] [Local→Remote] tools/list
-[19616] [Remote→Local] 2
+[19616] [Remoteâ†’Local] 0
+[19616] [Localâ†’Remote] notifications/initialized
+[19616] [Localâ†’Remote] tools/call
+[19616] [Remoteâ†’Local] 1
+[19616] [Localâ†’Remote] tools/list
+[19616] [Remoteâ†’Local] 2
 [19616] 
 Shutting down...
 {
   "channelId": "UC6WzPg6yxF9dQx2_O6R4lww",
   "title": "Nitish Rajput",
-  "description": "This channel is dedicated to informing, educating, and empowering people through well-researched, fact-based content.\n\nIn today’s digital age, social media and the Internet have the power to shape narratives. Here, we use that power responsibly to present clear and meaningful information that helps you think critically and form your own opinions.\n\nOur goal is to simplify complex issues, expose important truths, and encourage open conversations about topics that matter, especially those impacting Indian society.\n\nIf you believe in questioning, learning, and staying aware, this channel is for you.\n",
+  "description": "This channel is dedicated to informing, educating, and empowering people through well-researched, fact-based content.\n\nIn todayâ€™s digital age, social media and the Internet have the power to shape narratives. Here, we use that power responsibly to present clear and meaningful information that helps you think critically and form your own opinions.\n\nOur goal is to simplify complex issues, expose important truths, and encourage open conversations about topics that matter, especially those impacting Indian society.\n\nIf you believe in questioning, learning, and staying aware, this channel is for you.\n",
   "avatar": [
     {
       "url": "https://yt3.googleusercontent.com/i4-MMwgecNSAYn2a_7uHH3HnNsl4xOQlM9tRt47CSfYtfV5fqYD1nl49rnuR29jmLNlSUoaCqA=s160-c-k-c0x00ffffff-no-rj",
@@ -818,3 +818,5 @@ Shutting down...
   "hasEmail": true,
   "msg": ""
 }
+
+

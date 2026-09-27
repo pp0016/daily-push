@@ -1,0 +1,71 @@
+﻿[19876] Using callback port derived from the server URL: 28085
+[19876] Discovering OAuth server configuration...
+[19876] Discovered authorization server: https://prod.dashboard.nexlev.io
+[19876] [19876] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[19876] Using transport strategy: http-first
+[19876] Proactive token refresh failed, falling back to the stored token
+[19876] Proactive token refresh failed, falling back to the stored token
+[19876] Connected to remote server using StreamableHTTPClientTransport
+[19876] Local STDIO server running
+[19876] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[19876] Press Ctrl+C to exit
+[19876] [Localâ†’Remote] initialize
+[19876] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[19876] Proactive token refresh failed, falling back to the stored token
+[19876] Proactive token refresh failed, falling back to the stored token
+[19876] Error from remote server: TypeError: fetch failed
+    at Object.processResponse (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:237:16)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:1081:19
+    at node:internal/process/task_queues:149:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:146:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\index.js:157:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async fetchWithMcpHeaders (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28953:20)
+    at async StreamableHTTPClientTransport.send (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28338:24)
+    at async sendToServer (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:29311:7) {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted addresses: 18.193.243.135:443, 18.157.224.11:443, 3.67.252.9:443, timeout: 10000ms)
+      at onConnectTimeout (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:891:19)
+      at Immediate._onImmediate (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:842:35)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+[19876] Error from remote server: TypeError: fetch failed
+    at Object.processResponse (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:237:16)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\web\fetch\index.js:1081:19
+    at node:internal/process/task_queues:149:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:146:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\index.js:157:7
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async fetchWithMcpHeaders (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28953:20)
+    at async StreamableHTTPClientTransport.send (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:28338:24)
+    at async sendToServer (file:///C:/Users/renu5/AppData/Local/npm-cache/_npx/705d23756ff7dacc/node_modules/mcp-remote/dist/chunk-6QT6R6YJ.js:29311:7) {
+  [cause]: ConnectTimeoutError: Connect Timeout Error (attempted addresses: 18.193.243.135:443, 18.157.224.11:443, 3.67.252.9:443, timeout: 10000ms)
+      at onConnectTimeout (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:891:19)
+      at Immediate._onImmediate (C:\Users\renu5\AppData\Local\npm-cache\_npx\705d23756ff7dacc\node_modules\undici\lib\core\util.js:842:35)
+      at process.processImmediate (node:internal/timers:504:21) {
+    code: 'UND_ERR_CONNECT_TIMEOUT'
+  }
+}
+[19876] 
+Shutting down...
+NexLev call failed: unhandled errors in a TaskGroup (1 sub-exception)
+Hint: If auth failed, run nexlev_kill_stale.py and retry.
+
+
