@@ -1,0 +1,22 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+[Batch] Initializing LaMaBoxCleaner...
+[LaMaBoxCleaner] Loading LaMa FFC Model on cpu...
+2026-10-25 19:47:32.481 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 19:47:32.482 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[LaMaBoxCleaner] Model ready.
+[Batch] Model loaded. Processing 3 images concurrently...
+
+[1/3] Processing: Nuclear_warhead_and_bullet_compa�_202608201544.jpeg...
+[LaMaBoxCleaner] Tile: 136x136. Untouched canvas: 99.89% (modified 1174 px)
+  -> Successfully cleaned and saved to: C:\Users\renu5\Downloads\watermark_mark_removers\clean\Nuclear_warhead_and_bullet_compa�_202608201544.jpeg
+
+[2/3] Processing: Six_banned_military_weapons_disp�_202608201544.jpeg...
+[LaMaBoxCleaner] Tile: 136x136. Untouched canvas: 99.83% (modified 1792 px)
+  -> Successfully cleaned and saved to: C:\Users\renu5\Downloads\watermark_mark_removers\clean\Six_banned_military_weapons_disp�_202608201544.jpeg
+
+[3/3] Processing: Classified_military_weapons_inve�_202608201544.jpeg...
+[LaMaBoxCleaner] Tile: 136x136. Untouched canvas: 99.88% (modified 1230 px)
+  -> Successfully cleaned and saved to: C:\Users\renu5\Downloads\watermark_mark_removers\clean\Classified_military_weapons_inve�_202608201544.jpeg
+
+[Complete] All 3 images processed successfully!

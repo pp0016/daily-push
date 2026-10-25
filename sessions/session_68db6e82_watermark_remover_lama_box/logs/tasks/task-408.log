@@ -1,0 +1,20 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+[Init] Loading LaMa model on cpu...
+2026-10-25 17:47:39.347 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:47:39.348 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[Init] Model ready.
+
+Processing: Driver_view_inside_car_cabin_20261025035921.jpg...
+  Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\zero_color_shift_test\Driver_view_inside_car_cabin_20261025035921.jpg
+  Canvas untouched: 99.86%
+  Clean Patch LAB: L=30.34, A=129.03, B=131.14
+  Surround    LAB: L=35.37, A=126.80, B=123.15
+  Delta E (color difference): 9.70
+
+Processing: Driving_car_in_underground_parking_20261025035921.jpg...
+  Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\zero_color_shift_test\Driving_car_in_underground_parking_20261025035921.jpg
+  Canvas untouched: 99.87%
+  Clean Patch LAB: L=43.79, A=127.82, B=129.96
+  Surround    LAB: L=48.90, A=126.34, B=123.99
+  Delta E (color difference): 8.00

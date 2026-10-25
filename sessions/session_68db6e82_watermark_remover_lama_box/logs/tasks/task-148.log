@@ -1,0 +1,19 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 04:18:14.023 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 04:18:14.024 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+Found 5 target images to clean:
+ - Coffee_cup_in_car_console_20261025035921.jpg
+ - Coworkers_in_underground_parking…_20261025035921.jpg
+ - Driver_turning_car_into_parking_20261025035921.jpg
+ - Driver_view_inside_car_cabin_20261025035921.jpg
+ - Driving_car_in_underground_parking_20261025035921.jpg
+[UniversalWatermarkRemover] Initializing LaMa FFC on device: cpu
+[UniversalWatermarkRemover] Model loaded successfully.
+
+[1/5] Processing: Coffee_cup_in_car_console_20261025035921.jpg...
+Traceback (most recent call last):
+  File "C:\Users\renu5\.gemini\antigravity\brain\68db6e82-6ec9-4f47-a039-6e7cc2557d48\scratch\batch_test_runner.py", line 32, in <module>
+    success = remover.process_image(
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'UniversalWatermarkRemover' object has no attribute 'process_image'

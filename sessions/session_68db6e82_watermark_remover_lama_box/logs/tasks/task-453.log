@@ -1,0 +1,36 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+[MagicEraser] Initializing LaMa FFC Model on cpu...
+2026-10-25 17:51:15.206 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:51:15.206 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[MagicEraser] Engine ready.
+
+--- Running Zero-Discoloration Trial on 4 Target Images ---
+
+[1/4] Processing: Coworkers_in_underground_parking�_20261025035921.jpg
+[MagicEraser] Tile: 120x120 at (1220, 612). Canvas untouched: 99.878% (modified 1292 px)
+  -> Successfully saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Coworkers_in_underground_parking�_20261025035921.jpg
+  Collar BGR: [B=57.4, G=53.9, R=46.5]
+  Patch  BGR: [B=46.6, G=42.3, R=35.1]
+  Delta E: 12.53 (Delta E < 2.0 = imperceptible color difference)
+
+[2/4] Processing: Driver_turning_car_into_parking_20261025035921.jpg
+[MagicEraser] Tile: 120x120 at (1220, 612). Canvas untouched: 99.878% (modified 1293 px)
+  -> Successfully saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_turning_car_into_parking_20261025035921.jpg
+  Collar BGR: [B=159.2, G=169.8, R=144.2]
+  Patch  BGR: [B=151.6, G=160.3, R=134.5]
+  Delta E: 9.61 (Delta E < 2.0 = imperceptible color difference)
+
+[3/4] Processing: Driver_view_inside_car_cabin_20261025035921.jpg
+[MagicEraser] Tile: 120x120 at (1220, 612). Canvas untouched: 99.888% (modified 1186 px)
+  -> Successfully saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_view_inside_car_cabin_20261025035921.jpg
+  Collar BGR: [B=39.2, G=32.5, R=25.9]
+  Patch  BGR: [B=38.2, G=30.6, R=20.0]
+  Delta E: 3.52 (Delta E < 2.0 = imperceptible color difference)
+
+[4/4] Processing: Driving_car_in_underground_parking_20261025035921.jpg
+[MagicEraser] Tile: 120x120 at (1220, 612). Canvas untouched: 99.882% (modified 1244 px)
+  -> Successfully saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driving_car_in_underground_parking_20261025035921.jpg
+  Collar BGR: [B=52.9, G=49.0, R=41.9]
+  Patch  BGR: [B=47.0, G=42.5, R=35.0]
+  Delta E: 7.69 (Delta E < 2.0 = imperceptible color difference)

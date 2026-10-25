@@ -1,0 +1,35 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 04:22:09.287 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 04:22:09.287 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+Found 5 target images to clean:
+ - Coffee_cup_in_car_console_20261025035921.jpg
+ - Coworkers_in_underground_parking…_20261025035921.jpg
+ - Driver_turning_car_into_parking_20261025035921.jpg
+ - Driver_view_inside_car_cabin_20261025035921.jpg
+ - Driving_car_in_underground_parking_20261025035921.jpg
+[UniversalWatermarkRemover] Initializing LaMa FFC on device: cpu
+[UniversalWatermarkRemover] Model loaded successfully.
+
+[1/5] Processing: Coffee_cup_in_car_console_20261025035921.jpg...
+[Auto] Detected Gemini sparkle watermark (conf=0.678, center=(1279.5, 670.5)), removing...
+  -> SUCCESS! Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results\Coffee_cup_in_car_console_20261025035921.jpg
+
+[2/5] Processing: Coworkers_in_underground_parking…_20261025035921.jpg...
+[Auto] Detected Gemini sparkle watermark (conf=0.910, center=(1279.5, 670.5)), removing...
+  -> SUCCESS! Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results\Coworkers_in_underground_parking…_20261025035921.jpg
+
+[3/5] Processing: Driver_turning_car_into_parking_20261025035921.jpg...
+[Auto] Detected Gemini sparkle watermark (conf=0.459, center=(1279.5, 671.5)), removing...
+  -> SUCCESS! Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results\Driver_turning_car_into_parking_20261025035921.jpg
+
+[4/5] Processing: Driver_view_inside_car_cabin_20261025035921.jpg...
+[Auto] Detected Gemini sparkle watermark (conf=0.789, center=(1278.5, 670.5)), removing...
+  -> SUCCESS! Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results\Driver_view_inside_car_cabin_20261025035921.jpg
+
+[5/5] Processing: Driving_car_in_underground_parking_20261025035921.jpg...
+[Auto] Detected Gemini sparkle watermark (conf=0.863, center=(1278.5, 671.5)), removing...
+  -> SUCCESS! Saved to: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results\Driving_car_in_underground_parking_20261025035921.jpg
+
+All target images processed successfully!
+Cleaned images folder: C:\Users\renu5\Downloads\Oct 24 - 23_36\cleaned_test_results

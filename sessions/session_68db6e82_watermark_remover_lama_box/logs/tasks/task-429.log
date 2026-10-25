@@ -1,0 +1,7 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 17:49:23.249 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:49:23.250 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+Input RGB mean: [255.   0.   0.]
+Output inside mask mean: [  4.921875     3.25347222 253.890625  ]
+Output outside mask mean: [  0.   0. 255.]

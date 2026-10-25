@@ -1,0 +1,23 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+    @torch.inference_mode()
+    def __call__(self, image, mask, config: InpaintRequest):
+        """
+
+        Args:
+            image: [H, W, C] RGB
+            mask: [H, W, 1] 255 means area to repaint
+            config:
+
+        Returns:
+            BGR image
+        """
+        if config.enable_controlnet:
+            self.switch_controlnet_method(config)
+        if config.enable_brushnet:
+            self.switch_brushnet_method(config)
+
+        self.enable_disable_powerpaint_v2(config)
+        self.enable_disable_lcm_lora(config)
+        return self.model(image, mask, config).astype(np.uint8)
+

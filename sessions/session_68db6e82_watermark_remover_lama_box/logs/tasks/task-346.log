@@ -1,0 +1,9 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 17:37:58.279 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:37:58.280 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[MagicEraser] Loading LaMa FFC Inpainting Model on cpu...
+[MagicEraser] Model ready.
+[MagicEraser] Inpainted tile: 120x120 at (1218, 610). Canvas untouched: 98.64%
+
+[MagicEraser] Finished! Cleaned image saved to: C:\Users\renu5\.gemini\antigravity\brain\68db6e82-6ec9-4f47-a039-6e7cc2557d48\scratch\driver_turning_magic_erased.jpg
