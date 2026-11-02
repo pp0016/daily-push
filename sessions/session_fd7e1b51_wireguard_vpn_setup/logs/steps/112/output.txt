@@ -1,0 +1,17 @@
+The search for "147.135.37.178 ip location" returned the following summary:
+Geographical and network details for the IP address **147.135.37.178**:
+
+* **Country:** United States[1]
+* **State / Region:** Oregon[1]
+* **City:** Hillsboro[1]
+* **ISP / Hosting Provider:** OVH SAS / OVHcloud (Autonomous System AS16276)[1][2]
+* **Network Type:** Datacenter / Hosting / VPN node (commonly associated with services like VPNBook)[1][3]
+
+*Note: Because this is a datacenter and VPN-associated IP address, the physical location of the actual user routing traffic through it is likely different from the physical server location in Oregon[1].*
+
+Sources:
+[1] [vpn.lat](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG08ZjtM_pEZkb53p_vpioKh-DrCbugMVTv4gqOTB20h_iL-kA6mL8VOwMDsM8zQMV6xSLGCiSl8rXi0ivmHyl4PqXp_Zt6-cl1C3Vb04MCysKfMe3_WQZKDw5kOtSvIzeT5XW4uoFsppc=)
+[2] [ipqualityscore.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqYazc2IgOeDd9yco-ghGSOy6fFXIWqRl9oH60vjCue6wdPhAi-b42qo4ctx12G9v9ls8p0_KSxiR3XvZX82WMwQeMloAaf-1vx1wQj84wc707dZtHdGjf0ZPawj5QoU4GF-bCMaPY8L_US3jw4Q8tVseGfHyegZOBiT1LinG8z_zoyy0ArDhY)
+[3] [ip-tracker.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPWJtNdvbRzkrGWKQPJPcL_fEShmbbbpUIg03I2-uhkouIfc-ZXgeyI-PfpHYlOlFrDpNyxMKqXz5BceAXyPqRqAW0mtE-2WsWitd7vxfdf9Lc9aNVT562ypOeTPsb7t2QOCG2SUU9awpvy5qX)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

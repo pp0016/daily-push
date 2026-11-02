@@ -1,0 +1,18 @@
+The search for "does protonvpn free allow wireguard configuration download" returned the following summary:
+**Yes, Proton VPN Free allows you to download and use WireGuard configuration files.**[1][2]
+
+You can log into your account dashboard (`account.protonvpn.com`), navigate to **Downloads → WireGuard configuration**, and generate `.conf` files to use on third-party clients, routers, or operating systems that support WireGuard[1][2].
+
+However, there are a few limitations on the Free plan to keep in mind:
+* **Server Choices:** You can only generate configurations for the free server locations available to your account[2][3]. 
+* **Advanced Features:** Features like NetShield (ad-blocking) or custom NAT settings are restricted to paid tiers; on the Free plan, the only configurable option available when making your config is *VPN Accelerator*[4][2]. 
+* **Official Apps vs. Manual Config:** While you can use the WireGuard protocol for free inside Proton VPN's official graphical apps[5], downloading manual configuration files allows you to run WireGuard on devices like routers (e.g., OpenWrt, pfSense) or standalone third-party clients[2].
+
+Sources:
+[1] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNI751SkCV85FopMnFSZHOyVG9I-RQo__FcIXrUIY5VHEUn3EK1RBOJ3rHTPUBYDZWuQvlFDqGDoKlovKmDiMAzX3hBi7wN8DVkqWhhwWyMIcUtvKK_7djHJ8E55FVcPbC5g1_bRLdu3Anbzo=)
+[2] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfGUGBGEZUA9lEbA2kMnqEvpQYW96d9kHup5ruX7Yxf2S1Xr4xOLK9NofCB1rr-gO2PTen-4Tj7L1bSTCMiA8Tq_z4OZrvIUhvZ3eBVNSdTJ9pzDbDzRdSTJ_-aRxJDyfQhIlqbp_HFTUW0A==)
+[3] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLvDqwtf7YYCHGkVOYpEWYKAWw8_OZxKCom6pVo8NcpTazckDDwqRwaEs4kyGSboHsb9jULoWz_QqQsAyvsPJkvd_ps7RO_J3Au1iYryfej3FRJoHkeB5vYasYgtR1Es-pwAvS-ab2QaYl-Q==)
+[4] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR_K-oTOZJ2LQsGstpSuOd2K5Vd1yNfLRczeaG64jP5k8F5KBk8KuFJWPQC9MYjzb14vBDofybYXp_Axf4Gv8gnZ5dBxReJq801_SY-hrehFNqTueN43By-SzWrGBk-GJ2frmpexDaIT64g2U=)
+[5] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLL0xhcCYacVfurhUIzjxXerX8gBiQlJoLcVLNyzxBEavtXCNt10qEsprwgj3t1Zeg_Q3apkVwJB_rm2bwb7ZSlgIbuhGco_hyMK8w4xm18jLD0jQLAxPmo9E6r-izDkElew==)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

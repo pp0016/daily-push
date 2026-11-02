@@ -1,0 +1,7 @@
+Exception calling "GetHostAddresses" with "1" argument(s): "No such host is known"
+At line:1 char:179
++ ... CALAPPDATA; [System.Net.Dns]::GetHostAddresses("engage.cloudflareclie ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : SocketException
+ 

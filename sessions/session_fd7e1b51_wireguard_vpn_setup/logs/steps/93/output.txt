@@ -1,0 +1,1 @@
+Encountered error in step execution: Failed to fetch document content at https://www.vpnbook.com/free-wireguard-vpn: failed to get URL https://www.vpnbook.com/free-wireguard-vpn: status code 404

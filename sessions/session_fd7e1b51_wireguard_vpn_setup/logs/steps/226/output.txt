@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\renu5\Downloads
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        02-11-2026  05:45 PM            407 us-fast-US-FREE-11.conf                                              
+
+

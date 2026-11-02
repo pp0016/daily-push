@@ -1,0 +1,365 @@
+Command exited with code 0.
+
+Command output:
+
+Name                                              Length  
+----                                              ------  
+.agents                                                   
+1st try                                                   
+after-github                                              
+assets                                                    
+assets_25d                                                
+cloud_bridge                                              
+cream_explainer_inspect                                   
+cream_explainer_out                                       
+crocs_documentary_3d                                      
+daily-push                                                
+daily-push-repo                                           
+documentary-style                                         
+erasio_ext                                                
+faceless_content_pipeline                                 
+faceless_engine                                           
+ffmpeg-test                                               
+frames_25d                                                
+full_agent_reports                                        
+ice-age-video-pipeline                                    
+images                                                    
+india_gdp_motion_graphic                                  
+infographic_sample                                        
+logos                                                     
+MacBook-                                                  
+MacBook-Archive                                           
+MacBookRepo                                               
+manim-projects                                            
+manim_farm                                                
+manim_text_video                                          
+marker_env                                                
+messages                                                  
+micro-print-env                                           
+micro-project                                             
+motion-canvas-iceage                                      
+motion_graphic_match_cut                                  
+nexlev_bridge                                             
+nexlev_oauth                                              
+pdf_pages                                                 
+pdf_whiten                                                
+pilot_inspect                                             
+popup-project                                             
+puppeteer-thumbnail-generator                             
+raw_browser_videos                                        
+remotion-test                                             
+render_output                                             
+reports                                                   
+repo_export                                               
+stickman-motion-graphics                                  
+stickman_youtube                                          
+story-1min-video                                          
+synthesized_subagent_reports                              
+turf-business-explainer                                   
+turf-infographic-show                                     
+video-prompt-app                                          
+vidiq_bridge                                              
+whiteboard-demo                                           
+youtube_downloads                                         
+yt-stats-tracker                                          
+yt_env                                                    
+_find_skill_bare                                          
+__pycache__                                               
+15.txt                                            24639   
+add_cover.py                                      1066    
+align_audio.py                                    1061    
+all_strings.txt                                   204938  
+analyze_slide14.py                                685     
+append_references.py                              2715    
+apply_audit.py                                    2258    
+audio_10s_master.wav                              882078  
+audit_pdf.py                                      558     
+batch.json                                        188     
+bg1_1080.jpg                                      176744  
+bg1_clean.jpg                                     78191   
+bg1_test.jpg                                      65978   
+bg2_1080.jpg                                      104894  
+bg2_clean.jpg                                     58486   
+bg2_museum.jpg                                    320202  
+bg2_plate.jpg                                     35062   
+blocks.txt                                        161367  
+bold_headings.py                                  1941    
+build_academic_ppt.py                             18477   
+build_cover.py                                    3250    
+build_expert_ppt.py                               18832   
+build_pdf.py                                      50180   
+build_pdf_v3.py                                   51394   
+build_pdf_v4.py                                   50343   
+build_pdf_v5.py                                   52417   
+calc_monthly.py                                   1399    
+certificate.html                                  255447  
+certificate.pdf                                   253296  
+certificate.png                                   252730  
+check_access.py                                   314     
+check_agents_status.py                            1614    
+check_fonts.py                                    613     
+check_lines.py                                    511     
+check_obs.py                                      628     
+check_perm.py                                     1337    
+check_sizes.py                                    410     
+check_spacing.py                                  513     
+check_sys_fonts.py                                288     
+check_whisper.py                                  473     
+chunk0.txt                                        20080   
+chunk_00.mp4                                      8810745 
+chunk_01.mp4                                      13099279
+chunk_02.mp4                                      21756154
+chunk_03.mp4                                      22811673
+chunk_04.mp4                                      22881721
+chunk_05.mp4                                      22005444
+chunk_concat.txt                                  384     
+chunk_count.txt                                   1       
+cleaned_text.txt                                  148039  
+clone_repos.ps1                                   1485    
+clone_skills.ps1                                  1231    
+content.html                                      10751   
+convert_all.py                                    420     
+convert_docs.py                                   10495   
+convert_missing.py                                389     
+convert_pdf.py                                    456     
+convo_dump.txt                                    33340   
+cover_v2.png                                      72891   
+cream_explainer_audio.wav                         4256070 
+create_davinci_gdp_template.py                    5265    
+create_fusion_match_cut.py                        6004    
+crop_mid.png                                      548     
+declaration.html                                  255861  
+declaration.pdf                                   250966  
+declaration.png                                   251116  
+download_mdpi_test.py                             1265    
+download_sfx.ps1                                  1824    
+download_verified_papers.py                       3092    
+dump_convo.py                                     889     
+dump_exact_frames.py                              700     
+dump_json.py                                      935     
+dump_segments.py                                  554     
+ECM_Lab_Manual_Answers.md                         12318   
+edit_pdf.py                                       10040   
+erasio.crx                                        882452  
+erasio.zip                                        882452  
+exact_format_rendered.pdf                         280397  
+exact_page_1.png                                  226262  
+Expert_Industrial_Pollution_Management.pptx       333386  
+extract.py                                        1380    
+extract2.py                                       952     
+extract3.py                                       1100    
+extract4.py                                       2035    
+extracted_p1_img1.png                             107414  
+extracted_text.txt                                162686  
+extract_all.py                                    3307    
+extract_competitors.py                            1791    
+extract_ig.py                                     687     
+extract_images.py                                 660     
+extract_logos.py                                  763     
+extract_md.py                                     1002    
+extract_state.py                                  721     
+extract_viva.py                                   1824    
+fast_vox_30s_render.py                            13967   
+fetch_videos.py                                   2806    
+fetch_videos_v2.py                                3061    
+final_boss_2.txt                                  19092   
+Final_Environment_Management_PPT.pptx             191569  
+final_frame_1_8s.png                              921762  
+final_frame_4_2s.png                              932348  
+final_frame_7_2s.png                              1145139 
+final_frame_8_8s.png                              1213065 
+final_inspect_1_2s.png                            2787322 
+final_inspect_3_0s.png                            2732203 
+final_inspect_4_5s.png                            2722172 
+final_inspect_7_2s.png                            3074206 
+final_inspect_9_0s.png                            3142666 
+final_page_1.png                                  67310   
+final_ppt_generator.py                            14200   
+fix_hand.py                                       1237    
+fix_references_properly.py                        2949    
+formatted.html                                    163981  
+formatted_bank.md                                 55032   
+format_exact.py                                   1234    
+frame_120_4.00s.png                               3243168 
+frame_160_5.33s.png                               3493607 
+frame_1_5s.png                                    911864  
+frame_200_6.67s.png                               3583742 
+frame_250_8.33s.png                               3643213 
+frame_280_9.33s.png                               3591536 
+frame_295_9.83s.png                               3578263 
+frame_30_1.00s.png                                3194102 
+frame_4_0s.png                                    952650  
+frame_75_2.50s.png                                3189977 
+frame_7_5s.png                                    1164851 
+frame_9_0s.png                                    1217295 
+generate_accurate_shots.py                        14639   
+generate_docx_report.py                           17651   
+generate_docx_report_fixed.py                     18376   
+generate_exact_report.py                          60326   
+generate_md_files.py                              222     
+generate_pdf.py                                   18043   
+generate_report.py                                22061   
+generate_report_docx.py                           61830   
+generate_resume.py                                2621    
+generate_scene.py                                 9746    
+generate_video.py                                 2020    
+gen_html.py                                       2798    
+get_colors.py                                     963     
+get_step23.py                                     411     
+get_subagent_msgs.py                              582     
+get_subagent_msgs2.py                             723     
+get_timestamps.py                                 453     
+glm52_controller_prompt.md                        4392    
+glove_clean.png                                   2054658 
+glove_perfect.png                                 2054760 
+hand2_rgba.png                                    2054688 
+hand_1080.png                                     3405409 
+hand_flawless.png                                 2048267 
+Industrial_Pollution_Management_Presentation.pptx 191505  
+inspect_audio_shots.py                            707     
+inspect_coord.py                                  939     
+inspect_cutouts.py                                496     
+inspect_doc.py                                    823     
+inspect_docs.py                                   1066    
+inspect_images.py                                 387     
+inspect_macro.png                                 1023334 
+inspect_macro_fixed.png                           1023273 
+inspect_orig_spoon1.png                           738820  
+inspect_pdf.py                                    322     
+inspect_pdf2.py                                   281     
+inspect_ppt.py                                    1049    
+inspect_prior_1.5.png                             2721305 
+inspect_prior_3.5.png                             2721305 
+inspect_prior_5.4.png                             2721305 
+inspect_prior_7.5.png                             2721305 
+inspect_prior_9.5.png                             2721305 
+inspect_segments.py                               374     
+logo_0.png                                        140665  
+logo_1.png                                        140665  
+logo_2.png                                        25623   
+make_file1.py                                     2566    
+make_file2.py                                     24098   
+mask1_test.png                                    30760   
+master_25d_video_perfect.mp4                      3427918 
+micro_print_arranger.py                           12077   
+nexlev_analytics_args.json                        42      
+nexlev_args.json                                  29      
+nexlev_call.py                                    960     
+nexlev_daily_args.json                            59      
+nexlev_ep_about.py                                925     
+nexlev_ep_batch.py                                1298    
+nexlev_geo_args.json                              42      
+nexlev_oldest.json                                68      
+Non-traumatic_orthopedics_midterm.md              162896  
+Non-traumatic_orthopedics_midterm_exact.md        167833  
+Non_traumatic_orthopedics_midterm_formatted.md    160963  
+outliers.py                                       3660    
+page_0.png                                        261207  
+page_1.png                                        267124  
+page_2.png                                        216771  
+page_3.png                                        224212  
+page_4.png                                        263468  
+page_5.png                                        245029  
+page_6.png                                        280759  
+page_7.png                                        135350  
+parse_dom.py                                      2185    
+parse_json.py                                     1815    
+parse_videos.py                                   973     
+parse_yt.py                                       1609    
+part1.md                                          32566   
+part2.md                                          32759   
+part3.md                                          31390   
+part4.md                                          32002   
+part5.md                                          29809   
+pdf_extracted.txt                                 6496    
+perfect_glove.py                                  1293    
+perfect_spoon2.py                                 1494    
+possible_conv.txt                                 11515   
+prep_layers.py                                    1560    
+print_1_to_6.py                                   292     
+print_qs.py                                       288     
+process-3-proposal-evaluator-prompt.md            8791    
+process_batch.py                                  2663    
+push_session.ps1                                  1895    
+qc_frame_2.0s.png                                 946304  
+qc_frame_5.0s.png                                 930661  
+qc_frame_8.0s.png                                 1181944 
+query_crossref.py                                 1214    
+query_openalex.py                                 1118    
+read_db.py                                        431     
+read_proto.py                                     621     
+remove_content_only.py                            826     
+remove_sections.py                                1314    
+render_25d_frames.py                              24609   
+render_25d_video.py                               20407   
+render_pdf.py                                     736     
+render_png.py                                     864     
+render_vox_master.py                              32007   
+report_body.pdf                                   1486739 
+Rudrapani_Resume.docx                             37581   
+run_glm.py                                        1592    
+run_glm_timeout.py                                1836    
+run_nexlev_sdk.py                                 701     
+sample_2.5d_video.mp4                             82551229
+sample_2.5d_video_hardsub.mp4                     3822134 
+scan_windows.ps1                                  244     
+scene.blend                                       167557  
+scene.blend1                                      168525  
+SCREENPLAY_AND_VOX_EXECUTION_PLAN.md              26131   
+screenplay_director_manifest.md                   12267   
+script.py                                         3194    
+search_arxiv.py                                   1415    
+search_db.py                                      1911    
+search_pmc.py                                     996     
+segments_summary.txt                              1789    
+space_cat_presentation.pptx                       31157   
+spoon1_1080.png                                   1386546 
+spoon1_grabcut.png                                876806  
+spoon1_rgba.png                                   885049  
+spoon2_1080.png                                   3405193 
+spoon2_clean.png                                  2084319 
+spoon2_grabcut.png                                2046588 
+spoon2_perfect.png                                2048268 
+spoon2_rgba.png                                   2143400 
+starting_pages.pdf                                513822  
+strings.txt                                       215026  
+subs.txt                                          12744   
+subs_json.txt                                     1823    
+subtitles_10s.ass                                 1165    
+subtitles_10s.json                                9587    
+subtitles_10s.srt                                 244     
+temp.txt                                          1812    
+test.jpg                                          538774  
+test.py                                           623     
+test_pipe.mp4                                     1718    
+test_resolve_connection.py                        543     
+test_skia.png                                     20156   
+transcript_dump.txt                               281422  
+transcript_dump_utf8.txt                          151282  
+update_pdf.py                                     756     
+urls.txt                                          111062  
+verify.py                                         2896    
+verify_agent2_complete.py                         4258    
+verify_agent3_complete.py                         6669    
+verify_conversion.py                              2519    
+verify_local_assets.py                            387     
+verify_project.py                                 1260    
+verify_quotes.py                                  645     
+verify_real_pmc.py                                1737    
+verify_text.py                                    2014    
+verify_timing.py                                  2312    
+verify_vox_master.py                              3622    
+video2x_readme.md                                 0       
+video2x_readme2.md                                10210   
+vidiq_context.txt                                 9313    
+viva_questions.json                               18183   
+VOX_30S_WATCHABLE_MASTER.mp4                      28901793
+vox_code_architecture_blueprint.md                60599   
+vox_ice_age_master.mp4                            48      
+vox_remotion_deep_research.md                     39029   
+wgcf-account.toml                                 209     
+wgcf-profile.conf                                 353     
+wgcf.exe                                          10252800
+yt_data.json                                      1323076 
+
+

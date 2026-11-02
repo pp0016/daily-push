@@ -1,0 +1,33 @@
+The search for ""vpnjantit" free wireguard united states" returned the following summary:
+If you are looking for **Free WireGuard servers in the United States** via **VPN Jantit**, here is what you need to know about how their service works, what's available, and how to set it up:
+
+### 1. Server Features & Details
+* **Locations:** VPN Jantit features multiple US-based nodes for WireGuard (such as New York City, Ashburn, Miami, Dallas, Los Angeles, and Secaucus)[1][2].
+* **Bandwidth:** Unlimited bandwidth[3].
+* **Protocols & Ports:** Supports TCP and UDP, typically utilizing Port 1024[4][1].
+* **Active Period:** Free accounts typically last up to **2 to 7 days** (depending on the specific node) before they need to be renewed or recreated[4][1][5]. 
+* **Reset Time:** Free WireGuard allocations typically reset daily at **22:00 GMT+7**[6].
+* **Restrictions:** **No Torrenting** allowed on free tiers[4][7]. 
+
+### 2. How to Create and Connect to a Free US WireGuard Account
+1. **Visit the Website:** Go to the official [VPN Jantit](https://www.vpnjantit.com) portal and navigate to the **Free WireGuard** section, specifically filtering or selecting **United States** servers[6][3].
+2. **Choose a Server Node:** Pick an active US server (e.g., USA / New York / Ashburn nodes) depending on current capacity (watch out for indicators showing if a server is "100% Full")[4][1][2].
+3. **Generate Credentials:** 
+   * Enter your desired username and password[8].
+   * Complete the generation process to create your configuration file.
+4. **Connect via QR Code or Config:** 
+   * VPN Jantit provides a **QR code** for easy scanning[3][5].
+   * Download the official **WireGuard application** (available for Android, iOS, Windows, macOS, and Linux)[5].
+   * Either scan the QR code directly inside the app or import the configuration file to establish your secure connection[3][5].
+
+Sources:
+[1] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl0NyG4lmxSBqWvS4wKn-rXP2zn_vdNttA1y3FCPYAZy1Ila9o3JBZ_DVvR6tDu4UWLsFVACHmYgL-6_tah3MR8zEYOkxPvCza6hS2zq9Bos1SmxJl_HnmR2SqdUYoApSDMFtFSdP1USIGgpK8zZOhXOMSPxb77DK9Gi4uDtA=)
+[2] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtvS5zlKB2Ee29dHc2sJ7s-6hnAXIDKDOG1yWSx3JjHjqeSwPf7hhW6JroFVdCTMtmhxw5nTJtQFUEHbB-tcn336M5Gvleus9g-dNfj91H8n2OqI1pm6R5QwHVgITXv01R9kRH965zLz0WGwg=)
+[3] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOjz_Sfpv9qjNnPSIblsOZT2uwAZ-hVkYFvgYAlJDA4f3YzAJJ0qq_ktDZWPLW0lFZ-5VGELnKUBU57IEmUQBFiUGqiO9ykbUvWp07IsMl4z9fkbJasEsyGlc-biVd)
+[4] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7UYSq9eoXkc1gXE3TeZ1scenk4TeEw4YMOXCDk_iII_NWtS6HqbNaBRO_qm6KPPX18XyMkKfNrwaj5OzU8sWZ63VKJ038ALwO9jJF9LpmqFKkP8wQIWlLzrQPffN2s5OEisaRo9dZvnk5g5o=)
+[5] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSrKxfvMKLBFTGBjAQ4Z7xYcxno_WdH6BgoQvpEqCg7bBRZnQfpJNY8tICPqVw3Ss0_EkdqR9JKarmLzmltKFloAFt3F1MF3MhES3o6xMyON_9ZrDXKsj-e9HAKkBQsvqKZ-GeZaqb28j0Xev1YM8=)
+[6] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmHaqr0lSpf6xz6dDBqbf2rL2PA3SfAwVF_JTwxsJwq4_ig6kAWQ7Fj0h4Xz_fq3p4g3mc00ZoMW1pcawVM7P56CEPS5gaewnk8H3JCf1IDIA2vY5Xd1WvsFDY-rUG1odZrA==)
+[7] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9m6NbxqgD23-CuHHhoKeCQAAevmHLEnuoi-Op81GWjVC84GFfqO0qLO26SYu2DLfutqLvy_Ekeap213rHcnh7zpgO5RENJMI8watZrEfI3mx_zflt1q-YU0uzjcD1NMHXIPCwiw==)
+[8] [vpnjantit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUYXD3w6m73RxaL5MVr9HzsyrHorpGvibYT5o2Oy7ptzhPCkuDktBiFxDBcEMd3PHMSfaRknDY2aXF9qtupZrNoOl-WNfDw1a9vqp8UlLiZkKlXG1qztdTf9SITVvNMCEkKpa40q4HjxGMHAW9TFBf0nUcV_p3wBs951DOQCqsyBM=)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

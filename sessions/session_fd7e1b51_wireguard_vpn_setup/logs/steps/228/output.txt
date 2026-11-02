@@ -1,0 +1,17 @@
+Command exited with code 0.
+
+Command output:
+
+Name                             Length
+----                             ------
+Cloudflare-WARP.conf                340
+us-fast-US-FREE-11.conf             407
+US-Proton-Fast.conf                 407
+US-VPN.conf                         272
+vpnbook-wg_41774d94f7b9d3b5.conf    272
+vpnbook-wg_bfe52b4db661fde5.conf    268
+Washington-DC.conf                  272
+wgcf-account.toml                   209
+wgcf-profile.conf                   353
+
+

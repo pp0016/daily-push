@@ -1,0 +1,44 @@
+The search for ""Endpoint = " "AllowedIPs = 0.0.0.0/0" "PublicKey = " USA wireguard config" returned the following summary:
+It looks like you are trying to set up or find a WireGuard client configuration file template for a **USA-based server**, featuring a full-tunnel setup (`AllowedIPs = 0.0.0.0/0`)[1]. 
+
+Below is a complete standard template for a WireGuard client configuration file (`wg0.conf`). To make it work, you will need to fill in the missing values (the server's IP/port for the `Endpoint`, the server's `PublicKey`, and your client's `PrivateKey` and `Address`)[2][3].
+
+### WireGuard Client Configuration Template
+
+```ini
+[Interface]
+# Your client private key (generated on your local machine)
+PrivateKey = YOUR_CLIENT_PRIVATE_KEY_HERE
+# The internal VPN IP address assigned to your device by the US server
+Address = 10.x.x.x/32
+# Optional: DNS servers to use while connected (e.g., Cloudflare or Google)
+DNS = 1.1.1.1, 8.8.8.8
+
+[Peer]
+# The public key provided by your USA WireGuard server
+PublicKey = YOUR_SERVER_PUBLIC_KEY_HERE
+
+# Route all internet traffic through the US VPN tunnel (Full Tunnel)
+AllowedIPs = 0.0.0.0/0, ::/0
+
+# The public IP address and port of the US server (e.g., 198.51.100.1:51820)
+Endpoint = USA_SERVER_IP_OR_DOMAIN:PORT
+
+# Keeps the NAT connection alive behind routers/firewalls (optional but recommended)
+PersistentKeepalive = 25
+```
+
+### Explanation of the fields you mentioned:
+* **`Endpoint =`**: The public-facing IP address (or domain name) and UDP port of the VPN server located in the USA (e.g., `192.0.2.45:51820`)[3].
+* **`AllowedIPs = 0.0.0.0/0`**: Tells your device to route **all** IPv4 internet traffic through the WireGuard tunnel[1] (adding `::/0` covers IPv6 as well[1]). This ensures your traffic exits via the US server.
+* **`PublicKey =`**: The cryptographic public key belonging to the remote US server[4] (do not use your client's private or public key here).
+
+*Note: If you are looking for free or paid commercial US WireGuard configuration files, you will need to sign up with a reputable VPN provider that supports WireGuard (such as Mullvad, ProtonVPN, IVPN, etc.) or deploy your own private server using a cloud hosting provider (like AWS, DigitalOcean, or Linode) with a data center located in the United States.*
+
+Sources:
+[1] [defguard.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO2fpvWwJLPH0UHksgT2FPgtTLC5oaClQ_nQ8hp6XSyTBI0a1tDGl9ns36K99qwOGhLwC_n8EryT05mFBMSk9u4bKbR4kYMTqJw7LYZGmciLZrCAJ1qHnbkY0BeZYIMGnKAMTo)
+[2] [procustodibus.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9W6VIPrgO34Y9ixaSJVqSnKSl5PwtNKF7JBeblShU8FURnGhFRWZ8-6HGFjfE_QjSY6lAWbphoQ_FEOuH_VT1WZ-iRZFKzWoTq4dNf0btabs-CT17t9KO5kogbis_EwvJIq4R1zU4rT1JrTv3rgRvoH98NEy2B_1t6BLUDG9tbIHaoOL-)
+[3] [ducklabs.com.br](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9DFFwzkU_jnBbFffGkjMgMGA72hjLycP-PeC5vF8opzm9aOykstDptKN_ZZ56dRoLfLFRzv7bxhV6iW_GX3X4CuslQQ-H8U5U0jKJxCw4BRNju4uc7YFL01NiiRMyxcOzpIKzThhyqmG6duYwGSxnAAtXZbIpCl3JYqSSU_kxww==)
+[4] [medium.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOUqp1gZ-pCyxuvv__tfE3ktEAKVeBkh8BN_-qgqavjF4lK2VqggDptLu3IfelsOARCs_s5HGhh_sdIybdsXGX7eDqv85fEz5YHGac_4qQ0ASsDq9P-ClRrxNiUyDX9fGRXQGiQ0M2plqRJUPg2yqCyg-_2RuovGb8vK_IeOSWeKlt-8R5GYW2HCgPklU=)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

@@ -1,0 +1,13 @@
+The search for ""us16.vpnbook.com" IP location" returned the following summary:
+The domain **us16.vpnbook.com** resolves to the following IP address and geographical location details:
+
+* **IP Address:** `147.135.15.16`[1]
+* **Country:** United States[1]
+* **State / Region:** Virginia[1]
+* **City:** Warrenton[1]
+* **ISP / Hosting Provider:** OVH US LLC (ASN: 16276)[1]
+
+Sources:
+[1] [whatismyipaddress.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwicvftG-_s_V4nFFO3fTmJhyzEKiT0qgjnBuFc6jvqY0Ib5gjrWYta4CjORkeTWbSuNz7lcdIzGrQkfvYLaa6qNbLJe6bkCabn8WT2_FkAB-_roLP20iEuoEhSP8gv81R_X0=)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

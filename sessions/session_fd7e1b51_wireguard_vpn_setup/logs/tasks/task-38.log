@@ -1,0 +1,2 @@
+2026/10/18 13:46:19 Using config file: wgcf-account.toml
+2026/10/18 13:46:19 Get "https://api.cloudflareclient.com/v0a1922/reg/18d76da7-3b84-4420-aa1f-3db12949b968": proxyconnect tcp: dial tcp 127.0.0.1:56886: connectex: An attempt was made to access a socket in a way forbidden by its access permissions.

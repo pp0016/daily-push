@@ -1,0 +1,30 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\renu5\.gemini\antigravity\scratch\daily-push-repo
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        27-09-2026  03:32 PM                .agents                                                              
+d-----        27-09-2026  03:32 PM                2026-09-27_youtube_niche_research                                    
+d-----        27-09-2026  03:32 PM                conversation_5fa45198                                                
+d-----        27-09-2026  03:32 PM                session-7a78deb3-fd50-47e2-8d2a-a23cba5ad928                         
+d-----        27-09-2026  03:32 PM                sessions                                                             
+d-----        27-09-2026  03:32 PM                session_8b5897f7-951a-4b48-bf8b-17bedfbbee0a                         
+d-----        27-09-2026  03:32 PM                session_a1675ed5-521b-40ae-80db-b54e8cc0d644                         
+d-----        27-09-2026  03:32 PM                session_c1cc56fc_20260927                                            
+d-----        27-09-2026  03:32 PM                Upscaling_Analysis_Session                                           
+d-----        27-09-2026  03:32 PM                YouTube_Niche_Audit_Session                                          
+d-----        27-09-2026  03:32 PM                youtube_niche_session_16_july                                        
+-a----        27-09-2026  03:32 PM           6226 AI_Video_Generation_Session_Log.md                                   
+-a----        27-09-2026  03:32 PM           9943 channel-watchlist.md                                                 
+-a----        27-09-2026  03:32 PM          18434 forensic-niche-selection.md                                          
+-a----        27-09-2026  03:32 PM           2044 generate_video.py                                                    
+-a----        27-09-2026  03:32 PM           4955 open_source_video_research.md                                        
+-a----        27-09-2026  03:32 PM          17539 underdog-niches-report.md                                            
+-a----        27-09-2026  03:32 PM          23298 vidiq-niche-research-prompts.md                                      
+
+

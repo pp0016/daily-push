@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+2026/10/18 13:46:05 Using config file: wgcf-account.toml
+2026/10/18 13:46:09 =======================================
+2026/10/18 13:46:09 Device name   : 7E9581
+2026/10/18 13:46:09 Device model  : PC
+2026/10/18 13:46:09 Device active : true
+2026/10/18 13:46:09 Account type  : free
+2026/10/18 13:46:09 Role          : child
+2026/10/18 13:46:09 Premium data  : 0.00 B
+2026/10/18 13:46:09 Quota         : 0.00 B
+2026/10/18 13:46:09 =======================================
+2026/10/18 13:46:09 Successfully created Cloudflare Warp account
+

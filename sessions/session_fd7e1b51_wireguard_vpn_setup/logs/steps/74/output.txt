@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+Get-Service : Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+At line:1 char:179
++ ... CALAPPDATA; Get-Service -Name "WireGuardTunnel*" -ErrorAction Silentl ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Get-Service], InvalidOperationException
+    + FullyQualifiedErrorId : System.InvalidOperationException,Microsoft.PowerShell.Commands.GetServiceCommand
+ 
+

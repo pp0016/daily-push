@@ -1,0 +1,17 @@
+The search for "site:vpnbook.com wireguard us" returned the following summary:
+VPNBook provides free **WireGuard** VPN configuration files and QR codes for server locations in the United States, United Kingdom, Canada, Germany, and France with no signup required[1]. 
+
+Key details for using VPNBook's WireGuard service:
+* **US Servers:** Typically hosted on nodes such as `us16.vpnbook.com` and `us178.vpnbook.com`[2].
+* **Config Files / QR Codes:** You can generate or download a temporary WireGuard configuration file (.conf) or scan a QR code directly from their Free WireGuard VPN page[1].
+* **Session Duration:** WireGuard configuration files/sessions last for limited periods (such as 48-hour or 7-day intervals depending on rotation schedules)[1][3].
+* **How to use:** Download the official [WireGuard application](https://www.wireguard.com/install/) for your platform (Windows, macOS, Linux, iOS, or Android) and import the configuration file or scan the QR code provided on the site[4][5].
+
+Sources:
+[1] [vpnbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq6_ERmiUxmOOUXfiL0FvKe1kiCeEYeoG29OKeCb5YBsf6gjT1PYN54jLNoIUgVRhD00OLN5S7sK7RIBr6i3WqIQI4okKepMGLz6X-8DeWtvrpv96dLfMWq01lUa1fy2CX8QM=)
+[2] [vpnbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmscMSO4JYQlUlhaa9MscFEwyofhveq60qd7R6zVA2ux6THirIDwC3ARfyw00f0FmVCLit5m5emjSCATnLQ-H7JnZ1vuEtIWQdpx-ZWH83siB0g6S2)
+[3] [vpnbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKNbYgIF_9uVnEhGOvSPm3_Vif6zgs8gqeplMXk1lITshGZbtsPsZbq6PSa827hf2XafwC3Wk7F3WE7kzczfkCYflGLu2WMWfDEyOQrbM=)
+[4] [vpnbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR7bJmI1QsNPal7XVxUCaZlnBEWTgnwHV-J483jmHKj4A-24Lc0JgeNNWP3KDgDNCBfz43s56SaQjWAugwXfKTIYtCZP5j-14-u21o33sAndAzaw==)
+[5] [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjj0nATggJ9C7cvhv_mGJBUEK_X1ZeWh4Xj-lRvtMvdNub0n6fpOcnphn94Bd_B7POyrPMSTz8pQdadT4jVBSTB8BlKE9Y3JZcqIvaYQyatSnOqai3BBlgsJKLNZoZaCNe)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

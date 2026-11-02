@@ -1,0 +1,20 @@
+The search for ""147.135.15.16" wireguard OR "us16.vpnbook.com" PublicKey" returned the following summary:
+To obtain the specific WireGuard `PublicKey` for **us16.vpnbook.com** (IP: `147.135.15.16`)[1], you need to use VPNBook's configuration generator rather than a static hardcoded key[2]. 
+
+VPNBook rotates or dynamically pairs WireGuard configurations (which expire every 7 days for security)[2], meaning the server's public key is bundled directly into the `.conf` file or QR code generated for your active session.
+
+### How to get the Public Key & Config File:
+1. Go to the official [VPNBook Free WireGuard VPN page](https://www.vpnbook.com/freevpn/wireguard-vpn)[2].
+2. Select **US Server 1 (us16.vpnbook.com)**[2].
+3. Choose your preferred UDP port (`443`, `80`, `123`, or `25018`)[2].
+4. Accept the terms and click **Generate Configuration**[2].
+5. Download the `.conf` file or scan the QR code[2]. 
+
+Opening the downloaded `.conf` file in a text editor will reveal the exact server `PublicKey` alongside your client private key and endpoint mapping (`147.135.15.16:[Port]`)[2][3].
+
+Sources:
+[1] [ipqualityscore.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCrISKMo6JcIUvNtLDz2RyTOd_SbYaNtfi_RtSqi0_E8FSmeSx5yW1ez2NnLv2zBIIG-OvtZA1rtNjqXNt8ahML53z2F4ESnJeghm2_u2v2VVJ0lxj4-0mSY4RXlxXTIRtyENSERbnEjTeCAbBMC8XZ0kLaDe6vJgyuNIvUsGm8MYVOOO4GAw=)
+[2] [vpnbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZUuKe8E2NvBZr7uIjnpRv09pLUDsbyU7bBj8K0bMas9oX95_S0jpF0-YKqqzeZHSCmmw2yfzi7FV5PI3ljGtITbE7Bx_Lx_KVHJqUXXH0UaXhPW0b8Fk0c91b69p6PS10Ht0=)
+[3] [pub.dev](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxv6YtxoOx2gauRswXbfwRFl1mFh11cdA6GqdcsaBfnvLNyG2LIPBE2qLcN5DaVSy-U09kHMyrKMKKBoORkygIQgR-HcEmOEgGDuvLF3p-D1YTJW2E546aK3okJTORLguqROPc)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

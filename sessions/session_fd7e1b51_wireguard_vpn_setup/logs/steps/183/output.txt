@@ -1,0 +1,22 @@
+The search for ""wireguard configuration" protonvpn free tier allowed or paid only" returned the following summary:
+**Allowed.** 
+
+Proton VPN allows free-tier users to use and generate manual **WireGuard configuration files** (`.conf`)[1][2]. 
+
+### Key Details for Free Tier Users:
+* **How to get it:** You can log into your account dashboard at `account.protonvpn.com`, navigate to **Downloads** > **WireGuard configuration**, and generate your `.conf` file[1].
+* **Where you can use it:** This allows you to use official or third-party WireGuard clients[1] (such as the standalone WireGuard app on Windows, macOS, Linux, Android, iOS[1][3][4][5], or set it up directly on compatible hardware like routers[1][6]).
+* **A common workaround for free apps:** In the official Proton VPN mobile/desktop apps, free-tier users cannot manually select specific countries or individual servers (the app chooses for you)[7][8]. However, generating manual WireGuard configuration files for specific free servers/countries through the website dashboard has historically allowed free users to bypass this restriction and pick specific locations inside a third-party WireGuard client[8][2].
+* **Limitations:** Free users are restricted to the features available on the free tier (e.g., advanced options like *NetShield Ad-blocker* are restricted to paid plans, though *VPN Accelerator* is available)[1]. You are also still bound by the free tier's single-device simultaneous connection limit[7].
+
+Sources:
+[1] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER18Yiec3_5NQfI8-YKq0SVR1PgqJXUlB01T86eDHaDNribni-ePGsz0FE9VWqAwHYFar961eFWtIJtimuBGwNM8M4UuX3kdFB6spleG8G4Jc1MCXzZfjcfjLG-UyiubzBjHp5G2AZS3jFHA==)
+[2] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt59J5t9BzK7S_TxQgYJvbaoTXeqF7LfohEtIB5VEpRMrgqGy4lEalXedFtEuzv-HexKMSKiOMBuq_cPccNSDhlEcUFbSJ20UaHb7754CsG_oJZc_mwKul_7RnF-H9do8q3FVXxI77g8-Oi0_8aKXphWfVLBe3nW4Db34VJljiN6BBfsa7l-pKVrxK)
+[3] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmOWQwIYpjsjEjfD-O5R5UIN8On9j3TIzKv5jr_Onhfxs34acbi0L0pVKtOMKwnESalgtxMp5OPaFJncz8faPRLf2_ulVCCjjsast4bp8Hz_D0IW76WOp4lAbExlDodR6mew==)
+[4] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AX7gNII8pYaiJMGcclO0eRB13PW4VxpODjgqUnMXqKWEVDvIKfc4oRW0Yv2bXT1sem8BUuEIuo1mINqEW7qmSaGe9yJo8ItECx-RwJKWoXNDdnlCjBoH4RrUlpvJ-ViF1ZmlPCNmTH5MK80=)
+[5] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHh_0URvCoH7SU98ou6cmcWm6SQGi6C82M6FxuqKS5LYEdnnvs6Ki8P2kC0Fq5MitzpTX2lqFmY5FcTfI2qVsgOJQLS0yE1ias5OUBRLKO8QiJ1jw7hi7ZyxzZA9snLciwMq6TMYjwqHUZMaI=)
+[6] [protonvpn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi029VrsPTkkwtMweJsTpVtGyXoS6KLYQ1je2-p-42LoLUgJT1umuz0uRopWL7X48fOODs73LP0iXoEln5IwZuT0Rw8rWKdpp8i-KrQbS7WByLRyZ2QCcwhqrCU5HCGYZw8n6-)
+[7] [ip-trackers.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG_8tCLgmQG0hvMKj_AUG9RMchzWjgMH8vtqRsL-j62261llj-yvWtCROCJyrCqsN7I4oDtwkbySCXg5f0zMHddSVeqNzuHeVCEEg8JJufFUsIAFLeJRb_9Lum6SiQwaRxdyo-XcE=)
+[8] [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm5rWEhimSnC8NF8N1RZTYpEihtt0L1OGfEy3OQXpLKDk9V8APL3Grzf48UguhRlkAxO9zSe7t5nRFMxOBXVmFLPo2gI4zE5HviSmbOvbfdTs_m6xxpzRN6MSwx4uSyvqbOJZFqCw3EH0nUwRhGF5VvQGYojKxrFfsZ_a4V9r5K-dhrwSiH9i24FcYuuZtrsycgsxqSMM=)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

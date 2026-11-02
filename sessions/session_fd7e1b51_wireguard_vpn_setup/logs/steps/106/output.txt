@@ -1,0 +1,36 @@
+
+The command exited with code 0.
+Output:
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName                                                  
+-------  ------    -----      -----     ------     --  -- -----------                                                  
+    887      74   109296      23380     254.41   9776   1 PrivadoVPN                                                   
+    403      33    26640       3804              5368   0 PrivadoVPN.Service                                           
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Program Files (x86)\PrivadoVPN
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Program Files (x86)
+PSChildName       : PrivadoVPN
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : PrivadoVPN
+FullName          : C:\Program Files (x86)\PrivadoVPN
+Parent            : Program Files (x86)
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 23-05-2026 01:14:11
+CreationTimeUtc   : 22-05-2026 19:44:11
+LastAccessTime    : 18-10-2026 13:27:38
+LastAccessTimeUtc : 18-10-2026 07:57:38
+LastWriteTime     : 16-10-2026 01:53:08
+LastWriteTimeUtc  : 15-10-2026 20:23:08
+Attributes        : Directory
+Mode              : d-----
+BaseName          : PrivadoVPN
+Target            : {}
+LinkType          : 
+
+
+
+

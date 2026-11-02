@@ -1,0 +1,7 @@
+Title: Live Content
+
+OG Description: Fetched live
+
+The full content of the article at https://www.vpnbook.com/freevpn/wireguard-vpn has been saved to: C:\Users\renu5\.gemini\antigravity\brain\fd7e1b51-dc4e-4e3c-ad56-1ba647b05bdc\.system_generated\steps\98\content.md
+
+You can use the view_file tool to read specific sections if needed.

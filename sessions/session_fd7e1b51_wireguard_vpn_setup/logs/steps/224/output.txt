@@ -1,0 +1,25 @@
+Command exited with code 0.
+
+Command output:
+Copied: C:\Users\renu5\Desktop\Cloudflare-WARP.conf
+Copied: C:\Users\renu5\Desktop\US-VPN.conf
+Copied: C:\Users\renu5\Desktop\Washington-DC.conf
+Copied: C:\Users\renu5\Desktop\US-Proton-Fast.conf
+Copied: C:\Users\renu5\Downloads\vpnbook-wg_bfe52b4db661fde5.conf
+Copied: C:\Users\renu5\Downloads\vpnbook-wg_41774d94f7b9d3b5.conf
+Not found: C:\Users\renu5\Downloads\us-fast-US-FREE-1.conf
+Copied: C:\Users\renu5\.gemini\antigravity\scratch\wgcf-account.toml
+Copied: C:\Users\renu5\.gemini\antigravity\scratch\wgcf-profile.conf
+
+Name                             Length
+----                             ------
+Cloudflare-WARP.conf                340
+US-Proton-Fast.conf                 407
+US-VPN.conf                         272
+vpnbook-wg_41774d94f7b9d3b5.conf    272
+vpnbook-wg_bfe52b4db661fde5.conf    268
+Washington-DC.conf                  272
+wgcf-account.toml                   209
+wgcf-profile.conf                   353
+
+

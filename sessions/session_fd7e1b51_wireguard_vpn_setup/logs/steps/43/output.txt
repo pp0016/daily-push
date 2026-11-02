@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+2026/10/18 13:46:32 Using config file: wgcf-account.toml
+2026/10/18 13:46:34 =======================================
+2026/10/18 13:46:34 Device name   : 7E9581
+2026/10/18 13:46:34 Device model  : PC
+2026/10/18 13:46:34 Device active : true
+2026/10/18 13:46:34 Account type  : free
+2026/10/18 13:46:34 Role          : child
+2026/10/18 13:46:34 Premium data  : 0.00 B
+2026/10/18 13:46:34 Quota         : 0.00 B
+2026/10/18 13:46:34 =======================================
+2026/10/18 13:46:34 Successfully generated WireGuard profile: wgcf-profile.conf
+

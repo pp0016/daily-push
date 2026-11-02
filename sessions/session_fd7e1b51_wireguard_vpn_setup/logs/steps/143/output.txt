@@ -1,0 +1,15 @@
+
+The command exited with code 0.
+Output:
+
+
+ComputerName     : 147.135.15.16
+RemoteAddress    : 147.135.15.16
+RemotePort       : 443
+InterfaceAlias   : Ethernet 2
+SourceAddress    : 10.134.179.140
+TcpTestSucceeded : True
+
+
+
+

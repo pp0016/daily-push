@@ -1,0 +1,13 @@
+The search for "146.70.230.146 ip location" returned the following summary:
+The IP address **146.70.230.146** has the following location and network details:
+
+* **Country:** United States[1]
+* **State / Region:** California[1]
+* **City:** Los Angeles[1]
+* **Network / ISP:** M247 (Hosting Provider)[1]
+* **Service Type:** It is identified as a server node associated with **Proton VPN**[1].
+
+Sources:
+[1] [netify.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8JmP2zCu6rGn7SLqoG1RQ5yazjoyUAYI94JdQdNJNZHPm1KbwaVwswHRHriRn0AL2d64_kn7gy-E3OMa7uCvtcRdCStFjvOPxhpKxqEu_TwxWPrscVlT4zgqeLd7aaArmSUj6vo4yuQ==)
+
+Note: Source URLs are HTTP redirects; check where they resolve if you need the direct link.

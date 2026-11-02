@@ -1,0 +1,12 @@
+
+The command exited with code 1.
+Output:
+Copy-Item : Access to the path 'C:\Users\renu5\Downloads\Cloudflare-WARP.conf' is denied.
+At line:1 char:179
++ ... CALAPPDATA; Copy-Item "C:\Users\renu5\Desktop\Cloudflare-WARP.conf" " ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\Users\renu5\...flare-WARP.conf:FileInfo) [Copy-Item], Unauthorized 
+   AccessException
+    + FullyQualifiedErrorId : CopyFileInfoItemUnauthorizedAccessError,Microsoft.PowerShell.Commands.CopyItemCommand
+ 
+

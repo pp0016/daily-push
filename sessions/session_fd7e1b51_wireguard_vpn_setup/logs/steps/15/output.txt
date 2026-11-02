@@ -1,0 +1,11 @@
+
+The command exited with code 1.
+Output:
+Exception calling "ProcessRecord" with "1" argument(s): "Access to a CIM resource was not available to the client."
+At line:620 char:5
++     $__cmdletization_objectModelWrapper.ProcessRecord($__cmdletizatio ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : CimException
+ 
+

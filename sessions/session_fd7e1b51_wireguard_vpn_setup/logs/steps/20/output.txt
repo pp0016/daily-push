@@ -1,0 +1,43 @@
+
+The command exited with code 0.
+Output:
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2409:40c1:29:f16e:e0fc:102f:2605:5198
+   Temporary IPv6 Address. . . . . . : 2409:40c1:29:f16e:7c84:463:f62a:60f1
+   Link-local IPv6 Address . . . . . : fe80::ab1f:326b:cc2f:f023%16
+   IPv4 Address. . . . . . . . . . . : 10.134.179.140
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::9461:2aff:fe75:e1c5%16
+                                       10.134.179.57
+
+Unknown adapter PrivadoVPN (OpenVPN DCO):
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+

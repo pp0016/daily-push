@@ -1,0 +1,79 @@
+
+The command exited with code 0.
+Output:
+<truncated 1907 lines>
+that Apple removed from iOS and macOS in 2016, so use it to change your location, not to protect passwords or payments 
+- for that, use our OpenVPN or WireGuard servers, or a paid VPN.\"},\"outlineCopy\":{\"title\":\"Access key 
+copied\",\"body\":\"Outline is good at getting past blocks on one device; if you want one app for all your devices and 
+servers in more countries, a paid VPN is the next step.\"},\"proxyExit\":{\"title\":\"Your page opened in a new 
+tab\",\"body\":\"The web proxy only works inside that tab; a VPN covers every app on your device, including games, 
+video apps and your whole browser.\"}}},\"now\":\"$undefined\",\"timeZone\":\"UTC\",\"children\":\"$L2a\"}]\n"])</scrip
+t><script>self.__next_f.push([1,"24:[\"$\",\"$L2b\",null,{\"ref\":\"$undefined\",\"href\":\"/freevpn/openvpn\",\"locale
+\":\"$undefined\",\"localeCookie\":{\"name\":\"NEXT_LOCALE\",\"sameSite\":\"lax\"},\"className\":\"font-semibold 
+text-primary-700 underline hover:text-primary-800\",\"children\":\"Get a free OpenVPN config\"}]\n26:[\"$\",\"$L2b\",nu
+ll,{\"ref\":\"$undefined\",\"href\":\"/howto/setup-wireguard-on-windows\",\"locale\":\"$undefined\",\"localeCookie\":\"
+$24:props:localeCookie\",\"className\":\"text-primary-700 underline hover:text-primary-800\",\"children\":\"How to set 
+up WireGuard on Windows\"}]\n27:[\"$\",\"$L2b\",null,{\"ref\":\"$undefined\",\"href\":\"/howto/setup-wireguard-on-mac-o
+s\",\"locale\":\"$undefined\",\"localeCookie\":\"$24:props:localeCookie\",\"className\":\"text-primary-700 underline 
+hover:text-primary-800\",\"children\":\"How to set up WireGuard on macOS\"}]\n28:[\"$\",\"$L2b\",null,{\"ref\":\"$undef
+ined\",\"href\":\"/howto/setup-wireguard-on-ubuntu\",\"locale\":\"$undefined\",\"localeCookie\":\"$24:props:localeCooki
+e\",\"className\":\"text-primary-700 underline hover:text-primary-800\",\"children\":\"How to set up WireGuard on 
+Ubuntu\"}]\n2a:[\"$\",\"div\",null,{\"className\":\"flex min-h-screen flex-col\",\"children\":[[\"$\",\"$L2c\",null,{}]
+,[\"$\",\"main\",null,{\"className\":\"flex-1\",\"children\":[\"$\",\"$L4\",null,{\"parallelRouterKey\":\"children\",\"
+error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L5\",null,
+{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$u
+ndefined\",\"unauthorized\":\"$undefined\"}]}],[\"$\",\"$L2d\",null,{}]]}]\na:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf
+-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n8:null\n"])
+</script><script>self.__next_f.push([1,"c:[[\"$\",\"title\",\"0\",{\"children\":\"Free WireGuard VPN - Config File 
+Download, No Signup | VPNBook\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Free WireGuard VPN 
+servers in the US, UK, Canada, Germany and France. Generate a WireGuard config file or QR code in seconds, no signup. 
+Configs last 7 days.\"}],[\"$\",\"meta\",\"2\",{\"name\":\"author\",\"content\":\"VPNBook\"}],[\"$\",\"link\",\"3\",{\"
+rel\":\"manifest\",\"href\":\"/site.webmanifest\",\"crossOrigin\":\"$undefined\"}],[\"$\",\"meta\",\"4\",{\"name\":\"ke
+ywords\",\"content\":\"free wireguard vpn,wireguard vpn,wireguard config,wireguard config file download,free 
+vpn,vpnbook wireguard\"}],[\"$\",\"meta\",\"5\",{\"name\":\"robots\",\"content\":\"index, follow\"}],[\"$\",\"link\",\"
+6\",{\"rel\":\"canonical\",\"href\":\"https://www.vpnbook.com/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"7\",{\"rel\":
+\"alternate\",\"hrefLang\":\"en\",\"href\":\"https://www.vpnbook.com/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"8\",{\
+"rel\":\"alternate\",\"hrefLang\":\"fr\",\"href\":\"https://www.vpnbook.com/fr/freevpn/wireguard-vpn\"}],[\"$\",\"link\
+",\"9\",{\"rel\":\"alternate\",\"hrefLang\":\"de\",\"href\":\"https://www.vpnbook.com/de/freevpn/wireguard-vpn\"}],[\"$
+\",\"link\",\"10\",{\"rel\":\"alternate\",\"hrefLang\":\"tr\",\"href\":\"https://www.vpnbook.com/tr/freevpn/wireguard-v
+pn\"}],[\"$\",\"link\",\"11\",{\"rel\":\"alternate\",\"hrefLang\":\"id\",\"href\":\"https://www.vpnbook.com/id/freevpn/
+wireguard-vpn\"}],[\"$\",\"link\",\"12\",{\"rel\":\"alternate\",\"hrefLang\":\"ru\",\"href\":\"https://www.vpnbook.com/
+ru/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"13\",{\"rel\":\"alternate\",\"hrefLang\":\"pl\",\"href\":\"https://www.v
+pnbook.com/pl/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"14\",{\"rel\":\"alternate\",\"hrefLang\":\"es\",\"href\":\"ht
+tps://www.vpnbook.com/es/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"15\",{\"rel\":\"alternate\",\"hrefLang\":\"pt\",\"
+href\":\"https://www.vpnbook.com/pt/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"16\",{\"rel\":\"alternate\",\"hrefLang\
+":\"vi\",\"href\":\"https://www.vpnbook.com/vi/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"17\",{\"rel\":\"alternate\",
+\"hrefLang\":\"zh\",\"href\":\"https://www.vpnbook.com/zh/freevpn/wireguard-vpn\"}],[\"$\",\"link\",\"18\",{\"rel\":\"a
+lternate\",\"hrefLang\":\"x-default\",\"href\":\"https://www.vpnbook.com/freevpn/wireguard-vpn\"}],[\"$\",\"meta\",\"19
+\",{\"property\":\"og:title\",\"content\":\"Free WireGuard VPN - Config File Download, No Signup | 
+VPNBook\"}],[\"$\",\"meta\",\"20\",{\"property\":\"og:description\",\"content\":\"Free WireGuard VPN servers in the 
+US, UK, Canada, Germany and France. Generate a WireGuard config file or QR code in seconds, no signup. Configs last 7 d
+ays.\"}],[\"$\",\"meta\",\"21\",{\"property\":\"og:locale\",\"content\":\"en_US\"}],[\"$\",\"meta\",\"22\",{\"name\":\"
+twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"23\",{\"name\":\"twitter:title\",\"content\":\"F
+ree WireGuard VPN - Config File Download, No Signup | 
+VPNBook\"}],[\"$\",\"meta\",\"24\",{\"name\":\"twitter:description\",\"content\":\"Free WireGuard VPN servers in the 
+US, UK, Canada, Germany and France. Generate a WireGuard config file or QR code in seconds, no signup. Configs last 7 d
+ays.\"}],[\"$\",\"link\",\"25\",{\"rel\":\"icon\",\"href\":\"/favicon.ico?favicon.75044eb6.ico\",\"sizes\":\"48x48\",\"
+type\":\"image/x-icon\"}],[\"$\",\"link\",\"26\",{\"rel\":\"icon\",\"href\":\"/favicon-16x16.png\",\"sizes\":\"16x16\",
+\"type\":\"image/png\"}],[\"$\",\"link\",\"27\",{\"rel\":\"icon\",\"href\":\"/favicon-32x32.png\",\"sizes\":\"32x32\",\
+"type\":\"image/png\"}],[\"$\",\"link\",\"28\",{\"rel\":\"apple-touch-icon\",\"href\":\"/apple-touch-icon.png\",\"sizes
+\":\"180x180\"}],[\"$\",\"$L2e\",\"29\",{}]]\n"])</script><script type="module" 
+src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" 
+integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" 
+data-cf-beacon='{"version":"2024.11.0","token":"2fe9f5f515634a38b8258a9a7770231e","r":1,"spa":2}' 
+crossorigin="anonymous"></script>
+  C:\Users\renu5\.gemini\antigravity\brain\fd7e1b51-dc4e-4e3c-ad56-1ba647b05bdc\.system_generated\steps\98\content.md:1
+0:<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var 
+d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4c62bde5a5fbcea',t:'MTc5MjMxMjEyNQ=='};var a=docume
+nt.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head'
+)[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement(
+'iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.v
+isibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else 
+if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||func
+tion(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c
+())}}}})();</script></body></html>
+  
+C:\Users\renu5\.gemini\antigravity\brain\fd7e1b51-dc4e-4e3c-ad56-1ba647b05bdc\.system_generated\steps\98\content.md:11:
+
+
+
