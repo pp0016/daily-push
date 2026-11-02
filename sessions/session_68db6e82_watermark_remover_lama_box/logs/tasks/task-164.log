@@ -1,0 +1,9 @@
+Total changed pixels: 539963
+Image shape: (768, 1376, 3)
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 04:20:49.189 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 04:20:49.190 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[UniversalWatermarkRemover] Initializing LaMa FFC on device: cpu
+[UniversalWatermarkRemover] Model loaded successfully.
+detect_gemini result: found=False, cx=(1278.5, 670.4), cy=1.0, conf=-1.0000

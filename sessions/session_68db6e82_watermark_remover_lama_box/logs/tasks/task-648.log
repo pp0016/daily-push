@@ -1,0 +1,25 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+usage: lama_box_cleaner.py [-h] [-o OUTPUT] [--mode {gemini,box,mask}]
+                           [--box BOX] [--mask MASK] [--feather FEATHER]
+                           [--device {cpu,cuda}] [--quality QUALITY]
+                           input
+
+LaMa Box Cleaner (Dedicated Watermark Remover)
+
+positional arguments:
+  input                 Input image file or directory
+
+options:
+  -h, --help            show this help message and exit
+  -o OUTPUT, --output OUTPUT
+                        Output image file or directory
+  --mode {gemini,box,mask}
+                        Mode: gemini (default bottom-right sparkle), box
+                        (bounding box), or mask (image file)
+  --box BOX             Custom bounding box x0,y0,x1,y1 (e.g.
+                        1242,634,1314,706 or 0.8,0.8,1.0,1.0)
+  --mask MASK           Path to custom binary mask image file
+  --feather FEATHER     Boundary feather radius (default: 6.0)
+  --device {cpu,cuda}   Compute device (default: cpu)
+  --quality QUALITY     Output image quality (default: 98)

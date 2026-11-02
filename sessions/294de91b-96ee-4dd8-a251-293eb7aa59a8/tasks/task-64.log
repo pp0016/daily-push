@@ -1,0 +1,81 @@
+﻿[9892] Using callback port derived from the server URL: 28085
+[9892] Discovering OAuth server configuration...
+[9892] Discovered authorization server: https://prod.dashboard.nexlev.io
+[9892] [9892] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[9892] Using transport strategy: http-first
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] Connected to remote server using StreamableHTTPClientTransport
+[9892] Local STDIO server running
+[9892] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[9892] Press Ctrl+C to exit
+[9892] [Localâ†’Remote] initialize
+[9892] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] [Remoteâ†’Local] 0
+[9892] [Localâ†’Remote] notifications/initialized
+[9892] [Localâ†’Remote] tools/call
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] [Remoteâ†’Local] 1
+[9892] [Localâ†’Remote] tools/list
+[9892] Proactive token refresh failed, falling back to the stored token
+[9892] [Remoteâ†’Local] 2
+[9892] 
+Shutting down...
+{
+  "channelId": "UCsRXoBg1Na4Hw75tDZowQmg",
+  "channelType": "LONG_ONLY",
+  "demographics": {
+    "gender": {
+      "male": 92,
+      "female": 8,
+      "user_specified": 0.6
+    },
+    "age": {
+      "13_17_years": 2.7,
+      "18_24_years": 33.8,
+      "25_34_years": 34.2,
+      "35_44_years": 16.4,
+      "45_54_years": 8.6,
+      "55_64_years": 3.1,
+      "65_plus_years": 1.2
+    },
+    "viewership_country": {
+      "United States": 34.15,
+      "India": 24.67,
+      "Philippines": 17.93,
+      "United Kingdom": 12.54,
+      "Canada": 10.71
+    }
+  },
+  "revenue": {
+    "month_revenue": 1045,
+    "month_long_revenue": 1045,
+    "month_short_revenue": 0,
+    "short_view_count": 0,
+    "long_view_count": 241948.71847321914,
+    "channel_category_rpm": 5,
+    "channel_long_rpm": 4.321428571428571,
+    "channel_short_rpm": 0.03542574,
+    "channel_language_code": "eng",
+    "weighted_avg_duration": 17311.570936666
+  },
+  "category": "comics"
+}
+
+

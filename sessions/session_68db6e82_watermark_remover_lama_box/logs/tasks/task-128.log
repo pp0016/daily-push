@@ -1,0 +1,56 @@
+============================================================
+STARTING UNIVERSAL WATERMARK REMOVER VERIFICATION SUITE
+============================================================
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 03:54:02.433 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 03:54:02.433 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[UniversalWatermarkRemover] Initializing LaMa FFC on device: cpu
+[UniversalWatermarkRemover] Model loaded successfully.
+
+[TEST 1] Gemini Sparkle on Vibrant Colorful Sunset
+  Whole image mean diff: 0.0022
+  Whole image max diff: 5.00
+  Untouched canvas diff: 0.000000 (Must be 0.0)
+  -> TEST 1 PASSED: Zero canvas tampering, pristine color preservation.
+
+[TEST 2] Arbitrary Text Watermark Removal (Center ROI)
+  Center watermark region diff: 7.6738
+  Untouched region diff: 0.000000 (Must be 0.0)
+  -> TEST 2 PASSED: Arbitrary text cleanly extracted and inpainted.
+
+[TEST 3] User Bounding Box Mode (--box)
+  Box mode mean diff: 2.0463
+  -> TEST 3 PASSED: Normalized box processed accurately.
+
+[TEST 4] Custom Mask Mode (--mask)
+  -> TEST 4 PASSED: Custom binary mask accurately inpainted.
+
+[TEST 5] RGBA Image Transparency Preservation
+  -> TEST 5 PASSED: 4-channel RGBA transparency preserved.
+
+[TEST 6] Unicode & Space-Containing File Paths
+  -> TEST 6 PASSED: Unicode and spaces in file paths handled flawlessly.
+
+[TEST 7] CLI Batch Invocation Test via Subprocess
+  Executing CLI: C:\Users\renu5\AppData\Local\Programs\Python\Python311\python.exe C:\Users\renu5\.gemini\config\skills\universal-watermark-remover\scripts\universal_watermark_remover.py C:\Users\renu5\.gemini\config\skills\universal-watermark-remover\scripts\test_output\batch_input -o C:\Users\renu5\.gemini\config\skills\universal-watermark-remover\scripts\test_output\batch_output --mode gemini
+Found 2 image(s) to process.
+[UniversalWatermarkRemover] Initializing LaMa FFC on device: cpu
+[UniversalWatermarkRemover] Model loaded successfully.
+[1/2] Processing: img1.png ...
+  -> Saved: C:\Users\renu5\.gemini\config\skills\universal-watermark-remover\scripts\test_output\batch_output\img1.png
+[2/2] Processing: img2.jpg ...
+  -> Saved: C:\Users\renu5\.gemini\config\skills\universal-watermark-remover\scripts\test_output\batch_output\img2.jpg
+
+Processing complete.
+
+Stderr: C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 03:54:48.851 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 03:54:48.853 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+
+  -> TEST 7 PASSED: CLI Batch execution succeeded.
+
+============================================================
+ALL 7 VERIFICATION SUITE TESTS PASSED WITH 100% SUCCESS!
+============================================================

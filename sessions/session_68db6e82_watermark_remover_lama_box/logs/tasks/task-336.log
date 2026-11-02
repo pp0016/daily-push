@@ -1,0 +1,8 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 17:35:53.544 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:35:53.544 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+[MagicEraser Clone] Cropping region: [1210, 602] to [1346, 738] (Tile: 136x136)
+[MagicEraser Clone] Canvas untouched: 98.25%
+[MagicEraser Clone] Running LaMa FFC inpainting on crop...
+[MagicEraser Clone] Saved result to: C:\Users\renu5\.gemini\antigravity\brain\68db6e82-6ec9-4f47-a039-6e7cc2557d48\scratch\magic_eraser_test_output.jpg

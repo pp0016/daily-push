@@ -1,0 +1,3697 @@
+﻿[11180] Using callback port derived from the server URL: 28085
+[11180] Discovering OAuth server configuration...
+[11180] Discovered authorization server: https://prod.dashboard.nexlev.io
+[11180] [11180] Connecting to remote server: https://prod.dashboard.nexlev.io/api/claude-mcp
+[11180] Using transport strategy: http-first
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] Connected to remote server using StreamableHTTPClientTransport
+[11180] Local STDIO server running
+[11180] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+[11180] Press Ctrl+C to exit
+[11180] [Localâ†’Remote] initialize
+[11180] {
+  "jsonrpc": "2.0",
+  "id": 0,
+  "method": "initialize",
+  "params": {
+    "protocolVersion": "2025-11-25",
+    "capabilities": {},
+    "clientInfo": {
+      "name": "mcp (via mcp-remote 0.8.3)",
+      "version": "0.1.0"
+    }
+  }
+}
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] [Remoteâ†’Local] 0
+[11180] [Localâ†’Remote] notifications/initialized
+[11180] [Localâ†’Remote] tools/call
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] [Remoteâ†’Local] 1
+[11180] [Localâ†’Remote] tools/list
+[11180] Proactive token refresh failed, falling back to the stored token
+[11180] [Remoteâ†’Local] 2
+[11180] 
+Shutting down...
+Here are similar YouTube channels based on your query.
+{
+  "jobId": "c6f7fd7a-b757-4d27-bfe9-c49b9671404d",
+  "status": "completed",
+  "channels": [
+    {
+      "tags": [
+        "#animerecap",
+        "#anime",
+        "#animerecap",
+        "#manhwaedit",
+        "#anime",
+        "#animerecommendations",
+        "#animerecommendations",
+        "#manhwareccomendation",
+        "#manhwaedit",
+        "#manga",
+        "#animerecap",
+        "#mangacollection",
+        "#manhwarecap",
+        "#audiobook",
+        "#lightnovel"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1567842,
+        "channelId": "UC4erRQuMzptu9MpkObbknBw",
+        "hasShorts": false,
+        "joinedDate": "2025-10-20T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC4erRQuMzptu9MpkObbknBw",
+        "videoCount": 51,
+        "channelName": "1221 Manhwa Recap",
+        "description": "Thank you all for your support! If you're interested in stories, comics, or novels, please consider subscribing to my account. I update with exciting content daily, offering you a unique reading experience!",
+        "daysSinceStart": 313,
+        "avgVideoLength": "05:37:03",
+        "subscriberCount": 18500,
+        "lastVideoUploadDate": "2 hours ago",
+        "avgVideoLengthSeconds": 20223,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/bWOR9nhpQX3m4VrbapTgm24zAAaQmE-pHRkcGa5sqO7ODCMctQP6JY7w_mVg5T00ALGUcmPrvlo=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/IVrCmwkhwOjbiEXZY33VUjU0rI4gjW0uJGh-yzjGYGpDDXqBOr8hnxvYYE40yYmDT1w3rBKKMg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T18:07:50.479Z"
+      },
+      "similarityScore": 100
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "anime recap",
+        "anicap",
+        "the manhwa man",
+        "manhwa",
+        "webtoon",
+        "manhwa recaps",
+        "manhwa cap",
+        "webtoon recap",
+        "high school mercenary",
+        "teenage mercenary",
+        "mercenary enro",
+        "mercenary enrollment",
+        "Manga",
+        "manga",
+        "Manga recap",
+        "Manhwa recap",
+        "manga summary",
+        "manga capped",
+        "manga cap",
+        "manhwa summary",
+        "manga recaps",
+        "manga recap",
+        "manhwa capped",
+        "anime recaps",
+        "anicaps",
+        "anime summary",
+        "anime",
+        "ani",
+        "recap",
+        "mangacaps",
+        "mangacap",
+        "mangas",
+        "animecaps",
+        "anime plot",
+        "movie recap",
+        "recap manhwa",
+        "recap manga"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "",
+        "viewCount": 3398566,
+        "channelId": "UCSKC0CvNa9BYII7o6RPzaEg",
+        "hasShorts": false,
+        "joinedDate": "2024-12-05T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCSKC0CvNa9BYII7o6RPzaEg",
+        "videoCount": 104,
+        "channelName": "Donalds_Manhwa",
+        "description": "Hello, everyone! ðŸ‡ºðŸ‡¸ This is Donald J. Trump, bringing you the most phenomenal, action-packed YouTube channel you've ever seen! ðŸ’¥ðŸ“š Here, we deliver top-tier recaps of the latest and greatest manhwas, filled with modern-world action, thrilling twists, and unforgettable characters. ðŸ”¥ Whether you're into intense battles or clever strategies, this channel has it all. Trust me, itâ€™s going to be HUGE! ðŸ‘ Subscribe now, and letâ€™s make manhwas the most talked-about stories in the world again! ðŸš€ðŸ‡ºðŸ‡¸",
+        "daysSinceStart": 632,
+        "avgVideoLength": "06:44:47",
+        "subscriberCount": 25700,
+        "lastVideoUploadDate": "18 hours ago",
+        "avgVideoLengthSeconds": 24287,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/pPiyJwy7uBfeDU-tLRxjByf-Gffy3jgK7dF7f-hsMSuOhYV0o_iJaVrshBKfkZpjem_IVLIUYw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/939ZJaYp9r7ILL5mx4cMDY5GY94tzPwQ3uV8ZDMtKjvloybyXlg2ydwAGL0z0_vAbN9rEToh=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T12:25:38.906Z"
+      },
+      "similarityScore": 80
+    },
+    {
+      "tags": [
+        "#animerecap",
+        "#manhwaedit",
+        "#manhwarecap",
+        "#manhwarecap",
+        "#manhwaedit",
+        "#manhwareccomendation",
+        "#manga",
+        "#mangarecaps",
+        "#animerecap",
+        "#lightnovel",
+        "#sleep",
+        "#audiobook",
+        "#webtoon",
+        "#animerecommendations"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 3744920,
+        "channelId": "UCmfhoD2vpeEzZwnP4Y3DMhg",
+        "hasShorts": false,
+        "joinedDate": "2025-06-06T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCmfhoD2vpeEzZwnP4Y3DMhg",
+        "videoCount": 107,
+        "channelName": "Your Manhwa Recap",
+        "description": "Welcome to Your Manhwa Recapper, your ultimate destination for quick and engaging manhwa and manhua recaps! Here, we dive into the most exciting stories, breaking down epic plots, unforgettable characters, and thrilling moments from the world of manhwa and manhua. Whether youâ€™re looking to catch up on your favorite series or discover new hidden gems, Your Manhwa Recapper has you covered with concise, spoiler-free summaries that keep you hooked. Join us as we explore the best manhwa and manhua titles, share insights, and celebrate the incredible stories these genres have to offer. Donâ€™t forget to subscribe and never miss a recap!",
+        "daysSinceStart": 449,
+        "avgVideoLength": "05:53:15",
+        "subscriberCount": 23700,
+        "lastVideoUploadDate": "12 hours ago",
+        "avgVideoLengthSeconds": 21195,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/g5TtsN84VP2ppRdqinAz48isT7JOdMeZLlA42h_Dh4zDqnJ5yOzSOidebdpv_v106GJk7SOB=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/OKgRoAdhCM8MuK2pwFlhxTRxUK5vqbtHvULlsYJGqT6Y8zsCNRrLmvE7kmckmBEGVsfZDEbpNv0=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T12:41:32.906Z"
+      },
+      "similarityScore": 72
+    },
+    {
+      "tags": [
+        "#animerecap",
+        "#anime",
+        "#animerecommendations",
+        "#manga",
+        "#animerecap",
+        "#manhwarecapromance"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1765147,
+        "channelId": "UChVeoHrxBtYDHmqpJI7sE_A",
+        "hasShorts": false,
+        "joinedDate": "2026-03-26T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UChVeoHrxBtYDHmqpJI7sE_A",
+        "videoCount": 44,
+        "channelName": "KAI Manhwa Recap",
+        "description": "**KAI Manhwa Recap**  \nThe once-weak protagonist embarks on an extraordinary journey of transformation, steadily rising to the pinnacle of godhood. Villains are exposed one by one, and the plot twists hit harder than a speeding truck! Iâ€™ve already powered through hundreds of chapters, saving you the troubleâ€”unless, of course, youâ€™re ready to dive in and get completely hooked ðŸ˜.  \nGet ready for jaw-dropping power-ups, mind-blowing hidden systems, hilarious and heartfelt romance, and non-stop, high-energy action. Every chapter delivers fresh storylines, shocking twists, and chaotic thrills, making this the ultimate manhwa experience.  \nSnag some snacksâ€”this addictive masterpiece is about to take you on a wild, full-throttle ride!",
+        "daysSinceStart": 156,
+        "avgVideoLength": "05:23:05",
+        "subscriberCount": 21200,
+        "lastVideoUploadDate": "21 hours ago",
+        "avgVideoLengthSeconds": 19385,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/njnO_4m24EuFV16bxXaM0StemWsqcwqxEciIEY87OUynd76iv1ebxQgesCyKyekz8ungNzzPRUU=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T15:23:37.707Z"
+      },
+      "similarityScore": 70
+    },
+    {
+      "tags": [
+        "#animerecap",
+        "#mangacollection",
+        "#manga",
+        "#animerecommendations",
+        "#manhwaedit",
+        "#manhwareccomendation"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1066999,
+        "channelId": "UC07nnk-KVAR5oP4A08S2Xjg",
+        "hasShorts": false,
+        "joinedDate": "2026-03-28T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC07nnk-KVAR5oP4A08S2Xjg",
+        "videoCount": 36,
+        "channelName": "Sk Manhwa Recap",
+        "description": "where weak MCs become gods, villains get exposed, and plot twists hit harder than truck-kun. I read hundreds of chapters so you donâ€™t have toâ€¦ unless you get addicted ðŸ˜. Expect insane power-ups, secret systems, romance drama, and zero boring moments. New stories, crazy twists, and pure manhwa chaos every time. Grab snacks â€” weâ€™re speedrunning peak fiction.",
+        "daysSinceStart": 154,
+        "avgVideoLength": "04:49:45",
+        "subscriberCount": 11700,
+        "lastVideoUploadDate": "22 hours ago",
+        "avgVideoLengthSeconds": 17385,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/1rLcSosuKxJPuoMGLaop2RCIq7veh-0nL0EUjUGnSRu0inuHI4U93iqsjLDSnJZjEKiar5ZMiA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T14:52:42.108Z"
+      },
+      "similarityScore": 70
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "",
+        "viewCount": 420369,
+        "channelId": "UCag7oAVtkHF-R3jD8bDqkYA",
+        "hasShorts": false,
+        "joinedDate": "2026-03-27T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCag7oAVtkHF-R3jD8bDqkYA",
+        "videoCount": 26,
+        "channelName": "Dream Dramas",
+        "description": "",
+        "daysSinceStart": 155,
+        "avgVideoLength": "01:58:13",
+        "subscriberCount": 2660,
+        "lastVideoUploadDate": "3 days ago",
+        "avgVideoLengthSeconds": 7093,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/nDwTNexiWRqUqeOhoWwMyBCClCfX7v1DgAsn1e_LkZZDcUM2Zu5mSAfA10ve79tSC_HPbAbtqQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T05:50:29.452Z"
+      },
+      "similarityScore": 69
+    },
+    {
+      "tags": [
+        "recap anime",
+        "ani recap",
+        "anime summaries",
+        "anime plots",
+        "manga recaps",
+        "manga summaries",
+        "manhwa recaps",
+        "manhwa summaries",
+        "webtoon recaps",
+        "webtoon summaries",
+        "anime edits",
+        "manga edits",
+        "manhwa edits",
+        "manga recommendations",
+        "anime recommendations",
+        "manhwa recommendations",
+        "manga collections",
+        "anime collections",
+        "manhwa collections",
+        "webtoon collections",
+        "manga unboxings",
+        "anime unboxings",
+        "manhwa unboxings",
+        "webtoon unboxings",
+        "manga reviews",
+        "anime reviews",
+        "manhwa reviews"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 3883613,
+        "channelId": "UCZ1ynxCvmghl5rR1gjJEkXw",
+        "hasShorts": false,
+        "joinedDate": "2024-05-27T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCZ1ynxCvmghl5rR1gjJEkXw",
+        "videoCount": 518,
+        "channelName": "Bella's Comic Chronicles",
+        "description": "Thank you all for your support! If you're interested in stories, comics, or novels, please consider subscribing to my account. I update with exciting content daily, offering you a unique reading experience!",
+        "daysSinceStart": 824,
+        "avgVideoLength": "23:56:04",
+        "subscriberCount": 25100,
+        "lastVideoUploadDate": "8 hours ago",
+        "avgVideoLengthSeconds": 86164,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/mXoOLmwRWJUqIHctp_kdiQKKnVY-1sgzt9OXxaMq1QGyK2mDrYJGhvu5SFd9laY6FcnkcjaGcQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/PPDrvdQUGguqk4ku7hhx8IcbcOPTXeXgsppJon4vWe07EF3CfMby6ZQnHp_jqkRnGEI4b6ka3A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T04:40:21.411Z"
+      },
+      "similarityScore": 69
+    },
+    {
+      "tags": [
+        "#animerecap",
+        "#anime",
+        "#animerecommendations",
+        "#manga",
+        "#animerecap",
+        "#manhwarecapromance"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1059627,
+        "channelId": "UCc8GpHmH_mw5fUBWNopySmQ",
+        "hasShorts": false,
+        "joinedDate": "2026-06-04T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCc8GpHmH_mw5fUBWNopySmQ",
+        "videoCount": 49,
+        "channelName": "LY Manhwa Recap",
+        "description": "The once-weak protagonist embarks on an extraordinary journey of transformation, steadily rising to the pinnacle of godhood. Villains are exposed one by one, and the plot twists hit harder than a speeding truck! Iâ€™ve already powered through hundreds of chapters, saving you the troubleâ€”unless, of course, youâ€™re ready to dive in and get completely hooked ðŸ˜.  \nGet ready for jaw-dropping power-ups, mind-blowing hidden systems, hilarious and heartfelt romance, and non-stop, high-energy action. Every chapter delivers fresh storylines, shocking twists, and chaotic thrills, making this the ultimate manhwa experience.  \nSnag some snacksâ€”this addictive masterpiece is about to take you on a wild, full-throttle ride!",
+        "daysSinceStart": 86,
+        "avgVideoLength": "04:38:58",
+        "subscriberCount": 8500,
+        "lastVideoUploadDate": "13 hours ago",
+        "avgVideoLengthSeconds": 16738,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/6qQVx1qE6K0UOsE8YKTpwqkL_ZDPb1Fv-bJbDHxEKURXUwHaP0-IFSq8sfNeUknLKWhGXT2gDh8=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T11:42:35.212Z"
+      },
+      "similarityScore": 69
+    },
+    {
+      "tags": [
+        "manhwa",
+        "manhua",
+        "manwa",
+        "manga",
+        "anime",
+        "recap manhwa",
+        "manhwa capped",
+        "manhwacapped",
+        "recap manhwa",
+        "manhwa recap",
+        "manhua recap",
+        "recap manhua",
+        "manga recap",
+        "recap manga",
+        "webtoon",
+        "recap webtoon",
+        "review manhwa",
+        "manhwa review",
+        "manhwa cap",
+        "shonen",
+        "history",
+        "fantasy",
+        "recap",
+        "anilife",
+        "actiontoon",
+        "mangacapped",
+        "manhwa US",
+        "manhwa USA",
+        "manga reaction",
+        "manhwa reaction",
+        "react manhwa",
+        "Manhwa Outpost",
+        "Outpost",
+        "Manhwa",
+        "Manhua Outpost",
+        "manhwa outpost",
+        "Manhwa outpost",
+        "manhwaoutpost",
+        "manhwaoutpost",
+        "manhuaoutpost",
+        "manhwaO"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "Ð¡Ð¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð½Ñ‹Ðµ Ð¨Ñ‚Ð°Ñ‚Ñ‹",
+        "viewCount": 58678622,
+        "channelId": "UCsRXoBg1Na4Hw75tDZowQmg",
+        "hasShorts": false,
+        "joinedDate": "2024-02-08T21:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCsRXoBg1Na4Hw75tDZowQmg",
+        "videoCount": 324,
+        "channelName": "Manhwa Outpost",
+        "description": "Yo, Welcome to Manhwa Outpost! ðŸ”¥ I make Manhwa, Manhua, Manga and Webtoon recaps. We help you understand the story of any Manhwa by pointing out the important details and information you might have missed. We put in many hours of editing and research to bring you the best recaps! I hope you enjoy our videos as much as we enjoy making them ðŸ˜\n\nPlease consider subscribing if you like our content!",
+        "daysSinceStart": 932,
+        "avgVideoLength": "04:49:03",
+        "subscriberCount": 405000,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 17343,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/RhX9QyLWODeJ_P2_GeR__6gjSDpCVaE8oaWce8_zj7NEbFN4g8Wz778pxRttkbD7rIg2GZktTGc=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/caHu9lUXklv83qr59LKfCTMp7Tcq7tNJKIHKgNM3v5RNobR3D0nFuZuxN2QXbAu3QmZto_U580E=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-30T10:09:16.813Z"
+      },
+      "similarityScore": 68
+    },
+    {
+      "tags": [
+        "beast taming",
+        "monster tamer",
+        "xianxia novel",
+        "system ability",
+        "overpowered protagonist",
+        "golden cudgel",
+        "great sage equal to heaven",
+        "revenge plot",
+        "underdog rise",
+        "divine weapon",
+        "trial tower",
+        "fantasy adventure"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 4691293,
+        "channelId": "UCFzrZrMQXBE0KDL9Iw-b4RA",
+        "hasShorts": true,
+        "joinedDate": "2026-04-09T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCFzrZrMQXBE0KDL9Iw-b4RA",
+        "videoCount": 91,
+        "channelName": "Tide Glow Anime",
+        "description": "âŒ›Shiman Anime | Anime Time Stationâœ¨\n\nðŸ’• A huge collection of officially licensed anime, spanning all genres and featuring top-quality animation ðŸŽ¬\n\nðŸ”¥ Daily updates âš¡, with content ranging from action-packed battles âš”ï¸ and fantastic adventures ðŸŒŒ to heartwarming slice-of-life stories â˜•. We reject low-quality content and clichÃ©s, offering only the purest joy of watching anime! ðŸ¥³\n\nâš ï¸ Important Notice: All rights reserved. Piracy will be prosecuted!\n\nâŒ Unauthorized reproduction or plagiarism is strictly prohibited. Any infringement will be prosecuted to the fullest extent of the law!\n\nâœŠ Subscribe and turn on notifications ðŸ”” to stay up-to-date with your favorite anime and enjoy non-stop fun. ðŸŽ‰",
+        "daysSinceStart": 142,
+        "avgVideoLength": "02:07:30",
+        "subscriberCount": 26200,
+        "lastVideoUploadDate": "11 hours ago",
+        "avgVideoLengthSeconds": 7650,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/ogpKqZzE4LJf7dNc6MnJuW82sVVT6kCP9UkS_p3IFn6MeGKKKNfTadfnKySPJQrwgKM-dZggfA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T16:10:13.847Z"
+      },
+      "similarityScore": 66
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "manga recap",
+        "webtoon recap",
+        "anime recap",
+        "isekai recap",
+        "manhwa recap english",
+        "op mc",
+        "overpowered main character",
+        "leveling up manhwa",
+        "system manhwa",
+        "regression manhwa",
+        "reincarnation manhwa",
+        "dungeon manhwa",
+        "action fantasy recap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 287424,
+        "channelId": "UCbR1JPq7XdgCP2uwflYUjrg",
+        "hasShorts": false,
+        "joinedDate": "2026-07-05T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCbR1JPq7XdgCP2uwflYUjrg",
+        "videoCount": 68,
+        "channelName": "Dronzer Recap",
+        "description": "Welcome to Dronzer Recap ! ðŸ”¥\n\nThe BEST Manhwa & Webtoon System Recaps on YouTube.\n\nEver wondered what it feels like to awaken a SSS-Rank class, sleep your way to Level 99, or turn trash skills into broken powers? We turn the most INSANE System Manhwa stories into full-length audio recaps you can binge anytime.\n\nðŸ“– What you'll find here:\nâš”ï¸ System / Game / Level Up stories\nðŸ’€ Underdog â†’ OVERPOWERED journeys\nðŸŽ® Cheat Skills, Hidden Classes & SSS Ranks\nðŸŒ Apocalypse Survival & Infinite Wealth Systems\nðŸ”¥ Full story recaps â€” 2 to 4 hours of pure hype\n\nNew uploads EVERY DAY. Don't miss the next SSS-Rank story!\n\nðŸ‘‡ SUBSCRIBE + TURN ON THE BELL ðŸ”” so you never miss an upload!\n\n#Manhwa #ManhwaRecap #SystemManhwa #Webtoon #Anime",
+        "daysSinceStart": 55,
+        "avgVideoLength": "00:59:10",
+        "subscriberCount": 2830,
+        "lastVideoUploadDate": "2 hours ago",
+        "avgVideoLengthSeconds": 3550.478260869565,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/Pu8jFBGOgmPlArKvg_-EhJPKlds9ndXkTXge446zXKfdGa5pAx6twSBanQZ4leL8oZ12wgQ0Jw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T02:55:02.461Z"
+      },
+      "similarityScore": 66
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "patreon.com/zeromanhwa",
+            "title": "Patreon"
+          }
+        ],
+        "country": "",
+        "viewCount": 5952411,
+        "channelId": "UCVzuGSEjNHmbRbcQepWqYjQ",
+        "hasShorts": true,
+        "joinedDate": "2026-02-03T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCVzuGSEjNHmbRbcQepWqYjQ",
+        "videoCount": 72,
+        "channelName": "ZERO Manhwa Recap",
+        "description": "Hi, Wellcome to ZERO Manhwa RECAP!",
+        "daysSinceStart": 207,
+        "avgVideoLength": "02:42:40",
+        "subscriberCount": 55700,
+        "lastVideoUploadDate": "1 month ago",
+        "avgVideoLengthSeconds": 9760,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/Q9pUJabNecohWHiSS_K4SrASNaHelZLMuIfLCYVvvt935SSWX00jvK1qYhxFqzaiolbzvYpyIrg=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/U5_fBBL8os2rEFSsf4NpbKKsHkpX1EBK2wgMbZhpkh-3ICWbNUfCssnyfY2LERSNlOhzsXMTEQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T04:10:02.378Z"
+      },
+      "similarityScore": 63
+    },
+    {
+      "tags": [
+        "manhwa resumen",
+        "anime recap",
+        "anime recommendations",
+        "manhwa recommendation",
+        "manhwa edit",
+        "manga",
+        "anime",
+        "manga unboxing",
+        "manga collection",
+        "webtoon",
+        "manhwa recap",
+        "manga recap",
+        "manhwa",
+        "webtoon",
+        "manga summary",
+        "manga capped",
+        "manga cap",
+        "manhwa summary",
+        "manga recaps",
+        "manga recap",
+        "manhwa capped",
+        "anime recaps",
+        "anicaps",
+        "anirecap",
+        "anime summary",
+        "anime",
+        "ani",
+        "recap",
+        "mangacaps",
+        "mangacap",
+        "mangas",
+        "animecaps",
+        "anime plot",
+        "movie recap",
+        "recap manhwa",
+        "recap manga",
+        "manhwa",
+        "manhwaedit",
+        "animerecap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 4114487,
+        "channelId": "UCH5LtjlH8NiKizyY_SkEXOw",
+        "hasShorts": true,
+        "joinedDate": "2024-03-14T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCH5LtjlH8NiKizyY_SkEXOw",
+        "videoCount": 559,
+        "channelName": "Panda Fantasy Chronicles",
+        "description": "Welcome to Panda Fantasy Chronicles! Dive into epic adventures and captivating tales from the world of fantasy novels. Join us for thrilling storylines, intriguing characters, and the magic of storytelling. Subscribe for your daily dose of imaginative escapades!",
+        "daysSinceStart": 898,
+        "avgVideoLength": "02:18:57",
+        "subscriberCount": 25500,
+        "lastVideoUploadDate": "22 hours ago",
+        "avgVideoLengthSeconds": 94737,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/uaNXE4sSeXUmsMeYxIiC4yIzacnNNNAV7TAZtjwYiTcNHynmIwYqpJ0YByNmDuSkfjT_2wO7odI=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/8HHtE5v3lt66TK2aq9zFor8_3x-kJtCUw0euR2kbZA5lNrx1ao3QATenjdi0n67jJp7XlEQj=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-27T16:30:29.193Z"
+      },
+      "similarityScore": 63
+    },
+    {
+      "tags": [
+        "animeplots",
+        "anirecaps",
+        "animesummaries",
+        "animeedits",
+        "animerecommendations",
+        "animecollections",
+        "animeunboxings",
+        "animereviews",
+        "mangarecaps",
+        "mangasummaries",
+        "mangaedits",
+        "mangarecommendations",
+        "mangacollections",
+        "mangaunboxings",
+        "mangareviews",
+        "manhwarecaps",
+        "manhwasummaries",
+        "manhwaedits",
+        "manhwarecommendations",
+        "manhwacollections",
+        "manhwaunboxings",
+        "manhwareviews",
+        "webtoonrecaps",
+        "webtoonsummaries",
+        "webtoonedits",
+        "webtooncollections",
+        "webtoonunboxings",
+        "webtoonreviews"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 697567,
+        "channelId": "UCUuo-M_o1go4rtPwJHNpyAg",
+        "hasShorts": false,
+        "joinedDate": "2025-05-07T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCUuo-M_o1go4rtPwJHNpyAg",
+        "videoCount": 103,
+        "channelName": "COMICS STORM",
+        "description": "The Comics Storm is a channel dedicated to manhwa recaps.\n\nHere you'll find dynamic summaries of the best stories â€” fast, engaging, and straight to the point. Each video is a quick dive into a new world full of action and emotion.\n\nSubscribe if you want to discover the plots of the most popular and trending manhwas â€” easily and with style.",
+        "daysSinceStart": 479,
+        "avgVideoLength": "23:39:53",
+        "subscriberCount": 7830,
+        "lastVideoUploadDate": "15 hours ago",
+        "avgVideoLengthSeconds": 85193,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/dBLgaVp3zX3kjOkD7pBspT2oatr1HJCXNsT6RrzcT3u2M4dLiSC88p_hK7ObbBp9HcvAFV5p=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/lWSyfQoOB3TI9rbMDBDcNomwp7EkFYocFG7I7tDSz9C0BGGrd75x3rzawx1Stmj2Jh9s10SIsw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-24T13:50:18.978Z"
+      },
+      "similarityScore": 63
+    },
+    {
+      "tags": [
+        "manhwa resumen",
+        "anime recap",
+        "anime recommendations",
+        "manhwa recommendation",
+        "manhwa edit",
+        "manga",
+        "anime",
+        "manga unboxing",
+        "manga collection",
+        "webtoon",
+        "manhwa recap",
+        "manga recap",
+        "manhwa",
+        "webtoon",
+        "manga summary",
+        "manga capped",
+        "manga cap",
+        "manhwa summary",
+        "manga recaps",
+        "manga recap",
+        "manhwa capped",
+        "anime recaps",
+        "anicaps",
+        "anirecap",
+        "anime summary",
+        "anime",
+        "ani",
+        "recap",
+        "mangacaps",
+        "mangacap",
+        "mangas",
+        "animecaps",
+        "anime plot",
+        "movie recap",
+        "recap manhwa",
+        "recap manga",
+        "manhwa",
+        "manhwaedit",
+        "animerecap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 2048206,
+        "channelId": "UCDwxgutnuOK6rUfrdEDcSHg",
+        "hasShorts": false,
+        "joinedDate": "2024-08-10T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCDwxgutnuOK6rUfrdEDcSHg",
+        "videoCount": 413,
+        "channelName": "Mania Comics Legends",
+        "description": "Welcome to Mania Comics Legends! Here are the most popular comics and legendary stories. Subscribe to us and start your comic adventure! Thank you for your support!",
+        "daysSinceStart": 749,
+        "avgVideoLength": "01:58:15",
+        "subscriberCount": 18100,
+        "lastVideoUploadDate": "21 hours ago",
+        "avgVideoLengthSeconds": 93495,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/IeAoZV_ElJVyXOr95ltHlXzbcqP_MALtkFlCVR3nUiPQjKtP1snUk7XbtuaNhm3LDVvlOBqbaw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/yPk4pkXylykLZQM5lfHWZomzTUdhdF63_e2CFEBi6CNvRihXlkJgXMQIuJJS0Swlh5-je0fF=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T17:25:19.011Z"
+      },
+      "similarityScore": 63
+    },
+    {
+      "tags": [
+        "manhwa",
+        "hindi manhwa",
+        "hindi cartoon",
+        "hindi manga",
+        "manga",
+        "manhwa god",
+        "god of manhwa",
+        "zombie manhwa",
+        "billionaire manhwa",
+        "new manga hindi",
+        "new manhwa hindi",
+        "manhwa in hindi",
+        "manga in hindi",
+        "copy skill manhwa",
+        "manwa",
+        "manwa god",
+        "manga god",
+        "Manhwa recap",
+        "Manga recap",
+        "Real Recap",
+        "Manhwa Tower",
+        "Manhwa Galaxy",
+        "Dronzer Recap",
+        "asura manhwa recap",
+        "manhwa recap",
+        "ActionToon",
+        "manga explained",
+        "manga secrets",
+        "manhua",
+        "manhwa summary",
+        "recap manga",
+        "hindi anime",
+        "anime in hindi",
+        "anime"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "youtube.com/channel/UCeDmUb9eJYoHLISoh0_qeIw",
+            "title": "second channel"
+          }
+        ],
+        "country": "Ð˜Ð½Ð´Ð¸Ñ",
+        "viewCount": 8297055,
+        "channelId": "UCZZycN_O3kl8Z1uFjTGFnLg",
+        "hasShorts": false,
+        "joinedDate": "2025-01-23T21:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCZZycN_O3kl8Z1uFjTGFnLg",
+        "videoCount": 33,
+        "channelName": "Manhwa God",
+        "description": "Hi, friends! Main Manhwa, Manhua, Manga aur Webtoon ke recaps banata hoon. Hum aapko kisi bhi Manhwa ki story samajhne mein madad karte hain, important details aur information highlight karke jo shayad aapne miss kar di ho. Hum editing aur research mein bahut saara time lagate hain taaki aapko best recaps de sakein! Mujhe ummeed hai ki aap hamare videos dekhne mein utna hi maza lenge jitna humein unhe banane mein aata hai.\n\n\nAll my video features materials protected by the Fair Use guidelines of Section 107 of Copyright Act. It takes about 4 hours to create these videos so that my viewers can feel the difference between the original video and the video I created.",
+        "daysSinceStart": 582,
+        "avgVideoLength": "03:46:30",
+        "subscriberCount": 97100,
+        "lastVideoUploadDate": "3 months ago",
+        "avgVideoLengthSeconds": 13590,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/y7Vgp8ztLqAdMuGtuBfykpos_Azc6NaKYjzQhB98Os0lPsr4Jd1pzVbO2FpTs6KVCJ1ptyHi=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/zeEIAvA4otkfud0ogspzlvIpdc3NsR7SCJuWJs-m-UCebrryLMaIJ3hsWEFOzr1WBTVl4lLhRA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-30T10:45:11.417Z"
+      },
+      "similarityScore": 62
+    },
+    {
+      "tags": [
+        "dub",
+        "Anime",
+        "MaleAnime",
+        "MotionComic",
+        "AIAnime",
+        "Rebirth",
+        "ChineseAnime",
+        "Animation",
+        "AnimeShorts",
+        "AnimeRecommendations",
+        "Cultivation",
+        "Magic",
+        "Isekai",
+        "Rebirth"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 7500867,
+        "channelId": "UCydmg_Sy9GCRgchbxeBOpBw",
+        "hasShorts": false,
+        "joinedDate": "2026-04-23T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCydmg_Sy9GCRgchbxeBOpBw",
+        "videoCount": 67,
+        "channelName": "Anime Bunnie",
+        "description": "Welcome to Anime Bunnie âœ¨ New updates every day ~âœ¨\nAnime themes, super satisfying plots\nAI anime, anime, rebirth, post-apocalyptic, system, time travel, power fantasy...\nSo many exciting short dramas waiting for you here ~~ âœ¨\nSubscribe now ~\nCome watch together! ðŸŽ‰ðŸ¿",
+        "daysSinceStart": 128,
+        "avgVideoLength": "01:56:28",
+        "subscriberCount": 47700,
+        "lastVideoUploadDate": "3 hours ago",
+        "avgVideoLengthSeconds": 6988,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/paUizveHGssuk9Q-4sEp28l5LmohNWGz2ph6abNE6qpLGz2q76XJHMfHVnIbQiBuCNpkneh3dQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T13:45:07.408Z"
+      },
+      "similarityScore": 60
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 11685506,
+        "channelId": "UCY2Tn0FRmpkNSqk4XwRql7g",
+        "hasShorts": true,
+        "joinedDate": "2025-10-09T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCY2Tn0FRmpkNSqk4XwRql7g",
+        "videoCount": 308,
+        "channelName": "AIronSoul",
+        "description": "Welcome to AIronSoul, where artificial intelligence meets human passion.\nWe create original AI-generated anime stories filled with courage, rivalry, and unbreakable spirit.\nEvery episode is a fusion of cutting-edge technology and the burning soul of classic shonen energy.\nHere, heroes are born from code, and emotions are forged in digital fire.\n\nðŸ”¥ Subscribe if you believe that even machines can dream â€” and fight for their destiny.\nThis video complies with EDSA standards and is not a real-life scenario",
+        "daysSinceStart": 324,
+        "avgVideoLength": "00:47:15",
+        "subscriberCount": 53000,
+        "lastVideoUploadDate": "10 hours ago",
+        "avgVideoLengthSeconds": 2835.3999999999996,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/MTqhsqJWCOssOfSl5_xGkwHeVFd5_9WGaEF94OojEHevFqi0PiK-owP35nyB7BO3ntIUDlpPFQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/6iiqmjMCPlXskqPmIZAXs0MAZViBuXWcf2HnMYxRzLX_57RCOUFd8EQ3MMzGsJ7tIgHJ-NweqQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-24T15:05:52.001Z"
+      },
+      "similarityScore": 58
+    },
+    {
+      "tags": [
+        "anime recap",
+        "manhwa recap",
+        "anicap",
+        "animecaps",
+        "recap manhwa",
+        "manga recap",
+        "manhwa recapped",
+        "manga recapped",
+        "manhwa recap full",
+        "manhwa recaps"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "Ð¡Ð¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð½Ñ‹Ðµ Ð¨Ñ‚Ð°Ñ‚Ñ‹",
+        "viewCount": 1851979,
+        "channelId": "UCNjHl1hcxgn-lMJP8h5AnxQ",
+        "hasShorts": false,
+        "joinedDate": "2023-01-24T22:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCNjHl1hcxgn-lMJP8h5AnxQ",
+        "videoCount": 573,
+        "channelName": "Manhwa Synopsis",
+        "description": "Welcome to my YouTube channel !  I make Manhwa, Manhua, Manga and Weebtoon recaps. We help you understand the story of any Manhwa by pointing out the important details and information you might of missed. So if you like the video we made, please help us by subscribing.",
+        "daysSinceStart": 1312,
+        "avgVideoLength": "05:11:41",
+        "subscriberCount": 89900,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 18701,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/OU5ipPNjbmxakaHxGjKUnay7_HRBljR6fKoRumvB6l08sgeXqw5hj_FPpBg8RVbToUmTYjKKnA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T17:43:51.423Z"
+      },
+      "similarityScore": 57
+    },
+    {
+      "tags": [
+        "shortdrama",
+        "comeback",
+        "underdog",
+        "revenge",
+        "AIDrama",
+        "AIseries",
+        "AIGenerated",
+        "digitalstorytelling",
+        "AIart",
+        "powerstruggle",
+        "suspense",
+        "justice",
+        "epic",
+        "series",
+        "trending"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 504188,
+        "channelId": "UC8c-YFYKXyda3cDOvNF5hYg",
+        "hasShorts": false,
+        "joinedDate": "2026-07-13T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC8c-YFYKXyda3cDOvNF5hYg",
+        "videoCount": 86,
+        "channelName": "Mystic Realm Comics",
+        "description": "ã€Creative Statement / Artistic & Safety Disclosureã€‘ Viewing is strictly prohibited for those under 18 years of age.\n\n1. Nature of Content: This channel primarily features original short films and television series, falling under the \"Artistic\" category in YouTube's EDSA policy.\n\n2. Child Safety: The minor characters featured in this episode are all professional/voluntary actors. All filming was conducted under the real-time supervision of a guardian to ensure a safe and compliant environment. Please do not imitate this behavior.\n\n3. Production Goal: The videos explore themes such as life philosophy, family, and workplace through fictional narratives and do not involve any dangerous, suggestive, or inappropriate behavior. \n\n#AIDrama #AIseries #AIGenerated #shortdrama #comeback #underdog #revenge #digitalstorytelling #AIart #powerstruggle #suspense #justice #epic #series #trending",
+        "daysSinceStart": 47,
+        "avgVideoLength": "01:34:51",
+        "subscriberCount": 3890,
+        "lastVideoUploadDate": "7 hours ago",
+        "avgVideoLengthSeconds": 5691,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/msD_7J_nvb0zAzkHUvUuIOskdVZQ5GvNyaLFiqLnJ-Hu7FB1W74x-0o_yRBT-_n0PN6T1BjXhA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T01:35:07.256Z"
+      },
+      "similarityScore": 57
+    },
+    {
+      "tags": [
+        "#DramaEnEspaÃ±ol",
+        "#SerieCompleta",
+        "#DramaCorto",
+        "#PasiÃ³nMortal",
+        "#DramaDeVenganza",
+        "#CEO",
+        "#Mafia",
+        "#Alfa",
+        "#Millonario",
+        "#RomanceOscuro",
+        "#HistoriasTÃ³xicas",
+        "#DramaRomÃ¡ntico",
+        "#DramaCoreano",
+        "#DramaAsiÃ¡tico",
+        "#PelÃ­culaCompleta",
+        "#DramaViral",
+        "#ReyAlfa",
+        "#HerederoOculto",
+        "#VenganzaTotal",
+        "#AmorPeligroso",
+        "#DramaTikTok",
+        "#SerieRomÃ¡ntica",
+        "#DramaIntenso",
+        "#ImperioOscuro",
+        "#AmorYPoder",
+        "#DramaDeAcciÃ³n",
+        "#HistoriasVirales",
+        "#RomanceMortal",
+        "#ShortDrama",
+        "#WebnovelDrama"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 935431,
+        "channelId": "UCC1mZTFn_-STns5TlhetOCQ",
+        "hasShorts": false,
+        "joinedDate": "2026-01-15T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCC1mZTFn_-STns5TlhetOCQ",
+        "videoCount": 60,
+        "channelName": "asiÃ³n Mortal",
+        "description": "ðŸ”¥ðŸ”¥ðŸ”¥Bienvenido a PasiÃ³n Mortal â€” donde los dÃ©biles se convierten en leyendas y cada historia estÃ¡ llena de traiciÃ³n, venganza, poder y destino. ðŸ’¥\n\nDisfruta de los mejores dramas cortos inspirados en las novelas web mÃ¡s adictivas: CEOs despiadados, herederos ocultos, mafias peligrosas, reyes alfa y protagonistas que regresan para aplastar a todos los que los humillaron.\n\nSuscrÃ­bete ahora ðŸ”” y mira episodios Ã©picos llenos de romance tÃ³xico, giros impactantes y ascensos legendarios. ðŸŽ¥âœ¨\n\n#DramaEnEspaÃ±ol #SerieCompleta #DramaCorto #PasiÃ³nMortal #DramaDeVenganza #CEO #Mafia #Alfa #Millonario #RomanceOscuro #HistoriasTÃ³xicas #DramaRomÃ¡ntico #DramaCoreano #DramaAsiÃ¡tico #PelÃ­culaCompleta #DramaViral #ReyAlfa #HerederoOculto #VenganzaTotal #AmorPeligroso #DramaTikTok #SerieRomÃ¡ntica #DramaIntenso #ImperioOscuro #AmorYPoder #DramaDeAcciÃ³n #HistoriasVirales #RomanceMortal #ShortDrama #webnoveldrama \n\nThis video complies with EDSA standards and is not a real-life scenario",
+        "daysSinceStart": 226,
+        "avgVideoLength": "01:29:42",
+        "subscriberCount": 11700,
+        "lastVideoUploadDate": "46 minutes ago",
+        "avgVideoLengthSeconds": 5382,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/5qDRcTEMpjpJ_HWNAdXbpYgDrs4Vey9LJ6RlLGEogTIfyT68Tsxj6Q8vldsmh87NhHrUxI7-=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/PqlN_-L84oGbRmmGkyHuSQyA91D45bd4bDXI-00BgCaRRS_atoPGaFkA1YsIHz9PaN4s9wUTsU8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-26T13:50:18.851Z"
+      },
+      "similarityScore": 56
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1084535,
+        "channelId": "UCpy3ujTDogTz7OzMxJPcN3A",
+        "hasShorts": false,
+        "joinedDate": "2025-06-30T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCpy3ujTDogTz7OzMxJPcN3A",
+        "videoCount": 340,
+        "channelName": "Lemon Manhwa Studio",
+        "description": "Bring you the most exciting manhwa recap videos, don't miss it if you are a fan of manga recap!",
+        "daysSinceStart": 425,
+        "avgVideoLength": "21:33:29",
+        "subscriberCount": 7320,
+        "lastVideoUploadDate": "5 months ago",
+        "avgVideoLengthSeconds": 77609,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/wxjUT1PlQVjY9IqZT4PGgzCAiOeuVfdAUfRepQ7IUmg30oYHscGm8JP9W6ZcvYAIjw4RDTPk=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-23T06:10:07.394Z"
+      },
+      "similarityScore": 56
+    },
+    {
+      "about": {
+        "description": "",
+        "subscriberCount": 775,
+        "viewCount": 39406,
+        "videoCount": 23,
+        "joinedDate": "2026-05-22",
+        "country": null,
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCelBXPcAywQCE_W94PdEoTw",
+        "channelId": "UCelBXPcAywQCE_W94PdEoTw",
+        "daysSinceStart": 99,
+        "avgVideoLengthSeconds": 19.826086956521976,
+        "avgVideoLength": "2:00:19",
+        "channelName": "Mr Dragon",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/bGBPLop1jP1OM4DRP_9-WJgCSF6-nM_fWXMEKwAOG-XRE2Zo9VOcxXVqWQtC-WhSzKrVqK4oehg=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": false,
+        "lastVideoUploadDate": "2 days ago"
+      },
+      "channelId": "UCelBXPcAywQCE_W94PdEoTw",
+      "keywords": [],
+      "tags": null,
+      "similarityScore": 56
+    },
+    {
+      "about": {
+        "description": "Welcome to Raw Ascent Manhwa. No shortcuts. No lucky breaks. Just the climb. Every story we cover on this channel is about a protagonist who ascended the hard way, through pain, through loss, through moments where giving up would have been the easier choice. Raw means honest. It means we do not skip the suffering that makes the rise worth watching. These are the manhwa stories where strength is earned, where every scar has a reason, and where the top of the ranking means something because you watched every step it took to get there. If you want the real climb, the kind of ascent that stays with you long after the video ends, this channel was built for you. Subscribe and follow the ascent. Every comment and every like pushes me to keep going and bring you more stories worth climbing for. Thank you for being here from the start. The ascent continues.",
+        "subscriberCount": 1340,
+        "viewCount": 84050,
+        "videoCount": 21,
+        "joinedDate": "2024-07-13",
+        "country": "United States",
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCyGailVJFYlIDWOaAgzh7ng",
+        "channelId": "UCyGailVJFYlIDWOaAgzh7ng",
+        "daysSinceStart": 777,
+        "avgVideoLengthSeconds": 298.45454545454504,
+        "avgVideoLength": "2:04:58",
+        "channelName": "Raw Ascent Manhwa",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/8jUaAgNflrULBAcFPl76cX9O85nUpcUXGCzJzJDBka5D9Fz2pwhQwiVbPEYBPLG_18WUXEEz=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": false,
+        "lastVideoUploadDate": "3 hours ago"
+      },
+      "channelId": "UCyGailVJFYlIDWOaAgzh7ng",
+      "keywords": [],
+      "tags": [
+        "manhwa recap",
+        "manhwa ascent",
+        "op mc manhwa",
+        "manhwa rise",
+        "strongest manhwa"
+      ],
+      "similarityScore": 55
+    },
+    {
+      "tags": [
+        "animation",
+        "Eng Sub",
+        "Multi Sub",
+        "MULTI SUB",
+        "Anime",
+        "plot",
+        "Cultivation",
+        "English Dub Anime",
+        "Dubbed Anime",
+        "Anime Dub",
+        "English Anime",
+        "Full English Dub",
+        "Action Anime Dub",
+        "new anime",
+        "god anime",
+        "chinese anime",
+        "anime english dub",
+        "full anime episodes",
+        "action anime",
+        "revenge anime",
+        "isekai anime",
+        "fantasy anime",
+        "anime series",
+        "epic anime",
+        "english animation",
+        "crunchyroll style anime",
+        "webtoon animation",
+        "anime drama",
+        "chinesedrama",
+        "ceo",
+        "cinderella",
+        "EngSub",
+        "Urban",
+        "Country",
+        "EngDub",
+        "malepet",
+        "girl",
+        "goddess"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 5061166,
+        "channelId": "UCfQHz3KTHxoepX4x4lCTX5Q",
+        "hasShorts": false,
+        "joinedDate": "2025-11-17T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCfQHz3KTHxoepX4x4lCTX5Q",
+        "videoCount": 893,
+        "channelName": "Supreme Anime Drama",
+        "description": "ðŸ”¥ Love Chinese anime? This is your paradise! \nâš¡ Here youâ€™ll find nonstop action, English-dubbed Donghua, and heroes who never back down.\nâš”ï¸ From brutal fights to epic cultivation journeys, every episode hits fast, hard, and intense.\nðŸŽ¬ Overpowered MCs, insane power-ups, magical realmsâ€”everything you crave in battle anime.\nðŸ‘€  Updated every day, keep chasing, and keep exciting! \nðŸ‘‰Subscribe to us, let us immerse ourselves in the world of anime together! ðŸ’¥",
+        "daysSinceStart": 285,
+        "avgVideoLength": "03:07:51",
+        "subscriberCount": 24200,
+        "lastVideoUploadDate": "16 hours ago",
+        "avgVideoLengthSeconds": 11271,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/QaBUH-Ha7qvmlDpfezLoLiHgTal9vPe7hwSDPWyHvTsV566UbFSvyjmkdY12vM9iY39b2ZwpfQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T10:50:29.892Z"
+      },
+      "similarityScore": 54
+    },
+    {
+      "tags": [
+        "manhwa",
+        "hindi manhwa",
+        "hindi cartoon",
+        "hindi manga",
+        "manga",
+        "manhwa god",
+        "god of manhwa",
+        "zombie manhwa",
+        "billionaire manhwa",
+        "new manga hindi",
+        "new manhwa hindi",
+        "manhwa in hindi",
+        "manga in hindi",
+        "copy skill manhwa",
+        "manwa",
+        "manwa god",
+        "manga god",
+        "Manhwa recap",
+        "Manga recap",
+        "Real Recap",
+        "Manhwa Tower",
+        "Manhwa Galaxy",
+        "Dronzer Recap",
+        "asura manhwa recap",
+        "manhwa recap",
+        "ActionToon",
+        "manga explained",
+        "manga secrets",
+        "manhua",
+        "manhwa summary",
+        "recap manga",
+        "hindi anime",
+        "anime in hindi",
+        "anime"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "India",
+        "viewCount": 14110724,
+        "channelId": "UCeDmUb9eJYoHLISoh0_qeIw",
+        "hasShorts": false,
+        "joinedDate": "2025-02-24T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCeDmUb9eJYoHLISoh0_qeIw",
+        "videoCount": 150,
+        "channelName": "Manhwa God 2",
+        "description": "Hello Guys its my second channel \nMain Manhwa, Manhua, Manga aur Webtoon ke recaps banata hoon. Hum aapko kisi bhi Manhwa ki story samajhne mein madad karte hain, important details aur information highlight karke jo shayad aapne miss kar di ho. Hum editing aur research mein bahut saara time lagate hain taaki aapko best recaps de sakein! Mujhe ummeed hai ki aap hamare videos dekhne mein utna hi maza lenge jitna humein unhe banane mein aata hai.\n\nAll my video features materials protected by the Fair Use guidelines of Section 107 of Copyright Act. It takes about 4 hours to create these videos so that my viewers can feel the difference between the original video and the video I created.",
+        "daysSinceStart": 551,
+        "avgVideoLength": "08:04:13",
+        "subscriberCount": 93400,
+        "lastVideoUploadDate": "8 hours ago",
+        "avgVideoLengthSeconds": 29053,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/EvY7gTBUJBJoq5IxmrTJn6pZ419WHTQBOk1Zt3xRZKceNKDICeHKCqrHiK9MnZVnkMV7SNdzXKw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/WNy8ML9Fimfc8gCUlyOlbaACk5ymPVRw5OHb7UD6Hn7rHl1vgPi1vemFF59UkT_sV0CeMVe2_Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-28T07:20:09.009Z"
+      },
+      "similarityScore": 54
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "anime recap",
+        "anicap",
+        "the manhwa man",
+        "manhwa",
+        "webtoon",
+        "manhwa recaps",
+        "manhwa cap",
+        "webtoon recap",
+        "high school mercenary",
+        "teenage mercenary",
+        "mercenary enro",
+        "mercenary enrollment",
+        "manga",
+        "Manhwa recap",
+        "manga summary",
+        "manga capped",
+        "anime summary",
+        "recap manhwa",
+        "movie recap",
+        "anime plot",
+        "animecaps",
+        "mangacap",
+        "recap",
+        "anirecap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 882511,
+        "channelId": "UCLiom6t7zFbXXiFXjoLVa-Q",
+        "hasShorts": false,
+        "joinedDate": "2026-03-18T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCLiom6t7zFbXXiFXjoLVa-Q",
+        "videoCount": 42,
+        "channelName": "Relaxation Cabin Manhwa Recap",
+        "description": "Hey comic fanatics! Welcome to My Channel â€”your go-to spot for no-fluff, high-energy comic breakdowns that dig into every panel, plot twist, and character arc you care about.â€‹\nWhether itâ€™s shonen epics with earth-shattering battles, seinen deep dives into gritty storytelling, or hidden gem indie comics you mightâ€™ve missed, I break down the good, the hype, and the wait, did that just happen? moments so you never miss a beat. No jargon, just pure comic loveâ€”plus hot takes, theories that might make you go â€œWHOA,â€ and breakdowns of why your favorite (or least favorite) issues work (or donâ€™t).â€‹\nComics arenâ€™t just pagesâ€”theyâ€™re stories that hit hard. Letâ€™s unpack them, one epic moment at a time.",
+        "daysSinceStart": 164,
+        "avgVideoLength": "04:29:38",
+        "subscriberCount": 8470,
+        "lastVideoUploadDate": "11 hours ago",
+        "avgVideoLengthSeconds": 16178,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/oQN7iAcRB0aZH4bBCZJGKC-MdzNeQIeVjcM2RWpjq8bmala_FmztqHkyC8kK67vroDsf5Ty6HMY=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/5mifA7K1BvG091qB21SRB1Nqgaju8YkNBfPot17PSGesUKyh_ydTr7gM7nrXz4cgygGQ8cVt9NY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T16:15:03.668Z"
+      },
+      "similarityScore": 53
+    },
+    {
+      "tags": [
+        "Manhwa Recap",
+        "Manga Recap",
+        "Manhwa",
+        "manhwareccomendation",
+        "animerecap",
+        "sleep",
+        "fall asleep fast",
+        "sleep video",
+        "stories for sleep",
+        "bedtime stories",
+        "bedtime story",
+        "novel"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 40938231,
+        "channelId": "UC6FApW7Dls-T3NfAqQot9kQ",
+        "hasShorts": true,
+        "joinedDate": "2023-08-14T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC6FApW7Dls-T3NfAqQot9kQ",
+        "videoCount": 1363,
+        "channelName": "Monkey Manhwa Recap",
+        "description": "Bring you the most exciting manhwa recap videos, don't miss it if you are a fan of manga recap!",
+        "daysSinceStart": 1111,
+        "avgVideoLength": "22:32:46",
+        "subscriberCount": 92500,
+        "lastVideoUploadDate": "5 months ago",
+        "avgVideoLengthSeconds": 81166,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/QM0KRC1gH18QhvjItEFM4zdTGhrPpjQ9WjVs3HWWAXRcwJWV_ut5Yhx8UL9nckDEWyG-Dbpl=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/TwbwhiOPxWZQLbhzugjkbX8bvv_j8CqNwxwcEwEemv5MPZdceclKpMNg37F4kiKU-rokANUhug=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T09:35:10.794Z"
+      },
+      "similarityScore": 53
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "chinesedrama",
+        "shortdrama",
+        "anime recap",
+        "manhwa summary",
+        "webtoon recap",
+        "film recap",
+        "engdub"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 5119703,
+        "channelId": "UCCeU8zclExO0_NV9aya-njg",
+        "hasShorts": false,
+        "joinedDate": "2026-02-11T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCCeU8zclExO0_NV9aya-njg",
+        "videoCount": 23,
+        "channelName": "Silas Recap",
+        "description": "Refusing mediocrity, delivering only masterpieces.\nSilas Recap is dedicated to bringing you high-quality, original manhwa recap, anime recaps & short drama\nFrom mind-bending mystery thrillers to underrated hidden gems, I present the most exciting plot experiences with a unique narrative rhythm.\nDiscover your next obsession here.\nSubscribe to Silas Recap. Don't miss a single story.",
+        "daysSinceStart": 199,
+        "avgVideoLength": "01:26:16",
+        "subscriberCount": 34900,
+        "lastVideoUploadDate": "3 months ago",
+        "avgVideoLengthSeconds": 5176,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/s5o654Cm6VWpZPY0fVy_A1E0RYL7qW7W-ge7SJnXFvyMEPqP0jBVQjHm21jytGNa_WUsQ81mSQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/EFkC685cz1stIHZrYAUD49IgE53bmLLO6_K4bs-uSUSW9tSslkeDW905EJ4Sau7ATx5kPrqB=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T14:36:04.334Z"
+      },
+      "similarityScore": 53
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 456386,
+        "channelId": "UCahU0spdbM532AZSgQ39PYQ",
+        "hasShorts": false,
+        "joinedDate": "2026-06-23T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCahU0spdbM532AZSgQ39PYQ",
+        "videoCount": 23,
+        "channelName": "Alpha Anime",
+        "description": "âš”ï¸ Alpha Anime âš”ï¸\n\nWelcome to Alpha Animeâ€”where powerful stories come to life in English.\n\nWe bring you high-quality English-dubbed manhua, donghua, and anime featuring legendary protagonists, cultivation journeys, system awakenings, dark fantasy, revenge, and unforgettable battles. Every episode is carefully adapted to deliver an immersive experience for fans around the world.\n\nWhether you're discovering a new series or following your favorite heroes, Alpha Anime is your destination for action, adventure, and nonstop entertainment.\n\nðŸ”¥ New episodes released regularly.\nðŸ”” Subscribe and join the Alpha communityâ€”your next legendary adventure starts here.",
+        "daysSinceStart": 67,
+        "avgVideoLength": "00:54:01",
+        "subscriberCount": 5530,
+        "lastVideoUploadDate": "7 hours ago",
+        "avgVideoLengthSeconds": 3241.833333333333,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/QLnO7r9b9Nt36cUEcxqai7906A6aK-vT2iWyQTL7BaG5ATFchOQl7Nt_DuePV4BnszRJU63jkA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/RKULYTuxd0h__WBOXLk_WFtB7_QehST75bd2XXzhtis_fOZmkC8IBf8wH3TuxQ6_mUO8hvknTrI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-01T07:00:39.915Z"
+      },
+      "similarityScore": 51
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 2616455,
+        "channelId": "UCdsGTQKBJ-KjZaqb94l1KCA",
+        "hasShorts": false,
+        "joinedDate": "2016-08-01T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCdsGTQKBJ-KjZaqb94l1KCA",
+        "videoCount": 47,
+        "channelName": "Small Theater Anime",
+        "description": "",
+        "daysSinceStart": 3680,
+        "avgVideoLength": "02:09:50",
+        "subscriberCount": 11300,
+        "lastVideoUploadDate": "2 months ago",
+        "avgVideoLengthSeconds": 7790,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/UnrKe6xJNFQP9vXvmck7LEjj-Q1VbaplZRdXhCq0OxGjJiWqsh3xrQO8fw2gRwKA-BY7rTbCWfU=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-23T17:50:37.689Z"
+      },
+      "similarityScore": 51
+    },
+    {
+      "tags": [
+        "æžç¬‘",
+        "æ•´è›Š",
+        "å¹½é»˜",
+        "æ²™é›•",
+        "çˆ†ç¬‘",
+        "æœ‰è¶£",
+        "æ»‘ç¨½",
+        "çŸ­è§†é¢‘"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 3101298,
+        "channelId": "UCPNcP4a2y6PbyaJi18pxCLA",
+        "hasShorts": false,
+        "joinedDate": "2022-03-17T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCPNcP4a2y6PbyaJi18pxCLA",
+        "videoCount": 488,
+        "channelName": "OP Manhwa",
+        "description": "Welcome to OP Manhwa! ðŸš€\n\nWe bring your favorite action, isekai, martial arts, and overpowered MC stories to life through high-quality motion comics and comic dubs!\n\nIf you love epic battles, level-up systems, and gripping revenge plots, you've found your new home. We specialize in transforming thrilling stories into fully realized audio-visual experiences.\n\nðŸ”¥ NEW EPISODES EVERY SINGLE DAY! ðŸ”¥\nDon't miss out on the journey! Hit that SUBSCRIBE button and ring the notification bell ðŸ”” so you are always the first to watch our latest releases.",
+        "daysSinceStart": 1626,
+        "avgVideoLength": "01:06:14",
+        "subscriberCount": 18400,
+        "lastVideoUploadDate": "15 hours ago",
+        "avgVideoLengthSeconds": 3974,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/MPHPFYOOiQS6-JW-EX4IEwmlb1oIKR-ksmAbeciFELuaNxUkwTcDEjplP-tKHipcO6qp5qJA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/NIFhjr0acEPJ8HF-37rkuJQWRhP12qcX3Rs9TXvAA7A5mpp5kMLb9NHC5IDWqS0SCe0Jg59LlXg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-27T21:20:02.233Z"
+      },
+      "similarityScore": 50
+    },
+    {
+      "about": {
+        "description": "Welcome to Manhwa System Rank SS! ðŸ”¥\n\nThe BEST Manhwa & Webtoon System Recaps on YouTube.\n\nEver wondered what it feels like to awaken a SSS-Rank class, sleep your way to Level 99, or turn trash skills into broken powers? We turn the most INSANE System Manhwa stories into full-length audio recaps you can binge anytime.\n\nðŸ“– What you'll find here:\nâš”ï¸ System / Game / Level Up stories\nðŸ’€ Underdog â†’ OVERPOWERED journeys\nðŸŽ® Cheat Skills, Hidden Classes & SSS Ranks\nðŸŒ Apocalypse Survival & Infinite Wealth Systems\nðŸ”¥ Full story recaps â€” 2 to 4 hours of pure hype\n\nNew uploads EVERY DAY. Don't miss the next SSS-Rank story!\n\nðŸ‘‡ SUBSCRIBE + TURN ON THE BELL ðŸ”” so you never miss an upload!\n\n#Manhwa #ManhwaRecap #SystemManhwa #Webtoon #Anime\n\n",
+        "subscriberCount": 664,
+        "viewCount": 12346,
+        "videoCount": 10,
+        "joinedDate": "2026-08-22",
+        "country": "United States",
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCbNiJpaumt7kxuBKbkphGcw",
+        "channelId": "UCbNiJpaumt7kxuBKbkphGcw",
+        "daysSinceStart": 7,
+        "avgVideoLengthSeconds": 3435.8,
+        "avgVideoLength": "1:57:15",
+        "channelName": "Manhwa System SSS",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/EchChK6Il5gbGK33xWiv4YuWKRSLqUz408o1r2Mpdwd2pew8gPsoWfBrz_cc0omxrMDXsQ3Ym_s=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": false,
+        "lastVideoUploadDate": "7 hours ago"
+      },
+      "channelId": "UCbNiJpaumt7kxuBKbkphGcw",
+      "keywords": [],
+      "tags": [
+        "manhwa recap",
+        "manhwa system",
+        "system manhwa",
+        "webtoon recap",
+        "manhwa audio drama",
+        "manhwa full story",
+        "sss rank",
+        "level up manhwa",
+        "cheat system",
+        "manhwa story",
+        "best manhwa",
+        "Manhwa system SSS"
+      ],
+      "similarityScore": 50
+    },
+    {
+      "tags": [
+        "#animerecap",
+        "#manhwa resumen",
+        "#anime recommendations",
+        "#anime recap",
+        "#animerecommendation",
+        "#manhwareccomendation",
+        "#manhwaedit",
+        "#manga",
+        "#anime",
+        "#animerecap",
+        "#mangaunboxing",
+        "#mangacollection",
+        "#webtoon",
+        "#manhwarecap",
+        "#animerecommendations",
+        "#manhwaedit",
+        "#manhwareccomendation",
+        "#webtoon",
+        "#mangacollection",
+        "#manhwaedit",
+        "#manhwareccomendation",
+        "#animerecap",
+        "#manhwaedit #anime",
+        "#animerecommendations",
+        "#animerecommendations",
+        "#manhwareccomendation",
+        "#manhwaedit",
+        "#manga #animerecap",
+        "#mangacollection",
+        "#webtoon",
+        "#manhwarecap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 2277984,
+        "channelId": "UCW-PhRogD-yYdsTIqWoBnfg",
+        "hasShorts": false,
+        "joinedDate": "2024-08-22T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCW-PhRogD-yYdsTIqWoBnfg",
+        "videoCount": 305,
+        "channelName": "Blue Whale Comics Review",
+        "description": "#manhwareccomendation #manhwaedit #animerecap\nHi, I am very glad to see you on my channel ðŸ‘‹ðŸ»\n subscribe now - watch the latest videos.ðŸ‘ðŸ»\nhttps://www.youtube.com/@Manhwarecap137",
+        "daysSinceStart": 737,
+        "avgVideoLength": "00:08:23",
+        "subscriberCount": 13500,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 86903,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/3OL14SCtBteJkzL2bCxq6bwMa7c6rSJDOgRws46FC9CaGaEhsO-x6h1aT3GZqdmF4mgVaK2a9A=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/srCKN79q35KppgEVWGgEFQ3pcCmHK0YoH1bb9lDOgcojjmb4ObZdReMMLMJYtPbiduxYGA3Q-A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-28T18:25:10.496Z"
+      },
+      "similarityScore": 49
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "Singapore",
+        "viewCount": 1634801,
+        "channelId": "UCLLaw76lMLzJ1311jvPfKvQ",
+        "hasShorts": true,
+        "joinedDate": "2026-03-14T19:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCLLaw76lMLzJ1311jvPfKvQ",
+        "videoCount": 116,
+        "channelName": "Monogatri Anime",
+        "description": "manhwa & mini dramas update daily!\nâš”ï¸ Counterattack, fantasy, urban supremacy, \nðŸ’¥and overpowered main character stories.\nðŸ””Subscribe for full episodes & exciting highlights!",
+        "daysSinceStart": 167,
+        "avgVideoLength": "02:01:56",
+        "subscriberCount": 12500,
+        "lastVideoUploadDate": "8 hours ago",
+        "avgVideoLengthSeconds": 7316,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/FUYKRUlqfomIA0w6aWR7d6Z0hGUvcknq8FggRZKBaRKTNmzgjkodeSEZ83z81VSuKU2sMGgb=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/lKcY6IKIhT2SPT-0siwPkK_H0okHCRElEHgxdPOeXisO5S799kdLArPh4LVvxRfAuD6V92fvZQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-20T15:15:56.379Z"
+      },
+      "similarityScore": 47
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "",
+        "viewCount": 3285685,
+        "channelId": "UCZji8DPi6DpOvW-6t2yY_5Q",
+        "hasShorts": false,
+        "joinedDate": "2026-01-10T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCZji8DPi6DpOvW-6t2yY_5Q",
+        "videoCount": 42,
+        "channelName": "GRANDPA MANHWA RECAP",
+        "description": "",
+        "daysSinceStart": 231,
+        "avgVideoLength": "02:01:12",
+        "subscriberCount": 37400,
+        "lastVideoUploadDate": "1 month ago",
+        "avgVideoLengthSeconds": 7272,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/NRkbLSHJtaK7biN-1fAlDH8BcMbRxTY9T5F3_GrTtckeX-gqVfhIKNSAN9AnbDYSGTv1l3pa=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/Eq0lls_QlKG51Vam8NxBjAP98mbw4lPknmH5mEs8U2689NDdOMx2h0r3S_Zi_B6q8-EROFBLhg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T07:34:17.049Z"
+      },
+      "similarityScore": 46
+    },
+    {
+      "about": {
+        "description": "",
+        "subscriberCount": 13,
+        "viewCount": 1667,
+        "videoCount": 5,
+        "joinedDate": "2026-03-17",
+        "country": "United States",
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCy-7gHv5CarQfgAmuDyYjmA",
+        "channelId": "UCy-7gHv5CarQfgAmuDyYjmA",
+        "daysSinceStart": 165,
+        "avgVideoLengthSeconds": 601.3999999999996,
+        "avgVideoLength": "4:10:01",
+        "channelName": "Inkflow Manhwa",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/C0v0J0uYZ1lqwjPvGDOtCEX5UqbjxttsU44Swz6OQ5sovIquoTjjIAKtZBGnlB7O2CyTCuWJUto=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": false,
+        "lastVideoUploadDate": "16 hours ago"
+      },
+      "channelId": "UCy-7gHv5CarQfgAmuDyYjmA",
+      "keywords": [],
+      "tags": [
+        "manhwa",
+        "manhwa recap",
+        "Fantasy manhwa"
+      ],
+      "similarityScore": 46
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "manga recap",
+        "manhwa recap full",
+        "anime recap",
+        "webtoon recap",
+        "anicap",
+        "manhwa",
+        "manga",
+        "manhua",
+        "isekai",
+        "romance",
+        "haren",
+        "comedy",
+        "shounen",
+        "ecchi",
+        "manhua recap",
+        "Manhwa Life",
+        "ManhwaCapped",
+        "ActionToon",
+        "Yahello",
+        "Manhwa Fresh",
+        "Manhwa Outpost",
+        "Aniclimax",
+        "high school mercenary",
+        "teenage mercenary",
+        "mercenary enrollment",
+        "solo leveling",
+        "rebirth manhwa",
+        "overpowered manhwa",
+        "movie recap",
+        "manga explained",
+        "manhwa recap reborn",
+        "manhwa bl",
+        "action manhwa",
+        "system manhwa",
+        "reincarnation",
+        "audiobook"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 987749,
+        "channelId": "UCM0kHZAFtiDZEFUo1BYErPA",
+        "hasShorts": false,
+        "joinedDate": "2026-01-15T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCM0kHZAFtiDZEFUo1BYErPA",
+        "videoCount": 54,
+        "channelName": "Monster Manhwa Recap",
+        "description": "Welcome to Monster Manhwa Recap!\nHere, we dive deep into the worlds of Manhwa, Manhua, Manga, and Webtoons, delivering cinematic, emotion-packed recaps that capture every crucial detail, shocking twist, and hidden moment you might have missed.\nAt Monster Manhwa Recap, every video is crafted with passion and precision, from in-depth research and immersive storytelling to smooth narration and dynamic editing, all to bring you the most accurate, engaging, and binge-worthy recap experience possible.\nWhether youâ€™re catching up on a legendary series or discovering a brand-new world filled with monsters, cultivation, and overpowered protagonists, Monster Manhwa Recap is your gateway to endless adventures.\nðŸ”¥Subscribe and dive into the story. The monster awakens here.",
+        "daysSinceStart": 226,
+        "avgVideoLength": "06:29:33",
+        "subscriberCount": 7310,
+        "lastVideoUploadDate": "7 days ago",
+        "avgVideoLengthSeconds": 23373,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/rHWQYcuaSEeCWJOGm3752XP4uqlq95mAQ9NMSnyrC6qEpu3D7oqKkiNQsdTUpOjS9wvFlsrsTnQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/kk-qU5GQgUVVuVFhi8t6CTqR6hXxmAB5TT-wiiGZkfhPuagJ-yFWKaQhVSZ_cMGAPQX4A5xi-A=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-27T21:09:02.656Z"
+      },
+      "similarityScore": 45
+    },
+    {
+      "tags": [
+        "manhwa recap",
+        "recap manga",
+        "recap manhua",
+        "manga sumary",
+        "mangacap",
+        "manga review",
+        "manhwacap",
+        "manhwa review",
+        "manhuacap",
+        "manhua review",
+        "recap manhwa"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 16178308,
+        "channelId": "UCPpxcW346Xyhw0fyGNMhqsA",
+        "hasShorts": true,
+        "joinedDate": "2023-04-11T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCPpxcW346Xyhw0fyGNMhqsA",
+        "videoCount": 461,
+        "channelName": "Recap Manga",
+        "description": "My paypal : https://www.paypal.me/lakdammechannel\nA little bit of your sincere support helps me maintain my life and work, thank you.\nPlease support me by subscribing to the channel.",
+        "daysSinceStart": 1236,
+        "avgVideoLength": "00:10:08",
+        "subscriberCount": 79600,
+        "lastVideoUploadDate": "2 weeks ago",
+        "avgVideoLengthSeconds": 608.1500000000015,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/PwNDtpapPS5WZM2z-1TEvAly1IbT9dvhSehHFIe7eEZA9uA6Xd__fzmd_qXp5E5zb8inGy6xkw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/XctUfP7jH3LqhFbbnYnGPJpBSsqu4eFkj78Oh-bXFxHNOm4I3d7iXTvybQBlRqWR-T6au_YrXw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-06T00:30:19.101Z"
+      },
+      "similarityScore": 45
+    },
+    {
+      "tags": [
+        "ManhwaRecap",
+        "AnimeRecap",
+        "MangaRecap",
+        "OverpoweredMC",
+        "RebirthManhwa",
+        "ActionManhwa",
+        "BadassProtagonist",
+        "ManhwaSummary",
+        "manhwa recap",
+        "anime recap",
+        "anicap",
+        "the manhwa man",
+        "manhwa",
+        "webtoon",
+        "manhwa recaps",
+        "manhwa cap",
+        "webtoon recap",
+        "high school mercenary",
+        "teenage mercenary",
+        "mercenary enro",
+        "Manga",
+        "manga",
+        "Manhwa recap",
+        "manga capped",
+        "manhwa summary",
+        "manga recaps",
+        "manga recap",
+        "manhwa capped",
+        "anime recaps",
+        "anicaps",
+        "anirecap",
+        "anime summary",
+        "anime",
+        "ani",
+        "recap",
+        "mangacaps",
+        "mangacap",
+        "mangas",
+        "anime plot"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 10,
+        "channelId": "UC1i_Isg6Ic63hWZBPUIt3rA",
+        "hasShorts": false,
+        "joinedDate": "2026-07-20T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC1i_Isg6Ic63hWZBPUIt3rA",
+        "videoCount": 2,
+        "channelName": "Carter Comic Vault",
+        "description": "ðŸ“– Every Legend Has a Beginning... Welcome to Carter Comic Vault.\n\nNot every hero is born strong.\nSome are betrayed. Some are forgotten.\nAnd some return to rewrite destiny.\n\nInside*Carter Comic Vault, you'll discover the most addictive Manhwa stories filled with:\n\nâš”ï¸ Overpowered Main Characters\nðŸ‘‘ Regression & Reincarnation\nðŸ”¥ System & Dungeon Adventures\nðŸ’€ Revenge & Dark Fantasy\nâ¤ï¸ Romance, Action & Epic Plot Twists\n\nEvery recap is crafted to keep you hooked until the very last second.\n\nIf you're looking for stories that make you say \"Just one more...\", you've found your home.\n\nSubscribe now and unlock the Vault.",
+        "daysSinceStart": 40,
+        "avgVideoLength": "00:06:48",
+        "subscriberCount": null,
+        "lastVideoUploadDate": "3 hours ago",
+        "avgVideoLengthSeconds": 408.5,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/bPpozC3E1Z2_uguzmiLt54kUlApZH-l1jsf4sMDKYhG5pk9m54rKJzwj7cDwZ4WAPtdcOPjq2Q=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-07-22T05:50:57.700Z"
+      },
+      "similarityScore": 45
+    },
+    {
+      "tags": [
+        "SciFiComic",
+        "MartialArts",
+        "Cultivation",
+        "LitRPG",
+        "GamingComic",
+        "System",
+        "AdventureComic",
+        "MotionComic",
+        "Donghua",
+        "AnimeForMen",
+        "MaleLead",
+        "PowerFantasy",
+        "Wuxia",
+        "Xianxia",
+        "Superhero",
+        "ComicFights",
+        "EpicStory",
+        "WorldBuilding",
+        "StrongHero",
+        "AntiHero",
+        "DarkFantasy",
+        "NewComic",
+        "WeeklyUpdate",
+        "MustReadComic",
+        "ViralComic",
+        "ComicTok",
+        "ComicReview",
+        "ComicDiscussion",
+        "ComicTheory",
+        "ActionPacked",
+        "FantasySeries",
+        "SciFiSeries",
+        "ComicDrama",
+        "VoiceComic",
+        "EnglishComic",
+        "WebtoonEnglish",
+        "ManhwaEnglish",
+        "MangaEnglish",
+        "DonghuaEnglish",
+        "MaleGaze",
+        "HaremComic",
+        "RPGComic",
+        "LevelUp",
+        "SoloLeveling"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 4030593,
+        "channelId": "UCDieEo2Ev3DBMO1VKFBM_lA",
+        "hasShorts": false,
+        "joinedDate": "2026-03-13T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCDieEo2Ev3DBMO1VKFBM_lA",
+        "videoCount": 87,
+        "channelName": "StarFire Anime",
+        "description": "Welcome to \"StarFire Anime\" âœ¨! We offer a massive library of officially licensed anime titles, with new content added continuouslyâ€”if you enjoy what you see, please hit that Subscribe button! ðŸ’– Exciting new episodes air right on schedule every week! ~ðŸŽ¬\nStarFire Anime is a anime channel created for a global audience.All content features Chinese dubbing with Chinese and English subtitles, making Chinese power-fantasy stories accessible worldwide.\nForget everything you know about animation. This is the next level. This is where Chinese Donghua meets pulse-pounding storytelling, where every upload is a ticket to another dimension packed with martial artists, cultivation gods, system cheats, reincarnated villains, and drop-dead gorgeous animation. If you live for epic fight scenes, unexpected plot twists, overpowered MCs, and characters that feel alive, you just found home. ðŸ âœ¨",
+        "daysSinceStart": 169,
+        "avgVideoLength": "01:42:42",
+        "subscriberCount": 25100,
+        "lastVideoUploadDate": "46 minutes ago",
+        "avgVideoLengthSeconds": 6162,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/OMy0gGC39a5tSAfPJxFs57EOsefdrEcWquCll6z08sQtfxU-fk0rQrzK2quS_gYBHJOwlJ_0OA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/c9v7qfExA6yxTFTnxPz18skddY85rH2qbakVNNwN_pZ1Ci-snLFiLjpzoq0l0LyuQrU_a5JAog=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T03:50:31.248Z"
+      },
+      "similarityScore": 44
+    },
+    {
+      "tags": [
+        "hindi anime recap",
+        "full anime in hindi",
+        "anime explained in hindi",
+        "trending anime hindi",
+        "isekai anime hindi",
+        "reincarnation anime hindi",
+        "fantasy anime in hindi",
+        "anime love story hindi",
+        "anime romance hindi",
+        "magic anime hindi",
+        "school anime in hindi",
+        "anime reborn story",
+        "anime explained",
+        "anime story hindi",
+        "anime full movie hindi",
+        "best anime hindi voiceover",
+        "anime romance love hindi",
+        "anime isekai school hindi",
+        "anime recap",
+        "emotional anime",
+        "romantic anime",
+        "isekai anime"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "India",
+        "viewCount": 1544757,
+        "channelId": "UC0M7AUDf0H_n_bTmYsnpC1g",
+        "hasShorts": false,
+        "joinedDate": "2007-03-16T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC0M7AUDf0H_n_bTmYsnpC1g",
+        "videoCount": 153,
+        "channelName": "Anime Fox",
+        "description": "ðŸŽ¬ Anime Fox Channel Description ðŸŽ¬\n\nWelcome to Anime Fox ðŸ¦Š â€” the ultimate place for true anime fans!\nHere youâ€™ll discover:\nâœ¨ Anime reviews & recaps\nðŸ”¥ Top anime from every genre\nðŸŽ­ Funny, emotional, and epic moments\nðŸ“º Latest anime news & updates\nðŸŒŸ Legendary characters and battles\n\nWhether you love shounen, isekai, romance, or fantasy anime, Anime Fox is the perfect channel for you!\nðŸ‘‰ Donâ€™t forget to subscribe and join us on an exciting journey through the world of anime! ðŸ¦Šâœ¨\nâš ï¸ All audio and visual materials are the property of their respective copyright owners. This channel is intended solely for entertainment and recap purposes.\n\nâœ© Most content is used in accordance with â€œFair Useâ€ under Section 107 of the U.S. Copyright Act of 1976.\nIf you like the content, please support the original creators through official streaming platforms, subscriptions, or purchases. Thank you for your support!\n#AnimeFox #Anime #Otaku #AnimeReview",
+        "daysSinceStart": 7106,
+        "avgVideoLength": "00:54:00",
+        "subscriberCount": 9210,
+        "lastVideoUploadDate": "1 hour ago",
+        "avgVideoLengthSeconds": 3240.8070175438597,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/yzHl20pw5pqc6CAyvdBzzwpTsIdArZCR7qwycxUdYLh0zFI56WuV4dj-tCdePlMvMvLqR5bfUTk=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/oYQN1we0qLtbZ7RDDCN7D5QaIWvJ2_pEeaiKtzE-eD0399D8bPz7iUtMHC8HZI46mZx1RE4D=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T08:50:39.287Z"
+      },
+      "similarityScore": 44
+    },
+    {
+      "tags": [
+        "chinesedramaengsub",
+        "Cdrama",
+        "mandrama",
+        "minidrama",
+        "SectDrama",
+        "drama",
+        "movie",
+        "The second creation",
+        "chinese kungfu",
+        "mainland",
+        "Sagittarius",
+        "Sword God",
+        "karate",
+        "Special operator",
+        "Special",
+        "full",
+        "Shortdramas",
+        "DramaShorts",
+        "ShortFilm",
+        "minidrama",
+        "topshortmovie",
+        "shorts",
+        "CompleteCollection",
+        "topshortmovie",
+        "shorts",
+        "CompleteCollection",
+        "tvseries",
+        "ChineseDrama",
+        "tvshow",
+        "Chineseskits",
+        "shortfilms"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1543316,
+        "channelId": "UCNQ8xCW8kVCfOi1BQWIQWmQ",
+        "hasShorts": false,
+        "joinedDate": "2026-05-12T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCNQ8xCW8kVCfOi1BQWIQWmQ",
+        "videoCount": 69,
+        "channelName": "Valor Drama",
+        "description": "ðŸ”¥Welcome to Valor Drama! We offer a vast selection of high-quality, male-oriented short dramas featuring original audio and subtitles in multiple languages, including English. From God of War and fantasy to thrilling revenge stories, we have it all!\nAll videos are officially authorized; copyright infringement will be prosecuted.\nClick subscribe to receive daily notifications for the latest episode releases!\n#chinesedramaengsub#Cdrama #mandrama #minidrama #SectDrama #drama #movie #The second creation #chinese kungfu #mainland #Sagittarius #Sword God #karate #Special operator #Special#full#Shortdramas #DramaShorts #ShortFilm #minidrama#topshortmovie #shorts #CompleteCollection#topshortmovie#shorts#CompleteCollection #tvseries #ChineseDrama #tvshow #Chineseskits #shortfilms",
+        "daysSinceStart": 109,
+        "avgVideoLength": "02:16:10",
+        "subscriberCount": 5150,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 8170,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/WSnSlph4WnFP8JNyU-fJLFR0zROZOoNVVgfjy9r4ggPc6wwvdFC2WIgitWGxiwLJkJNhNsba=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T09:05:08.117Z"
+      },
+      "similarityScore": 44
+    },
+    {
+      "tags": [
+        "English fantasy recap",
+        "USA anime fans",
+        "American gaming audience",
+        "English light novel",
+        "fantasy story summary",
+        "anime inspired gameplay",
+        "from weak to strongest",
+        "secret power unlocked",
+        "most broken ability",
+        "he shocked everyone",
+        "legendary awakening",
+        "story recap fantasy",
+        "light novel recap",
+        "reborn with powers",
+        "second life fantasy",
+        "regression story",
+        "reincarnation with system",
+        "cheat ability unlocked",
+        "max level hero",
+        "anime",
+        "fantasy",
+        "cartoon",
+        "animation",
+        "motion comics",
+        "chinese anime",
+        "drama"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 131614,
+        "channelId": "UCReIMFWjhV6S9xfeVzOSOOg",
+        "hasShorts": false,
+        "joinedDate": "2024-09-17T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCReIMFWjhV6S9xfeVzOSOOg",
+        "videoCount": 31,
+        "channelName": "Lucilfer",
+        "description": "",
+        "daysSinceStart": 711,
+        "avgVideoLength": "00:00:00",
+        "subscriberCount": 1610,
+        "lastVideoUploadDate": "4 days ago",
+        "avgVideoLengthSeconds": 0,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/nJYdrmyJVtQ7XHvj129FejsHRwZPSaxSyUIAUqsjulvjmEa0gZ9FtdZbthomgX6EoGu8DMiiWuY=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/ysgqUIh_iSuLgx5KhybCvHpp-JrxxB9nKybl-15ou7oDBzGCXFdPV7YzgsJ5VYmPgo9MZQGkQA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-27T12:30:16.486Z"
+      },
+      "similarityScore": 44
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United Kingdom",
+        "viewCount": 9804176,
+        "channelId": "UC2EVhK6YSf-pfJ6T3bslenQ",
+        "hasShorts": true,
+        "joinedDate": "2026-03-18T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC2EVhK6YSf-pfJ6T3bslenQ",
+        "videoCount": 143,
+        "channelName": "Starisle Anime",
+        "description": "ðŸ”¥Starisle Animeï½œFocusing on High-Quality AI AnimeðŸŽ¬\n\nOfficially licensed resources are continuously updated, covering all genres from action-packed battles and fantasy adventures to heartwarming slice-of-life stories!\n\nHigh-definition visuals for a top-notch viewing experienceðŸ’¯, featuring everything from thrilling action and heartwarming stories to high-energy comebacks!\n\nâš ï¸Copyright Statement: All content is officially licensed. Unauthorized reproduction and plagiarism are strictly prohibited and will be prosecuted!\n\nClick to subscribe and add the notification bellðŸ”” to never miss a quality anime and follow along with fellow fans! ðŸŽ‰",
+        "daysSinceStart": 164,
+        "avgVideoLength": "02:10:17",
+        "subscriberCount": 42300,
+        "lastVideoUploadDate": "3 days ago",
+        "avgVideoLengthSeconds": 7817,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/ICEO0Na-NmkRKpOqOfCNwppM1dmcBzc-4iDDh4QuNVDWrxnRxaE9hBI6BqBo6RUV2LUEvqWQKQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T11:10:07.499Z"
+      },
+      "similarityScore": 42
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 31074948,
+        "channelId": "UCd1tp8Tg_tySDBPzfq-ZatQ",
+        "hasShorts": false,
+        "joinedDate": "2025-07-20T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCd1tp8Tg_tySDBPzfq-ZatQ",
+        "videoCount": 547,
+        "channelName": "Dragon X-No1Drama",
+        "description": "ðŸ”¥ Welcome to DragonX - No.1Drama! ðŸ”¥\nYour #1 destination for high-quality Chinese male-lead dramas with English dubbing or subtitles!\nðŸŽ¬ Genres We Cover: \nâ€¢  Rebirth & Revenge (é€†è¢­) \nâ€¢  Warlord & Battle Kings (æˆ˜ç¥ž) \n â€¢  Martial Arts & Power Fantasy (æ­¦æ‰“ / çƒ­è¡€çŽ„å¹»)  \nâ€¢  Son-in-law/Dragon King Stories (èµ˜å©¿ / é¾™çŽ‹)   \nðŸ“Œ New episodes uploaded every weekâ€”dubbed or subbed for global fans.\nSubscribe and never miss a twist! \nðŸ‘‰ Join the DragonX Brotherhood. Power. Drama. Destiny.",
+        "daysSinceStart": 405,
+        "avgVideoLength": "01:36:44",
+        "subscriberCount": 164000,
+        "lastVideoUploadDate": "9 hours ago",
+        "avgVideoLengthSeconds": 5804,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/vDObaosS3fBSvixvUpYjxFwTxl0RF4UllXyS60IIzX9LUZ4AOpRm7dsNwsE3ICtWXyovoojf=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/gxz4btYnhtNIeVZOiWalrIsz-9u27nDPKT64sjlQCxoQ9hGn11sW_Ur07HSzJQYukrmXuybA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T02:50:04.572Z"
+      },
+      "similarityScore": 38
+    },
+    {
+      "tags": [
+        "Urban Hero Film",
+        "minidrama",
+        "shortfilm",
+        "drama2026",
+        "billionaire",
+        "short drama",
+        "fantasy drama",
+        "drama shorts",
+        "chinese drama",
+        "mini series",
+        "ceo"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 2348656,
+        "channelId": "UCxyY-rEPTTJCnGe_4pVhqNg",
+        "hasShorts": true,
+        "joinedDate": "2026-04-21T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCxyY-rEPTTJCnGe_4pVhqNg",
+        "videoCount": 206,
+        "channelName": "Alpha Legend Drama",
+        "description": "ðŸ’¼ Welcome to Alpha Legend Mini Drama! \nYour ultimate destination for powerful stories of dominance and success. Discover the thrilling lives of hidden billionaires and legendary men rising to the top. \nðŸ‘‰ Subscribe now to witness the power! \n#alphalegends #MiniDrama #Billionaire",
+        "daysSinceStart": 130,
+        "avgVideoLength": "02:27:03",
+        "subscriberCount": 9130,
+        "lastVideoUploadDate": "19 hours ago",
+        "avgVideoLengthSeconds": 8823,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/OO8vMQHhuCDENZCy3sc9GMiD248qzz3HZVV42_X3GTV4ezuW-Z0ZTnZuoXBHiL5A_JL152ueCw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T14:00:04.989Z"
+      },
+      "similarityScore": 37
+    },
+    {
+      "tags": [
+        "anime",
+        "Comic",
+        "ComicSystem",
+        "ComicOverview",
+        "Novel",
+        "apaneseAnimation",
+        "ScienceFiction",
+        "System",
+        "Manga",
+        "Manhwa",
+        "Mangarecap",
+        "animerecap",
+        "recap"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "Hong Kong",
+        "viewCount": 161604,
+        "channelId": "UCCc9xfnEWKuZni-VMIfwH4w",
+        "hasShorts": false,
+        "joinedDate": "2022-08-20T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCCc9xfnEWKuZni-VMIfwH4w",
+        "videoCount": 116,
+        "channelName": "Survival Storyverse",
+        "description": "",
+        "daysSinceStart": 1470,
+        "avgVideoLength": "12:34:39",
+        "subscriberCount": 1990,
+        "lastVideoUploadDate": "1 month ago",
+        "avgVideoLengthSeconds": 131679,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/T2sGn-6pCzG7nm2udPc_hxOxn_LrpI0DRZIXs9i3YJ9lQ_T39D8Wzo9jTQ2tL6hIkDBu-5S_hg=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T22:05:06.567Z"
+      },
+      "similarityScore": 36
+    },
+    {
+      "tags": [
+        "femaleprotagonist",
+        "empowerment",
+        "drama",
+        "AIDrama",
+        "AIAnimation",
+        "AIstorytelling",
+        "revenge",
+        "bosslady",
+        "suspense",
+        "betrayal",
+        "womeninpower",
+        "AIart",
+        "shortdrama",
+        "transformation",
+        "series"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 906244,
+        "channelId": "UCwlmTwyR6BtUIxrIKsxBlew",
+        "hasShorts": false,
+        "joinedDate": "2026-07-13T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCwlmTwyR6BtUIxrIKsxBlew",
+        "videoCount": 81,
+        "channelName": "Heartbeat AI Drama",
+        "description": "ã€Creative Statement / Artistic & Safety Disclosureã€‘ Viewing is strictly prohibited for those under 18 years of age.\n\n1. Nature of Content: This channel primarily features original short films and television series, falling under the \"Artistic\" category in YouTube's EDSA policy.\n\n2. Child Safety: The minor characters featured in this episode are all professional/voluntary actors. All filming was conducted under the real-time supervision of a guardian to ensure a safe and compliant environment. Please do not imitate this behavior.\n\n3. Production Goal: The videos explore themes such as life philosophy, family, and workplace through fictional narratives and do not involve any dangerous, suggestive, or inappropriate behavior. \n\n#AIDrama #AIAnimation #AIstorytelling #AIart #femaleprotagonist #empowerment #drama #revenge #bosslady #suspense #betrayal #womeninpower #shortdrama #transformation #series",
+        "daysSinceStart": 47,
+        "avgVideoLength": "01:07:51",
+        "subscriberCount": 5760,
+        "lastVideoUploadDate": "17 hours ago",
+        "avgVideoLengthSeconds": 4071,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/UKQ5DV5MIZhKvcld9Npc9ANeTTAn9c8Lh69LfAQnWkpbN__CajP4fPog7UtnroRI8LyayBrE-w=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T13:35:31.462Z"
+      },
+      "similarityScore": 36
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "",
+        "viewCount": 286506,
+        "channelId": "UCdrEHdYCpYGiEEQNZPeOtiQ",
+        "hasShorts": false,
+        "joinedDate": "2026-04-09T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCdrEHdYCpYGiEEQNZPeOtiQ",
+        "videoCount": 46,
+        "channelName": "Talks under the Lantern",
+        "description": "Immerse yourself in the world of ancient cultivation and martial arts. This channel brings you the finest collection of Xianxia, Wuxia, and ancient short stories, focusing on clever protagonists and jaw-dropping plot twists. Every single story is 100% original.\nðŸ”¹ 100% Original Content: Every script is exclusively written and produced for this channel.\nðŸ”¹ Diverse Genres: Ancient Fantasy, Cultivation (Xianxia), Martial Arts (Wuxia), and action-driven male-oriented narratives.\nðŸ”¹ Unique Perspectives: Experience the rise of \"Masterminds\" and \"Anti-Heroes\" like never before.\nSubscribe now for Eastern legends you won't find anywhere else!ðŸ””",
+        "daysSinceStart": 142,
+        "avgVideoLength": "00:56:32",
+        "subscriberCount": 1600,
+        "lastVideoUploadDate": "2 days ago",
+        "avgVideoLengthSeconds": 3392,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/uC_bP_6wDCICif7JL0QWPHkATQZzTq3ZOUwehNQpLVlQdGATEUVzNdbt_QeQhPYefJnf4cNvMg=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/Q5fLcIG11aVWT82V0x12u1D72dsSWhay0ZWGh3qHeIqVJyIZ5Z-Ys3e8LLp3qcnODd3Bd8CjYwM=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-23T14:00:09.493Z"
+      },
+      "similarityScore": 34
+    },
+    {
+      "tags": [
+        "ceo",
+        "cinderalla",
+        "passion",
+        "urban",
+        "minidrama",
+        "action",
+        "system",
+        "comeback",
+        "rebirth",
+        "time travel",
+        "romance",
+        "comedy",
+        "sweet love",
+        "trending"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 315801,
+        "channelId": "UClCgXgGX0GJaG4DIn9jhTlg",
+        "hasShorts": false,
+        "joinedDate": "2026-04-02T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UClCgXgGX0GJaG4DIn9jhTlg",
+        "videoCount": 175,
+        "channelName": "Promptly Pulped Studio",
+        "description": "Welcome to Promptly Pulped Studio! ðŸ‘‹\n\nEver wondered what happens when you feed a supercomputer a wild imagination? ðŸ¤–âœ¨ We push the boundaries of Generative AI to deliver mind-bending plots and breathtaking art styles that were impossible yesterday! ðŸŽ¨ðŸ’¥\n\nOur mission is simple: to bridge the gap between \"Prompt\" and \"Masterpiece.\" ðŸŒ‰ We \"pulp\" the ordinary and serve it fresh! ðŸ¥¤ðŸ“–\n\nWhat youâ€™ll find here:\n\nðŸŽ¬ Cinematic AI Manga â€“ Stories that move you.\n\nðŸŒŒ Epic Worlds â€“ From Cyberpunk cities to Fantasy realms.\n\nâš¡ Daily/Weekly Drops â€“ Never-ending creative fuel.\n\nHit that Subscribe button and the bell ðŸ”” to never miss a frame of the AI revolution! ðŸŽžï¸ðŸ”¥",
+        "daysSinceStart": 149,
+        "avgVideoLength": "02:16:03",
+        "subscriberCount": 1930,
+        "lastVideoUploadDate": "13 hours ago",
+        "avgVideoLengthSeconds": 8163,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/bhUUdU120ZSjfHfty8FynNIJZZCmLzHXzrTcvBRdSsskdkNNMkSb1QGZLuEirFd7xFSS8oMZ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/O4JthHTInNwHDxecu8cxErTfjshqm0GxDfgSeNDMyIGMZf6sgcRKR7YARM9bahW8KF_1LHZYqVo=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-27T21:50:35.020Z"
+      },
+      "similarityScore": 34
+    },
+    {
+      "tags": [],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 88292293,
+        "channelId": "UC5XM_SrNB8_jgBtpwrux2VQ",
+        "hasShorts": false,
+        "joinedDate": "2024-11-26T07:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC5XM_SrNB8_jgBtpwrux2VQ",
+        "videoCount": 554,
+        "channelName": "Sunset Drama",
+        "description": "ðŸŽ¬Hello everyone! This is Sunset Drama ,a YouTube channel for Chinese short dramas.\nÂ©This channel is distributed or purchased by Hunan Liuyi Film and Television Culture Media Co., Ltd., and has obtained relevant authorized content!\nMember service has been opened, and we sincerely invite you to join and become our member supporter! Your support is our greatest motivation.\n\nðŸ”¥ We update special editions of Chinese drama series with high-quality English dubbed versions. \nOur short dramas cover various genres such as \n\nðŸ’¡ Martial arts, Revenge, Billionaire, Cultivate immortals,Compete,Inspirational, Mythology ,Tragedy ,Comedy, War, Family, campus, and more......\n\nðŸ‘ŠIf you enjoy our content, please like and subscribe to our channel. \n\nâœï¸You are also welcome to leave a message in the comment section to share your thoughts.",
+        "daysSinceStart": 641,
+        "avgVideoLength": "01:58:08",
+        "subscriberCount": 439000,
+        "lastVideoUploadDate": "21 hours ago",
+        "avgVideoLengthSeconds": 7088,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/Kr3oyL4z65wgTdjYKt6rtsVT1FBxLKTrdteCV9CLCMg2yqlzMyt7jSadSATOhcKze_zvv8QKag=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/7ch_vwyum-e5JM2Rg9WxbgwHxGp7D7w4B4kEhphkXxo-xm2MPVmCovkJ_qG4F2xopSwkd7tq=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-20T13:56:30.559Z"
+      },
+      "similarityScore": 32
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "TÃ¼rkiye",
+        "viewCount": 2626973,
+        "channelId": "UCoMdtZ14OLIIW76rhtKdsnA",
+        "hasShorts": true,
+        "joinedDate": "2025-02-03T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCoMdtZ14OLIIW76rhtKdsnA",
+        "videoCount": 77,
+        "channelName": "Rural life",
+        "description": "Hello, I am Fatima. Welcome to our peaceful rural life. Enjoy cooking and enjoying local and traditional foods in the heart of nature. Your love and support make us proud. Please like and share the videos and comment your opinions.\nPlease subscribe.\n\nRural life,\n local life,\n village,\n cooking,\n traditional \ncooking,",
+        "daysSinceStart": 572,
+        "avgVideoLength": "00:15:13",
+        "subscriberCount": 11900,
+        "lastVideoUploadDate": "7 days ago",
+        "avgVideoLengthSeconds": 913,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/_2KW8eNt69qKYH9dGsb3PYaqOGicPb-Tb-qKMdY0OcnrYh_7yvOD5sGSCyhKddPihd-Tqa9S=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/y6C8IDLOpuKMb1tFSoirFF49Gnqnld8QUtexSp5H81Hy4EURhe-hwhEFGyZGYmSDSR21kU_Smg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-19T12:11:06.667Z"
+      },
+      "similarityScore": 27
+    },
+    {
+      "about": {
+        "description": "My name is rafru sain mog from Tripura and let am here to show you all vlogs. My vlogs will be eating training roaming. Enjoying traditional village life and mony more..love youallauts rafru sain mog  is MC boys channel",
+        "subscriberCount": 1070,
+        "viewCount": 134962,
+        "videoCount": 283,
+        "joinedDate": "2024-01-26",
+        "country": null,
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCZ-hb4Ea_Qbv4jCZQqLFkQQ",
+        "channelId": "UCZ-hb4Ea_Qbv4jCZQqLFkQQ",
+        "daysSinceStart": 946,
+        "avgVideoLengthSeconds": 229.16326530612244,
+        "avgVideoLength": "03:49",
+        "channelName": "Mr Raifu anime",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/B_9QK1SENCwC1eh4jM5ovh4VWKwX4bSw4WLpas3Ki3zp15AiN5vpkfi7KcAY_6jXl0PIcw00TQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": true,
+        "lastVideoUploadDate": "3 days ago"
+      },
+      "channelId": "UCZ-hb4Ea_Qbv4jCZQqLFkQQ",
+      "keywords": [],
+      "tags": null,
+      "similarityScore": 26
+    },
+    {
+      "tags": [
+        "survival skills",
+        "alaska survival",
+        "outdoor survival",
+        "extreme survival",
+        "solo camping",
+        "solo survival",
+        "bogo survival",
+        "bushcraft camp",
+        "bushcraft camping",
+        "catch and cook",
+        "alone alaska",
+        "alaska hunting",
+        "siberia survival",
+        "winter survival"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 378665,
+        "channelId": "UCI4pQ0nkFZM-CBmJpRIDJwQ",
+        "hasShorts": false,
+        "joinedDate": "2026-03-26T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCI4pQ0nkFZM-CBmJpRIDJwQ",
+        "videoCount": 25,
+        "channelName": "BoGo Survival",
+        "description": "â–¶ Watch until the end to see how their survival journey truly unfolds.\nðŸ‘ Like, subscribe, and comment to support more survival recap videos.",
+        "daysSinceStart": 156,
+        "avgVideoLength": "00:37:32",
+        "subscriberCount": 2030,
+        "lastVideoUploadDate": "13 hours ago",
+        "avgVideoLengthSeconds": 2252,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/Lw2O4bj0dpBoF_GUBkQJI_JHQOls14gj--v-3NYNI_kahqXHZDFqGrr4gVP3IjoOUSRQx5Wi4g=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/Xu20dIK5cjBZcpCh9rfSw7hishFxyY_YXfH5s20iNKDZ49wdh_WTye6Tei3L0GrVkD7wxOtMIw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-28T19:15:16.984Z"
+      },
+      "similarityScore": 26
+    },
+    {
+      "about": {
+        "description": " ðŸ’• Welcome to your daily dose of Asian romance dramas ðŸ’–âœ¨\n\n ðŸ’• Enjoy short, addictive vertical stories full of love drama and sweet momentsâ€”all in English dub for easy watching anytime, anywhere ðŸ“±\n\nâœ¨ New episodes uploaded every day ðŸ“…\nâœ¨ Fast-paced, feel-good romance ðŸ’“\nâœ¨ English dubbed ðŸŽ™ï¸ + subtitles ðŸ’¬\n\n ðŸ’• Subscribe ðŸ”” and fall in love with a new story every day! ðŸŒŸ\n\n\nâœ…All rights reserved. Future TV Copyright Distribution.\n",
+        "subscriberCount": 37500,
+        "viewCount": 14985861,
+        "videoCount": 246,
+        "joinedDate": "2023-04-23",
+        "country": "United States",
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UC2bp6zv9t54mo4FiWi9aTTg",
+        "channelId": "UC2bp6zv9t54mo4FiWi9aTTg",
+        "daysSinceStart": 1224,
+        "avgVideoLengthSeconds": 1158.7833333333328,
+        "avgVideoLength": "2:19:18",
+        "channelName": "Heartline Drama",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/S9UxWKgL_1t_m7KpRmOv7yc0GvqZjcmyW9Nre6Gur7QFP3uU_lZ1MASOHtGxBJS-oW7da864kI8=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": true,
+        "lastVideoUploadDate": "16 hours ago"
+      },
+      "channelId": "UC2bp6zv9t54mo4FiWi9aTTg",
+      "keywords": [],
+      "tags": [
+        "Chinese short drama",
+        "English dubbed drama",
+        "romance short drama",
+        "CEO romance",
+        "contract marriage",
+        "hidden identity",
+        "billionaire drama",
+        "sweet romance",
+        "possessive love",
+        "female lead",
+        "romantic series",
+        "mini series",
+        "Cdrama English",
+        "strongfemalelead",
+        "womanempowerment",
+        "billionaireromance",
+        "rebirthdrama"
+      ],
+      "similarityScore": 26
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 7330125,
+        "channelId": "UC8PIquAIk2C99HbLhCuKF4A",
+        "hasShorts": false,
+        "joinedDate": "2025-10-10T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC8PIquAIk2C99HbLhCuKF4A",
+        "videoCount": 176,
+        "channelName": "DramaVibe Queen",
+        "description": "Welcome to DramaVibe Queen!\nHere, youâ€™ll find the most thrilling short dramas updated daily! ðŸ’¥ From revenge to romance, every story keeps you hooked.\nðŸŽ¬ All videos are officially licensed â€” enjoy watching and feel the drama!",
+        "daysSinceStart": 323,
+        "avgVideoLength": "01:41:17",
+        "subscriberCount": 39300,
+        "lastVideoUploadDate": "5 days ago",
+        "avgVideoLengthSeconds": 6077,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/99N1gyfSVvfWGLxpb6AGQWDtzbeydYQWqOyw16TqWAoyxqPuVVE-WLH7xCyOGqK8b6vqRb-gGg=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-23T12:30:08.701Z"
+      },
+      "similarityScore": 26
+    },
+    {
+      "tags": [
+        "trending",
+        "onlinedrama",
+        "film",
+        "movie",
+        "shorts",
+        "chinesedramaengsub",
+        "romanticshortchinesedrama",
+        "loveaftermarriagechinesedrama",
+        "newromanticchinesedrama",
+        "chinesedramamisunderstandingscene",
+        "cinderellalovestorychinesedrama",
+        "ceoandcinderellachinesedrama",
+        "Urban",
+        "Country",
+        "scifi",
+        "Supernatural",
+        "Magic",
+        "History",
+        "technology",
+        "shuangwen",
+        "travel",
+        "femalepet",
+        "malepet",
+        "girl",
+        "goddess",
+        "malegod",
+        "smallfreshmeat"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 5118734,
+        "channelId": "UCxyyxEM5rQ6Fnt_Y9SpIo-Q",
+        "hasShorts": false,
+        "joinedDate": "2026-04-07T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCxyyxEM5rQ6Fnt_Y9SpIo-Q",
+        "videoCount": 141,
+        "channelName": "HeartSkip Drama",
+        "description": "ðŸ’•Hello, drama fans! ðŸ’•\nðŸ˜‰Welcome to our \"HeartSkip Drama\" channel!\nðŸŽ¬Enjoy short, exciting dramas in various genres you loveâ€”such as romance, revenge, and familyâ€”with thrilling, movie-like experiences! It's the perfect choice when you want to relax or escape reality!\nâ€¼ï¸All content is protected by copyright. Legal action will be taken against any copyright infringement.\nðŸ“ŒCaution: Some scenes may contain suspenseful plots and special effects. Do not imitate the scenes in the video. All stories are fictional and created for entertainment purposes only.\nðŸ§’Children under 18 must watch under parental supervision.\nðŸ””If you enjoy our dramas, please like, comment, subscribe, and turn on notifications! That way, you won't miss any new episodes!",
+        "daysSinceStart": 144,
+        "avgVideoLength": "02:04:12",
+        "subscriberCount": 14200,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 7452,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/TucWuoGNy3bzK_IVy-qFWnuf_4VYsDGUNnlpbihFFVErMGdx28RUnYEsu38B_Ap2pe8UeHdHuA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-28T18:41:17.502Z"
+      },
+      "similarityScore": 25
+    },
+    {
+      "tags": [
+        "minidrama",
+        "fyp",
+        "mandrama",
+        "counterattack",
+        "revenge",
+        "suspense",
+        "godwar",
+        "system",
+        "beauties",
+        "reversal",
+        "cdrama",
+        "chinesedrama",
+        "immoetal",
+        "cultivation",
+        "maxbro"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 22935238,
+        "channelId": "UC-QlQVENxuRS_FfvanDp4yA",
+        "hasShorts": false,
+        "joinedDate": "2025-05-29T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC-QlQVENxuRS_FfvanDp4yA",
+        "videoCount": 401,
+        "channelName": "MaxBro TV",
+        "description": "ðŸ”¥ MAXBRO TV â€“ MAXIMUM BROTHERHOOD! ðŸ”¥\nThe ULTIMATE BRO ZONE!\nEpic Revenge | Finance Boss Battles | Ruthless Showdowns | Killer Strategies â€” NO CHILL, ALL THRILL!\n\nâš–ï¸ OFFICIALLY LICENSED, INFRINGEMENTS WILL BE CRUSHED!\n100% Authentic Content | CINEMA-LEVEL QUALITY | Zero Compromise!\nhttps://bit.ly/4kMcat0\n\nðŸ”¥ SMASH SUBSCRIBE ðŸ‘‰ UNLOCK YOUR MAX BRO POWER!",
+        "daysSinceStart": 457,
+        "avgVideoLength": "01:55:12",
+        "subscriberCount": 84100,
+        "lastVideoUploadDate": "9 hours ago",
+        "avgVideoLengthSeconds": 6912,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/4u6N1xekPMJ3I65JAvd0E0D28CIcai32uxC2gLZG4aBynTFIZ5x0PsjyPrrDi855Ppxv8XC0=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/cI4XB8pyhJoztzkxUTHKtzj4LHgVZQV9FyYPX9hBsod_IWHbMzyEi9KcJqoEJEqnB5_2jQYjVA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-26T06:15:17.412Z"
+      },
+      "similarityScore": 24
+    },
+    {
+      "tags": [
+        "no man's sky",
+        "valheim",
+        "guide",
+        "tips",
+        "no mans sky",
+        "no mans sky guide",
+        "no mans sky tips",
+        "valheim guide",
+        "valheim tips",
+        "no mans sky live",
+        "valheim live",
+        "gaming",
+        "gaming live",
+        "gaming guide",
+        "gaming tips",
+        "no mans sky 2022",
+        "valheim 2022",
+        "no mans sky best",
+        "valheim best",
+        "no mans sky how to",
+        "valheim how to",
+        "how to in",
+        "tips and tricks guide",
+        "best way to",
+        "how to find",
+        "no mans sky content",
+        "valheim content",
+        "no man's sky videos",
+        "valheim videos",
+        "no man's sky xaine's world",
+        "valheim xaine"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "xainesworld.com",
+            "title": "Xaine's World Official Website"
+          },
+          {
+            "url": "discord.gg/M7AheT3",
+            "title": "Discord"
+          },
+          {
+            "url": "patreon.com/xainesworld",
+            "title": "Patreon"
+          },
+          {
+            "url": "twitch.tv/xainesworld",
+            "title": "Twitch"
+          },
+          {
+            "url": "twitter.com/XainesWorld",
+            "title": "Twitter"
+          },
+          {
+            "url": "facebook.com/xainesworld",
+            "title": "Facebook"
+          }
+        ],
+        "country": "United Kingdom",
+        "viewCount": 20203576,
+        "channelId": "UCzTB8EBVJWkzJi2sQjdBv9g",
+        "hasShorts": true,
+        "joinedDate": "2015-12-15T13:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCzTB8EBVJWkzJi2sQjdBv9g",
+        "videoCount": 700,
+        "channelName": "Xaine's World",
+        "description": "I find the best ways to do things and then make a video on it. Gaming, Maths and Min Maxing everything.\n\nPrimarily covering No Man's Sky, Starfield, Valheim, and some souls-like goodness with Elden Ring and Lords of the Fallen in the future.\n\n\nLA0P8A",
+        "daysSinceStart": 3910,
+        "avgVideoLength": "01:01:08",
+        "subscriberCount": 83700,
+        "lastVideoUploadDate": "5 days ago",
+        "avgVideoLengthSeconds": 3668,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_mIWH-Lq-Pts9I5yvGQpnvNqzCD2bOZ4KgewQY6GsTmmVw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/p3wQIBRwJryh8PNHEKXa6feGdR03gx7Kb2OB7oWEylcY1QB8dWjFGPetHlmV3qAkIYE94VnLbw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-19T18:06:39.787Z"
+      },
+      "similarityScore": 23
+    },
+    {
+      "tags": [
+        "drama",
+        "pakistani drama",
+        "pakistani dramas",
+        "best pakistani drama",
+        "ary drama",
+        "aespa",
+        "ì—ìŠ¤íŒŒ",
+        "karina",
+        "winter",
+        "ë“œë¼ë§ˆ",
+        "ary",
+        "faraar drama",
+        "sun mere dil",
+        "cdrama",
+        "overlord",
+        "nice",
+        "popular",
+        "cinderella",
+        "movie",
+        "fantasy",
+        "baby",
+        "funny",
+        "chinese drama",
+        "ceo",
+        "kdrama",
+        "trending",
+        "chinese drama eng sub",
+        "new chinese drama",
+        "chinese dramas",
+        "drama china",
+        "shorts",
+        "top 10",
+        "viral"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 17979382,
+        "channelId": "UCjTo1ZPRh7vF31AV2_9L6aw",
+        "hasShorts": false,
+        "joinedDate": "2025-10-24T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCjTo1ZPRh7vF31AV2_9L6aw",
+        "videoCount": 686,
+        "channelName": "Tom Drama",
+        "description": "ðŸ“¢ðŸ“¢ðŸ“¢Here you'll find tons of romantic, CEO, revenge, time-travel, comeback, plot twists, moral dilemmas, reincarnation, and intense love dramas that will keep you hooked and totally addicted! ðŸ”¥ Watch them all in one go for the ultimate binge experience!\n\nðŸ‘‰ More exciting videos await on  @TomDrama-l7t\n\nHit that subscribe button and join us in watching these thrilling dramasâ€”let's enjoy every shocking and emotional moment together! ðŸ’–\n\nðŸŽ¬All our videos are officially licensedðŸŽ¥",
+        "daysSinceStart": 309,
+        "avgVideoLength": "01:33:20",
+        "subscriberCount": 85600,
+        "lastVideoUploadDate": "4 hours ago",
+        "avgVideoLengthSeconds": 5600,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/eaYtaYxMCGRyjfjr5ilI5Ozmq3Q36EuXEyYqY4rwgEmTpB-JjAlymr_7DTEJkx08ehrMvxqx=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T15:50:04.352Z"
+      },
+      "similarityScore": 23
+    },
+    {
+      "tags": [
+        "çŸ­åŠ‡",
+        "éœ¸é“ç¸½è£",
+        "ç°å§‘å¨˜",
+        "ç†±é–€çŸ­åŠ‡æŽ¨è–¦",
+        "short drama",
+        "Chinese drama",
+        "å„ªè³ªå°èªªæ”¹ç·¨",
+        "ç”œå¯µ",
+        "æ„›æƒ…",
+        "è™æˆ€",
+        "å¶åƒåŠ‡",
+        "æƒ…æ„Ÿ",
+        "popular short drama",
+        "wonderful short drama",
+        "popular costume short drama",
+        "Korean drama",
+        "costume sweet pet drama",
+        "emperor",
+        "princess",
+        "prince",
+        "general",
+        "costume love"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 25249422,
+        "channelId": "UCWrQ6FjrQfdVa-QL-JPt4zQ",
+        "hasShorts": false,
+        "joinedDate": "2024-07-04T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCWrQ6FjrQfdVa-QL-JPt4zQ",
+        "videoCount": 326,
+        "channelName": "Sarah Sweet Drama",
+        "description": "â¤ï¸â¤ï¸â¤ï¸Welcome to mia's channel\nðŸ’•ðŸ’•ðŸ’•I'll be updating you with the latest, greatest and most complete ancient sweet, revenge and other dramas!",
+        "daysSinceStart": 786,
+        "avgVideoLength": "02:13:30",
+        "subscriberCount": 194000,
+        "lastVideoUploadDate": "59 minutes ago",
+        "avgVideoLengthSeconds": 8010,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/PPrSzGLCyzqml4NC9ac8Ilmrwb6htCdcjiqJXkSru8C9BaUkHvfPwuoqhW5Iso2Eu_UEINwrmnY=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-29T15:20:08.481Z"
+      },
+      "similarityScore": 22
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "title": "ShortMax",
+            "url": "cps-front.shorttv.live/app-api/sp/20250827r5EokVDiSt"
+          }
+        ],
+        "country": "United States",
+        "viewCount": 23582780,
+        "channelId": "UClhhtG_tE2it7wWA6EZh6eQ",
+        "hasShorts": false,
+        "joinedDate": "2025-08-05T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UClhhtG_tE2it7wWA6EZh6eQ",
+        "videoCount": 381,
+        "channelName": "Rush Drama",
+        "description": "Welcome to subscribeã€RUSH DRAMAã€‘  \nClick the link for more videosï¼šhttps://cps-front.shorttv.live/app-api/sp/20250827r5EokVDiSt\n#tvseries #Wonderful drama#counterattack reversal short drama\n#ChineseDrama #tvshow #Chinese skits #Short Films\nã€rush dramaã€‘https://www.youtube.com/@Rush-Drama/videos",
+        "daysSinceStart": 389,
+        "avgVideoLength": "00:29:27",
+        "subscriberCount": 103000,
+        "lastVideoUploadDate": "5 hours ago",
+        "avgVideoLengthSeconds": 1767.75,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/yMpiPv9Ockl8cW8dhOvxyt_brLjcaEmzwZ4Rqm-z7no3i5Qzl9JFBds2maidWi8dsQRmP_P4tA=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/FKbM628PKSzOUxvq8D4Zm4pg1HZUj0EEiInBKAO8h3QFDiVMBAXGP5be1KDhYMPLwxKgpG71HVY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-24T20:35:24.827Z"
+      },
+      "similarityScore": 22
+    },
+    {
+      "tags": [
+        "MMA",
+        "MMA News",
+        "mma news",
+        "ufc news",
+        "UFC",
+        "UFC News",
+        "MMA Updates",
+        "UFC Updates",
+        "ufc updates",
+        "mma chaos",
+        "mma chaos news",
+        "islam makhachev",
+        "khabib",
+        "conor mcroger",
+        "khamzat chimaev",
+        "ilia topuria",
+        "paddy pimblett",
+        "mma",
+        "ufc",
+        "news",
+        "daniel cormier",
+        "tom aspinall",
+        "jon jones",
+        "jon jones vs aspinall",
+        "islam vs topuria",
+        "islam vs khamzat"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 427,
+        "channelId": "UCSDXN3OGcPnATNNkZwjjD_A",
+        "hasShorts": false,
+        "joinedDate": "2025-10-07T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCSDXN3OGcPnATNNkZwjjD_A",
+        "videoCount": 17,
+        "channelName": "Gacha Stories",
+        "description": "Welcome to Gacha Stories â€” your destination for epic anime-inspired stories, powerful main characters, and unforgettable adventures! âš¡\n\nDive into exciting stories featuring overpowered MCs, gacha systems, reincarnation, leveling systems, fantasy worlds, hidden powers, monsters, heroes, villains, and multiverse adventures.\n\nFrom an ordinary character becoming an unstoppable legend to mysterious systems granting incredible abilities, every story brings a new journey filled with action, suspense, comedy, romance, and unexpected twists.\n\nðŸŽ¬ What youâ€™ll find here:\n\nðŸ”¥ Overpowered MC & System Stories\nðŸŽ° Gacha & Summoning Stories\nâš”ï¸ Reincarnation & Isekai Adventures\nðŸŒŒ Fantasy & Multiverse Stories\nðŸ“ˆ Leveling & Power-Up Stories\nâ¤ï¸ Romance, Harem & Character Development\nðŸ‘‘ Underdog-to-Overpowered Journeys\n\nSubscribe to Gacha Stories and join us for a new world of stories where anything can happen! ðŸš€",
+        "daysSinceStart": 326,
+        "avgVideoLength": "00:51:57",
+        "subscriberCount": 6190,
+        "lastVideoUploadDate": "42 minutes ago",
+        "avgVideoLengthSeconds": 3117,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/tgK6-JZIM4MZPKLhk-S1rKMUFoDws_2TkyCcykEQMawyPYHBXNfetIQ8XDBzy9mstl3DDgQwow=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-21T04:34:20.787Z"
+      },
+      "similarityScore": 20
+    },
+    {
+      "tags": [
+        "gaming",
+        "genshin impact",
+        "witcher",
+        "cyberpunk",
+        "assassin's creed",
+        "RPG",
+        "MMORPG",
+        "Single player",
+        "Story",
+        "Single player story",
+        "Choices matter",
+        "RPGs",
+        "Mass Effect",
+        "Dragon Age",
+        "Online RPG",
+        "Baldur's Gate"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "",
+        "viewCount": 31238578,
+        "channelId": "UCgGdmTQNvGT9FJwBFkIq4kQ",
+        "hasShorts": true,
+        "joinedDate": "2016-07-17T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCgGdmTQNvGT9FJwBFkIq4kQ",
+        "videoCount": 1595,
+        "channelName": "Northalix",
+        "description": "Choices & consequences, cool story driven cutscenes, moments of interest, romances etc...\n\nI just make videos that I like\n\nThanks for visiting the channel!",
+        "daysSinceStart": 3695,
+        "avgVideoLength": "00:14:15",
+        "subscriberCount": 9630,
+        "lastVideoUploadDate": "9 days ago",
+        "avgVideoLengthSeconds": 855,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/vlWghej7Fni7HUGGvKFDAOHPs_NkKJA_ptv_jqqETz9bfllM3KdbKQRVtG0OSjMHA5ExMcaT_Q=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/NXQybl4QEo5lRk19ZyX-4cYAnrA55EAjcyNwSO4jAd4yj0Y9KOzrHCyNzSB43PktDoj3E-6E_g=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-25T05:50:07.425Z"
+      },
+      "similarityScore": 20
+    },
+    {
+      "tags": [
+        "cosmetics",
+        "brand",
+        "Cosmetics reviews",
+        "reviews",
+        "shampoo reviews",
+        "Cosmetics brands",
+        "Pakistani brand",
+        "Best review",
+        "new cosmetics brand",
+        "cosmetics products",
+        "Girls Around The World âœ…",
+        "Girlsaroundtheworld",
+        "vlogging",
+        "daily routine life",
+        "remote areas",
+        "rural life",
+        "roural",
+        "Village",
+        "Girls around the world 7"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "Pakistan",
+        "viewCount": 819806,
+        "channelId": "UCd43-0KvfXBQ2eq6lzKMN2Q",
+        "hasShorts": true,
+        "joinedDate": "2024-01-22T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCd43-0KvfXBQ2eq6lzKMN2Q",
+        "videoCount": 128,
+        "channelName": "Girls Around The World 7",
+        "description": "Girls Around The World âœ…\n\nWelcome to( Girls Around the world 7) YouTube channel \nI am from Pakistan, and on this channel I explore the beautiful cultures and daily lives of people from around the world. Here you will watch village life, traditional cooking, local food, farming, mountain life, and the real daily routines of different countries and communities.\nMy videos show how people live, cook, work, and enjoy simple rural life in different parts of the world. If you love culture, travel, village lifestyle, and traditional food, this channel is for you.\n\nSubscribe and join the journey to explore amazing cultures and beautiful village life from around the world.",
+        "daysSinceStart": 950,
+        "avgVideoLength": "00:14:17",
+        "subscriberCount": 13400,
+        "lastVideoUploadDate": "11 hours ago",
+        "avgVideoLengthSeconds": 857,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/08dpVooyZXsLzH9WDiw-5zLJT2G8_YT5cZ_UMjtQEO2TyxgTHWzaGV6Zb6QujJWVcL58Toor=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-24T11:00:01.912Z"
+      },
+      "similarityScore": 20
+    },
+    {
+      "tags": [
+        "Outback Survival",
+        "Quantum Tech HD"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "paypal.me/Sumatras?country.x=VN&locale.x=en_US",
+            "title": "Donate"
+          }
+        ],
+        "country": "Estados Unidos",
+        "viewCount": 1084750,
+        "channelId": "UCxRh01Iv7kdjbqxjo1QxB1g",
+        "hasShorts": true,
+        "joinedDate": "2024-10-04T22:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCxRh01Iv7kdjbqxjo1QxB1g",
+        "videoCount": 47,
+        "channelName": "Outback Survival",
+        "description": "Dive into the heart of the wilderness as we explore the art of survival in the great outdoors. Whether you're a seasoned adventurer or just starting your journey, our channel offers valuable tips, tricks, and techniques to help you thrive in any environment.\n\nJoin us as we demonstrate essential survival skills, from foraging for food and building shelters to navigating challenging terrains and understanding wildlife. Weâ€™ll take you on thrilling adventures across breathtaking landscapes, sharing stories and insights that inspire confidence and resilience.\n\nSubscribe to Outback Survival for weekly content that empowers you to embrace nature, face challenges head-on, and master the skills you need to survive and thrive in the wild!\n\nGet ready to embark on an unforgettable journey into the Outback!",
+        "daysSinceStart": 693,
+        "avgVideoLength": "00:51:23",
+        "subscriberCount": 8820,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 3083,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/ov1vKzj-YknHXirwnnlsuFeutQn8w8QyVj4_uVPoWBZ059DQ_lJ_yWbIyAykF9pDng9o1Fxiww=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/ifED26tyLitdKx6veb5tBQcNJAfaaV2_kLUsmawA4euwiXG4QueElpDldr475_-e13J3xQj8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-07T18:00:01.986Z"
+      },
+      "similarityScore": 20
+    },
+    {
+      "tags": [
+        "MANHWA",
+        "anime",
+        "manga",
+        "MANHUA",
+        "recap",
+        "summary",
+        "dongua Transcript"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 2969045,
+        "channelId": "UCSKFtFt5vlUWdnKkImtIVeQ",
+        "hasShorts": true,
+        "joinedDate": "2024-06-20T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCSKFtFt5vlUWdnKkImtIVeQ",
+        "videoCount": 620,
+        "channelName": "King's Manhwa Recap2",
+        "description": "#manhwa #manga #anime #manhua #recap #manhwarecap #SUMMARY #webtoon\nHere is King's Manhwa Recap2 channel,\nHere are the most interesting and exciting manhwas, subscribe and follow my channel to see the latest manhwa videos every day.\nIf you have any favorite manhwas. Please let me know in the comment section.",
+        "daysSinceStart": 800,
+        "avgVideoLength": "22:52:00",
+        "subscriberCount": 16200,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 82320,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/mLRPOxm_0ggWyeouODOQ69QOupZOaiGK59QRk2CCefrE34vT1uFP8IBM7jG3lHL73WiVcPJyJ9c=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/gbtmqEmYkYsLVxK0pn2NByD45dgfxVwx81ROvzWlOH02Iih69ul0A3OsKuAbAIHseYz9G-WvZPY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-29T13:45:33.480Z"
+      },
+      "similarityScore": 20
+    },
+    {
+      "tags": [
+        "The Core Gameplay",
+        "video games",
+        "gaming",
+        "gameplay",
+        "mmo",
+        "mmorpg"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "twitch.tv/thecoregameplay",
+            "title": "Twitch"
+          },
+          {
+            "url": "instagram.com/thecoregameplay",
+            "title": "Instagram"
+          },
+          {
+            "url": "x.com/TheCoreGameplay",
+            "title": "X"
+          },
+          {
+            "url": "facebook.com/thecoregameplay",
+            "title": "Facebook"
+          },
+          {
+            "url": "tiktok.com/@thecoregameplay",
+            "title": "TikTok"
+          }
+        ],
+        "country": "Ãfrica do Sul",
+        "viewCount": 9722960,
+        "channelId": "UCVw48jaa6iEbuYUNDqbdfuQ",
+        "hasShorts": true,
+        "joinedDate": "2013-05-28T07:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCVw48jaa6iEbuYUNDqbdfuQ",
+        "videoCount": 801,
+        "channelName": "TheCoreGameplay",
+        "description": "Star Citizen beginner tutorials, money guides & ship reviews. Easy gameplay tips for new players.\n\nLearn how to make millions in Star Citizen with step-by-step guides perfect for beginners. From starter ships to advanced money-making methods, I break down complex gameplay into simple tutorials.\n\nEmail for business inquiries / sponsorships:\nthecoregameplay@gmail.com",
+        "daysSinceStart": 4841,
+        "avgVideoLength": "00:11:06",
+        "subscriberCount": 27300,
+        "lastVideoUploadDate": "3 days ago",
+        "avgVideoLengthSeconds": 666,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/4KQtjRnFsPi90pH8HvT1X2xds-oW9bW788ZY0fftPo9QuTJtk6S_qwZvy1F1AXi3-EIZ-w0V0A=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/_ONvFHJSILP6hEUEmqM8ixQaOecctJNQfsowF3jaSgFPT_gz40lf9meq-9CwYBMty8ANzneWgA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-22T17:27:25.814Z"
+      },
+      "similarityScore": 19
+    },
+    {
+      "tags": [
+        "Arctic Survival 5.0",
+        "Arctic Survival",
+        "Polar Survival",
+        "Extreme Cold Survival",
+        "Ice Survival Skills",
+        "Winter Survival Challenge",
+        "Wilderness Survival Arctic",
+        "Polar Expedition Life",
+        "Frozen Survival",
+        "Snow Survival Training",
+        "Survival in the Arctic",
+        "Arctic Adventure",
+        "Polar Wild Life",
+        "Cold Weather Survival",
+        "Extreme Arctic Conditions",
+        "Frozen Wilderness",
+        "Sled Dog Surviva",
+        "Arctic Bushcraft",
+        "Real Survival Stories",
+        "North Pole Survival"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "youtube.com/channel/UCAIpZbXUITsplPFP4AiYhyg",
+            "title": "youtube"
+          }
+        ],
+        "country": "United States",
+        "viewCount": 18668,
+        "channelId": "UCAIpZbXUITsplPFP4AiYhyg",
+        "hasShorts": false,
+        "joinedDate": "2025-12-11T19:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCAIpZbXUITsplPFP4AiYhyg",
+        "videoCount": 33,
+        "channelName": "Arctic Survival 5.0",
+        "description": "Welcome to Arctic Survival!\nDive into the ultimate adventure of survival in the harshest environments on Earth â€” the Arctic. From freezing temperatures to treacherous ice landscapes, we explore real survival techniques, gear reviews, expert tips, and inspiring stories from those who have braved the polar extremes.\n\nWhether you're an outdoor enthusiast, adventurer, or just curious about life at the edge of the world â€” this is your go-to destination for REAL Arctic survival insights.\n\nðŸ”¹ Weekly Episodes\nðŸ”¹ Practical Survival Skills\nðŸ”¹ Gear & Tech Tested in Extreme Cold\nðŸ”¹ Real Stories from the Arctic Wild\n\nSubscribe now and join our journey into the heart of the icy frontier!",
+        "daysSinceStart": 260,
+        "avgVideoLength": "00:11:01",
+        "subscriberCount": 43,
+        "lastVideoUploadDate": "1 day ago",
+        "avgVideoLengthSeconds": 661,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/sqsTFsItkLgqIwMjndkxHAaPlBE0cQsZ9-V9YaXg3KDfAT3iHeocc_o-p80Tmh_ypCkAvy--IRs=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/7swElM36_t8P6DjAhCPM7irTP_CVZ5xGUgYMpF-YHVAj3CXv0AfhE5prB5-LR3kKe6jQrHjFvg=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-08-18T18:00:57.041Z"
+      },
+      "similarityScore": 18
+    },
+    {
+      "tags": [
+        "Donghua",
+        "Donghua3D",
+        "ChineseAnime",
+        "Cultivation",
+        "Xianxia",
+        "Wuxia",
+        "Xuanhuan",
+        "System",
+        "PowerFantasy",
+        "MaleLead",
+        "AnimeForMen",
+        "StrongHero",
+        "AntiHero",
+        "OPMC",
+        "GodLevel",
+        "Reincarnation",
+        "DonghuaEnglish",
+        "DonghuaRecap",
+        "DonghuaReview",
+        "DonghuaFight",
+        "DonghuaMoments",
+        "MotionComic",
+        "VoiceComic",
+        "EpicStory",
+        "WorldBuilding",
+        "ActionPacked",
+        "FantasySeries",
+        "WeeklyUpdate",
+        "NewComic",
+        "ViralComic",
+        "MartialArts",
+        "234 anime"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [],
+        "country": "United States",
+        "viewCount": 1621,
+        "channelId": "UC-BzV3oNhCwu7-4We2cjDDQ",
+        "hasShorts": false,
+        "joinedDate": "2026-06-07T00:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC-BzV3oNhCwu7-4We2cjDDQ",
+        "videoCount": 6,
+        "channelName": "234 Anime",
+        "description": "Welcome to \"234 Anime\" âœ¨! We offer a massive library of anime titles, with exciting new content added continuouslyâ€”if you enjoy what you see, please hit that Subscribe button! ðŸ’– Thrilling new episodes air right on schedule every week! ~ðŸŽ¬\n\nForget everything you know about animation. This is the next level. This is where Chinese Donghua meets pulse-pounding storytelling, where every upload is a ticket to another dimension packed with martial artists, cultivation gods, system cheats, reincarnated villains, and drop-dead gorgeous animation. If you live for epic fight scenes, unexpected plot twists, overpowered MCs, and characters that feel alive, you just found home. ðŸ âœ¨\n\nðŸ“© Business Inquiries / Job: phamtanvbhp2018@gmail.com",
+        "daysSinceStart": 83,
+        "avgVideoLength": "00:05:48",
+        "subscriberCount": 7,
+        "lastVideoUploadDate": "1 month ago",
+        "avgVideoLengthSeconds": 348.8000000000002,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/Nx2jakixFssLzuqJ-OZeRzR5S3hPE-Ns0qkzt0MZtnrsUAnanWmiF4TxPWYt05_PI2xHy21QMw=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-08-03T08:25:09.686Z"
+      },
+      "similarityScore": 17
+    },
+    {
+      "about": {
+        "description": "\n",
+        "subscriberCount": 2110,
+        "viewCount": 535178,
+        "videoCount": 75,
+        "joinedDate": "2026-06-29",
+        "country": "United States",
+        "links": [],
+        "channelUrl": "https://youtube.com/channel/UCOj2KsvzTYNF7XtaGpvzd0g",
+        "channelId": "UCOj2KsvzTYNF7XtaGpvzd0g",
+        "daysSinceStart": 61,
+        "avgVideoLengthSeconds": 3153.698113207547,
+        "avgVideoLength": "1:52:33",
+        "channelName": "Omni Drama",
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/xFYJzUucUxY0lhNFUEBlbQtv_lQrbtyGexg4hozySWODSBPnGafnu9k7pFiUhPvBdrr96YSDkuQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 160,
+            "height": 160
+          }
+        ],
+        "hasShorts": false,
+        "lastVideoUploadDate": "7 hours ago"
+      },
+      "channelId": "UCOj2KsvzTYNF7XtaGpvzd0g",
+      "keywords": [],
+      "tags": null,
+      "similarityScore": 16
+    },
+    {
+      "tags": null,
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "tiktok.com/@erlindang?_t=8kqh61Q7Bpp&_r=1",
+            "title": "TIKTOK"
+          }
+        ],
+        "country": "",
+        "viewCount": 37017724,
+        "channelId": "UCVOKMAw6amcxi5N4ZEo7ZKg",
+        "hasShorts": true,
+        "joinedDate": "2020-05-11T19:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCVOKMAw6amcxi5N4ZEo7ZKg",
+        "videoCount": 2063,
+        "channelName": "Erlindang Plays",
+        "description": "Uploads 8:00pm PH TIMEâ¤ï¸\n\nFor business / Partnership\nðŸ“© manzanatyrone@gmail.com\nTelegram: @erlindang",
+        "daysSinceStart": 2300,
+        "avgVideoLength": "00:18:47",
+        "subscriberCount": 138000,
+        "lastVideoUploadDate": "11 hours ago",
+        "avgVideoLengthSeconds": 1127,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/tZPxtZPJsrv5ZZViN-XLhfrgMSMzDIq4p6DjCTxVqB2Ky2xTvCKRC-NKFqyd9dnQmL7GwQg-=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/3i9zj1DmAsUeqDxKlR2otieGMbrCIRwEL59vzZira_IKs7Dm6ZSBCkvaOIYxODejYTocVN5A0Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-24T18:35:41.182Z"
+      },
+      "similarityScore": 16
+    },
+    {
+      "tags": [
+        "gaming",
+        "star citizen",
+        "starfield",
+        "pgr",
+        "phaseone",
+        "phaseone gaming",
+        "phaseone gaming redefined",
+        "pgr star citizen",
+        "phaseone star citizen"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "twitch.tv/pgr_ttv",
+            "title": "Twitch"
+          },
+          {
+            "url": "instagram.com/pgr_official_",
+            "title": "Instagram"
+          },
+          {
+            "url": "x.com/PGR_Official_",
+            "title": "Twitter"
+          },
+          {
+            "url": "discord.gg/5CUXDvUuRt",
+            "title": "Discord"
+          }
+        ],
+        "country": "Canada",
+        "viewCount": 3356289,
+        "channelId": "UCemNqvBqVZU7fAVhUx5pf7A",
+        "hasShorts": true,
+        "joinedDate": "2017-11-19T05:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UCemNqvBqVZU7fAVhUx5pf7A",
+        "videoCount": 1305,
+        "channelName": "PGR",
+        "description": "This Channel covers all you need to know about Star Citizen.",
+        "daysSinceStart": 3205,
+        "avgVideoLength": "00:34:31",
+        "subscriberCount": 14300,
+        "lastVideoUploadDate": "6 hours ago",
+        "avgVideoLengthSeconds": 2071,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/QkNGnmth6uv7ISltopeNcjycfigzaOLJtSbtXMv0eAT18d5kWftwhngOwLk-kxbCcIcUlSUn5A=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": null,
+        "updatedAt": "2026-07-16T05:50:22.668Z"
+      },
+      "similarityScore": 15
+    },
+    {
+      "tags": [
+        "RCCH",
+        "RCCHGaming",
+        "RCCHGaming123",
+        "Ronald RCCH",
+        "Ronald",
+        "RC",
+        "RCCH123",
+        "tower defense",
+        "defense",
+        "RCCH1",
+        "pvz",
+        "pvz heroes",
+        "heroes",
+        "card game",
+        "fry em up",
+        "pvzh",
+        "highlight comp",
+        "fail comp",
+        "clash royale",
+        "royal giant",
+        "cr",
+        "plants",
+        "vs",
+        "zombies",
+        "plants vs zombies",
+        "pvz2",
+        "plants vs zombies 2",
+        "project",
+        "project eclise",
+        "eclise mod",
+        "eclise",
+        "pvztryhard",
+        "highlights",
+        "fails",
+        "hard mode",
+        "brutal mode",
+        "living dead",
+        "pvz mod",
+        "pvz mods",
+        "hard mode mod",
+        "brutal mode ex",
+        "hardex",
+        "brutal mode extra",
+        "difficult pvz mods",
+        "kaizo"
+      ],
+      "keywords": [],
+      "about": {
+        "links": [
+          {
+            "url": "youtube.com/channel/UC8dbZ5fPVHfK75F4SLjNSaQ/join",
+            "title": "Join as a Channel Member"
+          },
+          {
+            "url": "discord.gg/tz5ayEe",
+            "title": "Discord"
+          },
+          {
+            "url": "instagram.com/rcchyt",
+            "title": "Instagram"
+          }
+        ],
+        "country": "Australia",
+        "viewCount": 49017182,
+        "channelId": "UC8dbZ5fPVHfK75F4SLjNSaQ",
+        "hasShorts": true,
+        "joinedDate": "2019-02-21T05:00:00.000Z",
+        "channelUrl": "http://www.youtube.com/channel/UC8dbZ5fPVHfK75F4SLjNSaQ",
+        "videoCount": 575,
+        "channelName": "RCCH",
+        "description": "Avid strategy game enjoyer\n\nYou may know me as RCCHGaming123 but just call me RCCH.\n\nUpload at least every other Saturday...\n\nPrevious Plants vs. Zombies: Heroes competitive player. Now mainly a Modded PvZ1/PvZ2 Content Creator.\n\nMy name is Ronald, but I prefer you to just call me RCCH. You may know me as \"RCCHGaming123\". Thanks for reading this and I hope you're having a great day!\n\nInsta: instagram.com/rcchyt\nDiscord: https://discord.gg/tz5ayEe\n\nThe only thing you'll find me do on Twitter is complain to YouTube. I don't post anything there\n\nFeel free to subscribe to me on Twitch at twitch.tv/rcchgaming123 to support me, but note I don't stream on Twitch anymore. You can find me live on YouTube (unscheduled)",
+        "daysSinceStart": 2746,
+        "avgVideoLength": "00:28:00",
+        "subscriberCount": 167000,
+        "lastVideoUploadDate": "2 months ago",
+        "avgVideoLengthSeconds": 1680,
+        "thumbnail": [
+          {
+            "url": "https://yt3.googleusercontent.com/ytc/AIdro_lB5nZq5D6pb46DSzGDYDkjMLcxkIQmf1nJoby23UJBqQ=s160-c-k-c0x00ffffff-no-rj",
+            "width": 200,
+            "height": 200
+          }
+        ],
+        "banner": "https://yt3.googleusercontent.com/vfMD1pmW0CERquEnUFlkYbttQd0U9cR91boQoMQUkj8a6KSb0h8MYuFAewYsox3mDAVwQm7bQKI=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "updatedAt": "2026-07-24T15:00:56.759Z"
+      },
+      "similarityScore": 15
+    }
+  ],
+  "totalResults": 75
+}
+
+

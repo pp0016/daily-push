@@ -1,0 +1,4 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+Star mask test...
+Mask non-zero count: 1344

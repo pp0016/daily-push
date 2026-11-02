@@ -1,0 +1,33 @@
+C:\Users\renu5\AppData\Local\Programs\Python\Python311\Lib\site-packages\iopaint\model\ldm.py:279: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  @torch.cuda.amp.autocast()
+2026-10-25 17:40:16.223 | INFO     | iopaint.model_manager:init_model:47 - Loading model: lama
+2026-10-25 17:40:16.225 | INFO     | iopaint.helper:load_jit_model:107 - Loading model from: C:\Users\renu5/.cache\torch\hub\checkpoints\big-lama.pt
+Matched 4 files:
+ - Coworkers_in_underground_parking�_20261025035921.jpg
+ - Driver_turning_car_into_parking_20261025035921.jpg
+ - Driver_view_inside_car_cabin_20261025035921.jpg
+ - Driving_car_in_underground_parking_20261025035921.jpg
+[MagicEraser] Loading LaMa FFC Inpainting Model on cpu...
+[MagicEraser] Model ready.
+
+[1/4] Processing: Coworkers_in_underground_parking�_20261025035921.jpg...
+[MagicEraser] Inpainted tile: 120x120 at (1218, 610). Canvas untouched: 98.64%
+  -> Saved full cleaned image to: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Coworkers_in_underground_parking�_20261025035921.jpg
+
+[2/4] Processing: Driver_turning_car_into_parking_20261025035921.jpg...
+[MagicEraser] Inpainted tile: 120x120 at (1218, 610). Canvas untouched: 98.64%
+  -> Saved full cleaned image to: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_turning_car_into_parking_20261025035921.jpg
+
+[3/4] Processing: Driver_view_inside_car_cabin_20261025035921.jpg...
+[MagicEraser] Inpainted tile: 120x120 at (1218, 610). Canvas untouched: 98.64%
+  -> Saved full cleaned image to: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_view_inside_car_cabin_20261025035921.jpg
+
+[4/4] Processing: Driving_car_in_underground_parking_20261025035921.jpg...
+[MagicEraser] Inpainted tile: 120x120 at (1218, 610). Canvas untouched: 98.64%
+  -> Saved full cleaned image to: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driving_car_in_underground_parking_20261025035921.jpg
+
+--- SUMMARY REPORT ---
+[1] Coworkers_in_underground_parki...: Untouched: 99.47%, Saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Coworkers_in_underground_parking�_20261025035921.jpg
+[2] Driver_turning_car_into_parkin...: Untouched: 99.45%, Saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_turning_car_into_parking_20261025035921.jpg
+[3] Driver_view_inside_car_cabin_2...: Untouched: 99.46%, Saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driver_view_inside_car_cabin_20261025035921.jpg
+[4] Driving_car_in_underground_par...: Untouched: 99.48%, Saved: C:\Users\renu5\Downloads\Oct 24 - 23_36\magic_eraser_results\Driving_car_in_underground_parking_20261025035921.jpg
